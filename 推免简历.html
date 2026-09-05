@@ -71,7 +71,7 @@
       }
       .contact {
         margin-top: 3pt;
-        font-size: 9.75pt;
+        font-size: 10.5pt;
         color: #222;
         line-height: 1.5;
       }
@@ -117,7 +117,7 @@
         background: #eef4ff;
         border-left: 3pt solid #4478df;
         color: #4478df;
-        font-size: 12pt;
+        font-size: 13pt;
         font-weight: 700;
         -webkit-text-stroke: 0.25pt currentColor;
         letter-spacing: 1pt;
@@ -136,14 +136,40 @@
         align-items: baseline;
         gap: 8pt;
       }
-      .t1 {
+      .project-row {
+        display: grid;
+        width: 100%;
+        grid-template-columns: minmax(0, 1fr) 52pt 8pt 82pt;
+        column-gap: 4pt;
+        align-items: baseline;
+      }
+      .project-row .t1 {
+        min-width: 0;
+      }
+      .project-row .meta {
+        min-width: 0;
+        font-weight: 700;
+      }
+      .project-sep {
+        text-align: center;
+        font-weight: 700;
+      }
+      .project-row .meta:last-child {
+        text-align: right;
+        white-space: nowrap;
         font-size: 10.5pt;
+      }
+      .edu-row .t1 {
+        font-size: 11.5pt;
+      }
+      .t1 {
+        font-size: 12pt;
         font-weight: 700;
         color: #222;
         line-height: 1.2;
       }
       .meta {
-        font-size: 9.75pt;
+        font-size: 10.5pt;
         color: #222;
         white-space: nowrap;
       }
@@ -159,7 +185,7 @@
         line-height: 1.4;
       }
       .edu-major {
-        font-size: 9.75pt;
+        font-size: 10.5pt;
         color: #222;
         margin-left: 8pt;
       }
@@ -168,7 +194,7 @@
         font-weight: 400;
       }
       .sub {
-        font-size: 9.75pt;
+        font-size: 10.5pt;
         color: #222;
         margin-top: 1.5pt;
         line-height: 1.4;
@@ -182,7 +208,7 @@
         margin-top: 2pt;
       }
       .honor-item {
-        font-size: 9.75pt;
+        font-size: 10.5pt;
         line-height: 1.35;
         color: #222;
         display: flex;
@@ -203,7 +229,7 @@
         margin-top: 4.5pt;
       }
       .role {
-        font-size: 9.75pt;
+        font-size: 10.5pt;
         color: #222;
         font-weight: 600;
         margin-top: 1pt;
@@ -248,7 +274,7 @@
       .ul li {
         position: relative;
         padding-left: 10pt;
-        font-size: 9.75pt;
+        font-size: 10.5pt;
         line-height: 1.33;
         margin-top: 0.5pt;
       }
@@ -277,7 +303,7 @@
       }
       .intro {
         margin-top: 1.5pt;
-        font-size: 9.75pt;
+        font-size: 10.5pt;
         line-height: 1.33;
         color: #222;
       }
@@ -287,7 +313,7 @@
       }
       .stack {
         margin-top: 1.5pt;
-        font-size: 9.75pt;
+        font-size: 10.5pt;
         line-height: 1.33;
       }
       .proj .stack {
@@ -309,7 +335,7 @@
       .work li {
         position: relative;
         padding-left: 13pt;
-        font-size: 9.75pt;
+        font-size: 10.5pt;
         line-height: 1.33;
         margin-top: 0.5pt;
       }
@@ -352,38 +378,38 @@
 <section class="sec">
   <h2 contenteditable="true">教育背景</h2>
   <div class="body">
-    <div class="row">
+    <div class="row edu-row">
       <span class="t1" contenteditable="true"
         >武汉科技大学｜计算机科学与技术学院｜计算机科学与技术<span class="edu-sub"
-          >（ESI 前 1% 国家级一流专业）</span
+          >（ESI前 1% 国家一流专业）</span
         ></span
       ><span class="meta" contenteditable="true">2023.09—至今</span>
     </div>
     <div class="sub" contenteditable="true">
-      绩点：3.36　·　排名：16 / 207　·　英语成绩：CET4（455 分）
+      GPA：3.36　·　排名：16 / 207　·　英语成绩：CET4（455 分）
     </div>
-    <div class="sub" contenteditable="true">
-      · 所学课程：计算机组成原理；Python
-      数据分析与机器学习；计算机视觉；数字逻辑与数字系统
-    </div>
-    <div class="sub" contenteditable="true">
-      · 所获荣誉：校级二等奖学金；优秀学生；先进个人；优秀共青团员
-    </div>
+    <ul class="ul education-list">
+      <li contenteditable="true">
+        所学课程：计算机组成原理(91)，Python 数据分析与机器学习(86)，计算机视觉(91)，数字逻辑与数字系统(90)
+      </li>
+      <li contenteditable="true">
+        所获荣誉：校级二等奖学金，优秀学生，先进个人，优秀共青团员
+      </li>
+    </ul>
   </div>
 </section>
 <section class="sec">
   <h2 contenteditable="true">荣誉证书</h2>
   <div class="body">
     <div class="sub certificate-summary" contenteditable="true">
-      共荣获 2 个国家级荣誉，1 个省级奖项，3 个大厂证书
+      共荣获 2 个国家级荣誉，1 个省级奖项，3 个大厂证书，若干校级荣誉
     </div>
     <div class="honors-grid">
-      <div class="honor-item"><span contenteditable="true">国家励志奖学金</span><span class="year" contenteditable="true">2024</span></div>
-      <div class="honor-item"><span contenteditable="true">国家励志奖学金</span><span class="year" contenteditable="true">2025</span></div>
-      <div class="honor-item"><span contenteditable="true">中国人工智能及机器人大赛省级三等奖</span><span class="year" contenteditable="true">2024</span></div>
-      <div class="honor-item"><span contenteditable="true">腾讯广告-大前端菁英班证书</span><span class="year" contenteditable="true">2025</span></div>
-      <div class="honor-item"><span contenteditable="true">金山办公-web 全栈菁英工程师培养计划证书</span><span class="year" contenteditable="true">2025</span></div>
-      <div class="honor-item"><span contenteditable="true">华为 HarmonyOS 应用开发者证书</span><span class="year" contenteditable="true">2025</span></div>
+      <div class="honor-item"><span contenteditable="true">国家励志奖学金</span><span class="year" contenteditable="true">国家级 · 2024和2025</span></div>
+      <div class="honor-item"><span contenteditable="true">中国人工智能及机器人大赛三等奖</span><span class="year" contenteditable="true">省级 · 2024</span></div>
+      <div class="honor-item"><span contenteditable="true">腾讯广告-大前端菁英班证书</span><span class="year" contenteditable="true">知名大厂 · 2025</span></div>
+      <div class="honor-item"><span contenteditable="true">金山办公-web 全栈菁英工程师培养计划证书</span><span class="year" contenteditable="true">知名大厂 · 2025</span></div>
+      <div class="honor-item"><span contenteditable="true">华为 HarmonyOS 应用开发者证书</span><span class="year" contenteditable="true">知名大厂 · 2025</span></div>
     </div>
   </div>
 </section>
@@ -391,15 +417,22 @@
   <h2 contenteditable="true">项目经历</h2>
   <div class="body">
     <div class="proj">
-      <div class="row">
+      <div class="row project-row">
         <span class="t1" contenteditable="true"
-          >CamTalk——面向实时多模态交互的低延迟 AI 对话系统</span
-        ><span class="meta" contenteditable="true">项目经历</span>
+          >CamTalk—面向实时多模态交互的低延迟 AI 对话系统</span
+        ><span class="meta" contenteditable="true">项目负责人</span
+        ><span class="project-sep">·</span
+        ><span class="meta" contenteditable="true">2026.04—2026.08</span>
       </div>
       <div class="intro" contenteditable="true"><span class="lb">项目描述：</span>CamTalk 是一个融合摄像头视觉、麦克风语音和大语言模型的实时对话系统，支持语音识别、多模态理解、流式回复、多轮上下文和个性化对话情景，重点解决实时交互中的数据冗余、响应延迟和会话可靠性问题。</div>
       <div class="intro" contenteditable="true"><span class="lb">个人贡献：</span>负责端侧 VAD、关键帧检测和自适应视觉采样策略的设计与实现，减少冗余数据传输；参与基于 CloudWeGo Eino 的 STT–LLM–TTS 流式编排，实现增量文本和音频推送；实现多轮会话、用户自定义 Prompt 情景及设备管理，并参与分层存储、会话恢复和实时通信功能开发。</div>
       <div class="proj">
-        <div class="row"><span class="t1" contenteditable="true">基于 YOLOv8 的 PCB 缺陷检测系统</span></div>
+        <div class="row project-row">
+          <span class="t1" contenteditable="true">基于 YOLOv8 的 PCB 缺陷检测系统</span
+          ><span class="meta" contenteditable="true">项目负责人</span
+          ><span class="project-sep">·</span
+          ><span class="meta" contenteditable="true">2025.04—2025.08</span>
+        </div>
         <div class="intro" contenteditable="true"><span class="lb">项目描述：</span>针对工业质检场景，构建覆盖 6 类常见 PCB 缺陷（缺孔、鼠咬、断路、短路、毛刺、多余铜）的目标检测系统，完成从数据集构建、模型训练、指标评估到推理可视化的全流程开发。</div>
         <div class="intro" contenteditable="true"><span class="lb">个人贡献：</span>独立完成 1800 张图像数据集的构建与训练/验证集划分；基于 COCO 预训练权重进行迁移学习，采用 AdamW 优化器与动态学习率衰减完成 GPU 训练；通过 mAP、Precision/Recall、混淆矩阵等多维指标完成模型评估与误差分析；实现基于 OpenCV 的推理可视化模块，支持缺陷自动定位与批量预测。</div>
       </div>
@@ -414,7 +447,7 @@
         <span class="t1" contenteditable="true"
           >国家网络安全人才与创新基地｜武汉金银湖实验室</span
         ><span class="meta" contenteditable="true"
-          >软件开发 · 2025-12 ~ 2026-05</span
+          >科研实习 · 2025-12 ~ 2026-05</span
         >
       </div>
       <div class="role"><strong>工作内容：</strong>协作可信开源态势感知平台迭代开发</div>
@@ -425,42 +458,37 @@
         <span class="t1" contenteditable="true"
           >东软集团｜东软医疗健康事业部</span
         ><span class="meta" contenteditable="true"
-          >软件开发 · 2026-06 ~ 2026-08</span
+          >全栈开发 · 2026-06 ~ 2026-08</span
         >
       </div>
       <div class="role"><strong>工作内容：</strong>协作 HIS 医院信息管理系统（武汉黄家湖医院）web 端和小程序端迭代开发</div>
-      <ul class="ul"><li class="numli"><span class="num">1.</span>参与医院 HIS 智能化系统前端研发，实现人脸识别登录、AI 智能客服等功能，完成图像采集处理与 AI 接口联调。</li><li class="numli"><span class="num">2.</span>围绕医疗场景开展身份认证与智能问答方案探索，设计可复用组件及异常处理机制，提升系统可靠性与扩展性。</li></ul>
+      <ul class="ul"><li class="numli"><span class="num">1.</span>参与医院 HIS 智能化系统研发，实现人脸识别登录、AI 智能客服等功能，完成图像采集处理与 AI 接口联调。</li><li class="numli"><span class="num">2.</span>围绕医疗场景开展身份认证与智能问答方案探索，设计可复用组件及异常处理机制，提升系统可靠性与扩展性。</li></ul>
     </div>
     <div class="exp">
       <div class="row">
         <span class="t1" contenteditable="true">武汉洪飞智巡科技有限公司</span
         ><span class="meta" contenteditable="true"
-          >软件开发 · 2025-07 ~ 2025-09</span
+          >前端开发 · 2025-07 ~ 2025-09</span
         >
       </div>
       <div class="role"><strong>工作内容：</strong>协作供应链安全巡检平台（国家电网）迭代开发</div>
-      <ul class="ul"><li class="numli"><span class="num">1.</span>开发供应链巡检平台核心功能：实现 SBOM 依赖树可视化，漏洞按扫描/资产两级分级，许可证三类分组合规展示。</li><li class="numli"><span class="num">2.</span>实现检测报告生成功能：6 种格式导出，异步生成 + 5s 状态轮询追踪进度，blob 下载做 JSON 错误兜底。</li></ul>
+      <ul class="ul"><li class="numli"><span class="num">1.</span>开发供应链巡检平台核心功能：实现 SBOM 依赖树可视化，漏洞按扫描/资产两级分级，许可证分组合规展示。</li><li class="numli"><span class="num">2.</span>实现检测报告生成功能：6 种格式导出，异步生成 + 5s 状态轮询追踪进度，blob 下载做 JSON 错误兜底。</li></ul>
     </div>
   </div>
 </section>
 <section class="sec">
-  <h2 contenteditable="true">校园经历</h2>
+  <h2 contenteditable="true">校园经历与技能专长</h2>
   <div class="body">
     <ul class="ul">
-      <li contenteditable="true">担任团支部书记。</li>
-      <li contenteditable="true">担任人工智能协会副会长。</li>
-    </ul>
-  </div>
-</section>
-<section class="sec">
-  <h2 contenteditable="true">专业技能</h2>
-  <div class="body">
-    <ul class="ul">
+      <li contenteditable="true">担任团支部书记，校级人工智能协会副会长，校级攀登者机器人协会核心成员</li>
       <li contenteditable="true">
-        软件使用：熟练掌握 Office、Excel 等软件，通过计算机二级考试。
+        网络与全栈：熟悉接口联调与跨端适配，善用 Element Plus、Vue DevUI 等 UI 组件库，熟悉 Git 与 CI/CD
       </li>
       <li contenteditable="true">
-        性格沉稳、有耐心、抗压能力强，具备较好的科研素养和科研工作能力。
+AI 应用开发：熟悉大模型接入、SSE 流式解析与多轮对话，具备良好 Prompt 工程能力，熟悉 skill、mcp 等技巧
+      </li>
+      <li contenteditable="true">
+AI 工程化：熟练使用 Claude Code、ChatGPT 等 AI 编码工具，熟悉 Harness 工程与需求/验证 Loop 工作流
       </li>
     </ul>
   </div>
