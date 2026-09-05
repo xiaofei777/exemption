@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>个人简历｜可编辑模板</title>
+  <style>
+    :root{--blue:#3555a5;--ink:#202938;--muted:#667085;--line:#d9e0ee;--paper:#fff}
+    *{box-sizing:border-box} body{margin:0;background:#eef1f7;color:var(--ink);font-family:"Aptos","PingFang SC","Microsoft YaHei",Arial,sans-serif;line-height:1.55}
+    .toolbar{position:sticky;top:0;z-index:5;display:flex;justify-content:center;gap:10px;padding:12px;background:#17254b;color:#fff;box-shadow:0 2px 10px #17254b30}
+    button,.file-label{border:1px solid #ffffff55;background:#ffffff18;color:#fff;border-radius:7px;padding:7px 13px;cursor:pointer;font-size:13px}.file-label input{display:none}.hint{font-size:12px;opacity:.8;margin-left:8px;align-self:center}
+    .paper{width:210mm;min-height:297mm;margin:24px auto;background:var(--paper);padding:15mm 14mm 13mm;box-shadow:0 8px 35px #15234a18}
+    .hero{display:grid;grid-template-columns:1fr 104px;gap:22px;align-items:start;border-bottom:4px solid var(--blue);padding-bottom:9px}.name{font-size:31px;font-weight:800;letter-spacing:2px;color:var(--blue);margin:0 0 8px}.contact{display:grid;grid-template-columns:1fr 1fr;gap:5px 18px;font-size:13px;color:#3f4a5a}.contact span b{color:var(--blue);margin-right:7px}.avatar{width:98px;height:126px;object-fit:cover;border-radius:4px;border:1px solid #dbe2ef;cursor:pointer}.section{margin-top:13px}.section-title{display:flex;align-items:center;gap:9px;color:#fff;font-size:16px;font-weight:700;margin:0 0 8px}.section-title:before{content:"";width:37px;height:29px;border-radius:3px 0 0 3px;background:var(--blue)}.section-title span{background:var(--blue);padding:4px 16px 4px 0;min-width:130px}.section-title:after{content:"";height:2px;background:var(--blue);flex:1;margin-left:-9px}.entry{position:relative;padding:2px 0 6px 0}.entry-head{display:flex;justify-content:space-between;gap:15px;color:var(--blue);font-weight:700;font-size:14px}.entry-head .role{color:#445066;font-weight:500;white-space:nowrap}.entry p{margin:3px 0;font-size:12.5px}.entry ul{margin:3px 0 0 17px;padding:0;font-size:12.5px}.entry li{margin:1px 0}.grid-info{display:grid;grid-template-columns:1fr 1fr;gap:4px 14px}.tagline{font-size:12.5px;color:#445066}.editable{outline:none;border-radius:3px}.editable:focus{background:#f2f5ff;box-shadow:0 0 0 2px #8da4e755}.add{float:right;border:0;background:none;color:var(--blue);font-size:12px;padding:1px 4px}.remove{float:right;color:#b42318;border:0;background:none;font-size:12px;padding:1px 4px}.footer-note{text-align:center;color:#98a2b3;font-size:11px;margin-top:8px}
+    @media print{body{background:#fff}.toolbar{display:none}.paper{margin:0;box-shadow:none;width:210mm;min-height:297mm}.editable:focus{background:none;box-shadow:none}}
+    @media(max-width:800px){.paper{width:100%;margin:0;padding:24px 20px}.hero{grid-template-columns:1fr 84px}.avatar{width:80px;height:105px}.contact{grid-template-columns:1fr}.toolbar{flex-wrap:wrap}}
+  </style>
+</head>
+<body>
+  <div class="toolbar"><button onclick="window.print()">打印 / 导出 PDF</button><button onclick="saveResume()">保存修改</button><button onclick="resetResume()">恢复示例</button><label class="file-label">更换照片<input id="photo" type="file" accept="image/*"></label><span class="hint">蓝色文字区域均可直接点击编辑</span></div>
+  <main class="paper" id="resume">
+    <header class="hero">
+      <div><h1 class="name editable" contenteditable="true">姓名 xxx</h1><div class="contact"><span><b>政治面貌</b>共青团员</span><span><b>出生年月</b>2005 年 x 月</span><span><b>电　　话</b>138 xxxx xxxx</span><span><b>邮　　箱</b>name@163.com</span></div></div>
+      <img class="avatar" id="avatar" src="assets/avatar.png" alt="个人照片" title="点击上方“更换照片”上传" />
+    </header>
+
+    <section class="section"><h2 class="section-title"><span>教育背景</span><button class="add" onclick="addEntry(this)">＋添加经历</button></h2>
+      <article class="entry"><div class="entry-head"><span class="editable" contenteditable="true">xx 大学｜化学化工学院｜化学工程与工艺专业</span><span class="editable" contenteditable="true">2022.09—至今</span></div><div class="grid-info"><p class="editable" contenteditable="true">绩点：3.9 / 4.0　｜　排名：1 / 79</p><p class="editable" contenteditable="true">英语成绩：CET4（567 分）；CET6（582 分）</p></div><p class="editable" contenteditable="true">· 相关课程：化工原理下（100）；化工热力学（99）；物理化学上（99）</p><p class="editable" contenteditable="true">· 所获荣誉：三菱日联银行奖学金；优秀学生；先进个人；校级优秀干事</p></article>
+    </section>
+
+    <section class="section"><h2 class="section-title"><span>竞赛奖项</span><button class="add" onclick="addEntry(this)">＋添加奖项</button></h2><article class="entry"><p class="editable" contenteditable="true"><b>国家级奖项 2 项；省部级奖项 1 项</b></p><ul><li class="editable" contenteditable="true">全国大学生化工过程数字化创新竞赛｜国家级一等奖</li><li class="editable" contenteditable="true">全国大学生化工设计大赛｜国家级二等奖</li><li class="editable" contenteditable="true">第十五届全国大学生数学竞赛｜校级二等奖</li><li class="editable" contenteditable="true">第三届“外研社词达人杯”全国大学生英语词汇竞赛｜山东省二等奖</li><li class="editable" contenteditable="true">第十届科技创新大赛｜校级二等奖；校优秀奖学金｜多次；英语阅读大赛｜校级二等奖</li></ul></article></section>
+
+    <section class="section"><h2 class="section-title"><span>科研经历</span><button class="add" onclick="addEntry(this)">＋添加项目</button></h2>
+      <article class="entry"><div class="entry-head"><span class="editable" contenteditable="true">通过自清洁 MXene@CNF@FeOOH 水净化膜增强层状纳米限制间隙内的锑去除</span><span class="role editable" contenteditable="true">2024.02—2024.04｜校级科创｜团队成员</span></div><p class="editable" contenteditable="true">· 项目简介：针对有毒重金属锑（Sb）污染及 MXene 基膜机械强度差、易污染问题，设计自清洁、机械坚固的独立式层状 MCF 膜，研究其对锑的吸附和动态拦截性能。</p><p class="editable" contenteditable="true">· 负责工作：文献调研，梳理总结实验并撰写说明文档，参与答辩。</p></article>
+      <article class="entry"><div class="entry-head"><span class="editable" contenteditable="true">“MXene@MOF@CNF 纳米复合膜的构建及对水体中六价 Cr 的光催化还原研究”</span><span class="role editable" contenteditable="true">2024.04—至今｜省级大创｜团队成员</span></div><p class="editable" contenteditable="true">· 项目简介：结合 MOF、CNF 与 MXene 的优势制备复合膜，开展对 Cr(VI) 的吸附—光催化协同还原研究。</p><p class="editable" contenteditable="true">· 负责工作：选题探究、文献调研、MOF 和 MXene 制备、复合膜性能研究及膜表征学习。</p><p class="editable" contenteditable="true">· 项目收获：熟练掌握紫外分光光度仪、真空抽滤装置、真空干燥箱，了解 SEM、XRD、XPS 基本原理和使用。</p></article>
+      <article class="entry"><div class="entry-head"><span class="editable" contenteditable="true">第十九届全国大学生化工设计竞赛</span><span class="role editable" contenteditable="true">2024.11—2025.05｜国家二等奖｜团队成员</span></div><p class="editable" contenteditable="true">· 项目简介：为大型化工企业设计二甲基亚砜清洁生产分厂。</p><p class="editable" contenteditable="true">· 主要工作：撰写 15 万字初步设计说明书及专项报告，完成经济、物料及能量核算，整合团队工作。</p></article>
+    </section>
+
+    <section class="section"><h2 class="section-title"><span>校园经历</span><button class="add" onclick="addEntry(this)">＋添加内容</button></h2><article class="entry"><p class="editable" contenteditable="true">· 学生工作：曾参加国旗班，参与日常升旗、青岛五四升旗、爱国主义教育演讲等活动。</p><p class="editable" contenteditable="true">· 校园活动：积极参加朗诵比赛、知识竞赛等，志愿服务累计 200 余小时。</p><p class="editable" contenteditable="true">· 社会实践：参与三下乡廉洁教育宣讲团，团队被中国青年网报道。</p></article></section>
+    <section class="section"><h2 class="section-title"><span>个人优势</span></h2><article class="entry"><p class="editable" contenteditable="true">· 软件使用：熟练掌握 Office、Excel 等软件，通过计算机二级考试。</p><p class="editable" contenteditable="true">· 性格沉稳、有耐心、抗压能力强，具备较好的科研素养和科研工作能力。</p></article></section>
+    <div class="footer-note">提示：编辑完成后点击“保存修改”，下次打开本页会自动恢复内容。</div>
+  </main>
+  <script>
+    const key='resume-html-v1';
+    function saveResume(){localStorage.setItem(key,document.getElementById('resume').innerHTML);alert('已保存到本机浏览器。')}
+    function resetResume(){if(confirm('确定恢复示例内容吗？')){localStorage.removeItem(key);location.reload()}}
+    const saved=localStorage.getItem(key); if(saved) document.getElementById('resume').innerHTML=saved;
+    document.getElementById('photo').addEventListener('change',e=>{const f=e.target.files[0];if(!f)return;const r=new FileReader();r.onload=()=>{document.getElementById('avatar').src=r.result;localStorage.setItem('resume-photo',r.result)};r.readAsDataURL(f)});
+    const photo=localStorage.getItem('resume-photo');if(photo)document.getElementById('avatar').src=photo;
+    function addEntry(btn){const sec=btn.closest('.section');const first=sec.querySelector('.entry');const clone=first.cloneNode(true);clone.querySelectorAll('.editable').forEach(e=>{e.innerText='点击此处填写内容'});const old=clone.querySelector('.remove');if(old)old.remove();const rem=document.createElement('button');rem.className='remove';rem.innerText='删除';rem.onclick=()=>clone.remove();clone.prepend(rem);sec.appendChild(clone)}
+  </script>
+</body></html>
