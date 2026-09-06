@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-page-node-id="QBVeOe8fHDWWQ045sjIYCZ">
+<head data-page-node-id="X7TV9mO4admLCXrvDopqe2">
+<meta charset="UTF-8" data-page-node-id="Oepf2EqlqvCvdqXBgCSSz9">
+<meta name="viewport" content="width=device-width, initial-scale=1.0" data-page-node-id="5lmdzaytSYmENf0GCTDhAg">
+<title>保研面试问题准备 · 项目一（NEU-DET 缺陷检测）</title>
+<style>
+  body {
+    font-family: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+    color: #222;
+    max-width: 860px;
+    margin: 0 auto;
+    padding: 40px 32px;
+    line-height: 1.75;
+    font-size: 15px;
+  }
+  h1 {
+    font-size: 22px;
+    border-bottom: 2px solid #4478df;
+    padding-bottom: 10px;
+    margin-bottom: 6px;
+  }
+  .subtitle { color: #666; font-size: 13px; margin-bottom: 28px; }
+  h2 {
+    font-size: 17px;
+    color: #4478df;
+    margin-top: 34px;
+    margin-bottom: 12px;
+  }
+  .q {
+    margin: 10px 0;
+    padding: 10px 14px;
+    background: #f7f9fd;
+    border-left: 3px solid #c5d7f5;
+    border-radius: 0 6px 6px 0;
+  }
+  .q .no { font-weight: 700; color: #4478df; margin-right: 6px; }
+  .q .star { color: #e05a3a; font-weight: 700; }
+  .hint {
+    margin-top: 6px;
+    font-size: 13.5px;
+    color: #555;
+  }
+  .hint b { color: #333; }
+  .warn {
+    background: #fdf3f0;
+    border-left-color: #e05a3a;
+  }
+  .warn .hint b { color: #c2452a; }
+  .tips {
+    background: #f2f7f2;
+    border: 1px solid #cfe3cf;
+    border-radius: 8px;
+    padding: 14px 18px;
+    margin-top: 26px;
+  }
+  .tips h3 { margin: 0 0 8px; font-size: 15px; }
+  .tips ul { margin: 0; padding-left: 20px; }
+  .tips li { margin: 4px 0; }
+  .meta-box {
+    background: #f7f9fd;
+    border-radius: 8px;
+    padding: 14px 18px;
+    margin-bottom: 24px;
+    font-size: 13.5px;
+    color: #444;
+  }
+  @media print {
+    body { padding: 0; }
+    .q { break-inside: avoid; }
+  }
+</style>
+</head>
+<body data-page-node-id="93iIOKjUze9R9EqXH1vdzI">
+
+<h1 data-page-node-id="y2jAy2vqQMEbABvXNJbqSg">保研面试问题准备 · 项目一</h1>
+<div class="subtitle" data-page-node-id="6bDuyxZ0N1OV51y6kiLv26">面向热轧带钢产线质检的注意力增强缺陷检测系统（NEU-DET 基准）｜整理于 2026-09-06</div>
+
+<div class="meta-box" data-page-node-id="X50LM6o2HxbfNA89JWXe4y">
+<b data-page-node-id="ZnKaHpsOwa5N6I23r4F8tl">项目一句话回顾：</b>误差归因发现最难类裂纹 mAP@0.5 仅 52.2% → 在 YOLOv8 Neck 端嵌入 CBAM 通道-空间双重注意力 → 同数据、同超参消融实验验证：整体 mAP@0.5 由 77.5% 提升至约 80%~81%，最难类提升至约 57%~60%，单张推理 3ms。成果获中国国际大学生创新创业大赛校级银奖（推荐省赛），技术被武汉洪飞智巡科技有限公司采用。
+</div>
+
+<h2 data-page-node-id="ToouN67gFkurLOGgj3Kn6a">第一层：基础事实题（必问，答错直接减分）</h2>
+
+<div class="q" data-page-node-id="rmC4Lz8Xsdt7uKnNfoabwV"><span class="no" data-page-node-id="4cVhsQ3HXPKt1VwEdImsTI">1.</span>NEU-DET 数据集具体是什么？6 类缺陷是哪 6 类？1800 张怎么划分的（1620/180），为什么这么划？</div>
+<div class="q" data-page-node-id="dYB1Cm9mIOHO8S2NWv9qdq"><span class="no" data-page-node-id="0NAoKIlNsA9mRh2S9ycWws">2.</span>mAP@0.5 和 mAP@0.5:0.95 的区别是什么？你的 77.5% 和 42.5% 分别怎么算出来的？</div>
+<div class="q" data-page-node-id="8qhhnLKMS9e4dV47HlBP0Z"><span class="no" data-page-node-id="P2oV9A35abos46akJGJGS4">3.</span>迁移学习具体怎么做的？为什么用 COCO 预训练权重？输入尺寸、数据增强用了哪些？</div>
+<div class="q" data-page-node-id="l2FJZjRsdagM0nQP0iyVfX"><span class="no" data-page-node-id="9zFUSQskSt75ECRXuC4TIB">4.</span>AdamW 和 SGD 的区别？为什么选 AdamW？余弦学习率调度是怎么工作的？</div>
+<div class="q" data-page-node-id="Bm7SaXyzulohEf7iUa1yIn"><span class="no" data-page-node-id="TMh1EcgY79j8eQQ0tXGqBy">5.</span>「单张推理 3ms」在什么硬件上测的？batch size、输入分辨率是多少？</div>
+
+<h2 data-page-node-id="3UzwvSwAmZf32y29UcZ86K">第二层：CBAM 原理题（核心卖点，一定深挖）</h2>
+
+<div class="q" data-page-node-id="c6p8Eyp9nr6b4WQHOhHIN2"><span class="star" data-page-node-id="7VUgrvh7uAsDHYPSSniO9E">6.★</span>CBAM 的通道注意力和空间注意力分别怎么实现？通道注意力里平均池化和最大池化为什么要同时用？</div>
+<div class="q warn" data-page-node-id="TeAiP2Y5DQ0luxdDtRRl7n"><span class="star" data-page-node-id="OjbDAlxKE8piafgw3YedEY">7.★</span>你把 CBAM 加在 Neck 端——为什么放 Neck 而不是 Backbone？两种放法你对比过吗？</div>
+<div class="hint" data-page-node-id="rGJvt8AmU7zWZKEcIIWSi1"><b data-page-node-id="qGSKGZntKMrVKDaenzGyvD">准备要点：</b>能说出理由（如 Neck 特征已融合多尺度、更贴近检测头、参数开销位置等）；如果没实测对比过，诚实说「论文推荐位置 + 我基于显存/耗时约束做的选择」，不要编造没做过的实验。</div>
+<div class="q" data-page-node-id="iQThADGksMtGw5T2xBokIg"><span class="no" data-page-node-id="WKeHxN6a1KcApejVW1qAHB">8.</span>「通道-空间双重注意力」先通道后空间，这个顺序有讲究吗？反过来的效果呢？</div>
+<div class="q warn" data-page-node-id="5FbqCqDZw4jvacqdvcRE3B"><span class="star" data-page-node-id="V6b1F1ZlVBvO08ZXJFjUvk">9.★</span>CBAM 引入了多少额外参数和计算量？对 3ms 推理耗时影响多大？</div>
+<div class="hint" data-page-node-id="hV9NmYpKvUaHBERMMVdrkI"><b data-page-node-id="BCsxsBBcb8w3mYw5g0MP6X">准备要点：</b>⚠️ 很多人答不上，面试前把加入 CBAM 前后的参数量（Params）、FLOPs 对比算好记熟。</div>
+
+<h2 data-page-node-id="orafTAX2lK8QzMCu7ynXCl">第三层：实验设计题（检验科研素养，导师最看重）</h2>
+
+<div class="q warn" data-page-node-id="4orrJf2q2z8aWqdcKTXGaQ"><span class="star" data-page-node-id="XvQMu5QkqrGhAggVpUaaoz">10.★</span>「同数据、同超参的消融实验」——具体控制了哪些变量？随机种子固定了吗？跑了几次？波动范围多大？</div>
+<div class="hint" data-page-node-id="2wPPx2OLlkgrOvebdeOZa7"><b data-page-node-id="MJpfZvCUjLROUAJvfBif9m">准备要点：</b>⚠️ 简历写的是区间「约 80%~81%」，老师很可能追问最终值和方差。把消融实验的最终数字、实验配置记牢。</div>
+<div class="q warn" data-page-node-id="6jtryfJv86J406kvHzhC0o"><span class="star" data-page-node-id="azlSAnGlmLzknjgorStL7R">11.★</span>裂纹类只有 52.2% 的误差归因是怎么做的？除了弱纹理，你还排除了哪些可能（比如样本不均衡、标注质量）？</div>
+<div class="hint" data-page-node-id="46aJr45EZjgUIa2TiApf63"><b data-page-node-id="tyaJQxy4EJrjjD0p6K2Fy6">准备要点：</b>展示归因的方法论：看混淆矩阵/漏检样本可视化 → 提出假设 → 逐一排除 → 收敛到弱纹理假说。</div>
+<div class="q" data-page-node-id="Cf8R9p0LlSfuso8J8VgpAv"><span class="no" data-page-node-id="VOfcK5oU6nvp45UPC8XEDs">12.</span>除了 CBAM，你还考虑过什么改进方案（SE、ECA、CA 注意力，或复制粘贴增强、多尺度训练）？为什么选 CBAM？</div>
+<div class="q" data-page-node-id="lUrfqemqa4aOdtQdds01dD"><span class="no" data-page-node-id="X7FUUUUC7LDQ0zJcvcIOQb">13.</span>Recall 73.6% 意味着约 26% 漏检——工业质检里漏检代价远高于误检，你有什么思路进一步提升 Recall？</div>
+
+<h2 data-page-node-id="1hxqTDUvOJCWyP1mCmgZbL">第四层：开放 / 延伸题（区分度在这里）</h2>
+
+<div class="q warn" data-page-node-id="dIajSPyosbl8L2ky8QI8pS"><span class="star" data-page-node-id="Mp5ZRjuAPTD8jQe4PEU4SE">14.★</span>NEU-DET 是公开数据集、成像条件理想化——真实产线上会面临什么新问题（光照变化、运动模糊、小目标、类别不均衡）？你的系统怎么迁移？</div>
+<div class="q" data-page-node-id="REUTcSMwjEqJzR7dTWOr58"><span class="no" data-page-node-id="IxpoVBNVF47kQ9oeCq31uF">15.</span>3ms 推理能满足产线实时性，那部署呢？用什么部署（TensorRT/ONNX/边缘设备）？</div>
+<div class="q warn" data-page-node-id="UNEY6l6nqFnnUcndSKwD1Y"><span class="star" data-page-node-id="0HKz1pvX53xrgThomfk3eV">16.★</span>这个技术被洪飞智巡采用后，落地效果和你实验结果一致吗？有没有遇到实验里没出现的问题？</div>
+<div class="hint" data-page-node-id="AXCa4ZL8NXfeuj2C7Cyv7M"><b data-page-node-id="3c65LBjsCxWuJktU75wYm1">准备要点：</b>⚠️ 衔接点题。标准叙事：方法在公开基准上改进验证（证明有效）→ 工程化迁移到企业实际场景。如果企业侧用的也是带钢质检数据，衔接更自然，提前理清楚。</div>
+<div class="q" data-page-node-id="ONOjgWNHnPrrIj7gspVdpl"><span class="no" data-page-node-id="zIzY2kGGox2brqBbTRNvfp">17.</span>如果让你继续深入，你觉得下一步最有价值的方向是什么？</div>
+<div class="hint" data-page-node-id="VJuZR36dq4jJVMLqxQXkf6"><b data-page-node-id="5jAyuH51ncBMiU81mYa9so">准备要点：</b>这题实际在测你对领域的理解，不是要标准答案。可以从「难例挖掘 / 更细粒度的缺陷分割 / 无监督异常检测减少标注依赖」等方向准备 1-2 个。</div>
+
+<div class="tips" data-page-node-id="EPYIzN7RXcntZhYeKyJkST">
+<h3 data-page-node-id="LyM0X8K9TWUp6qhqLghyuB">准备优先级与临场建议</h3>
+<ul data-page-node-id="tP6Xyf05Z96Je08FyeVYec">
+  <li data-page-node-id="TQdSyR2uvR8vFUvCVGneoQ"><b data-page-node-id="fGSHlDHZoq4UPsOvOKEaCc">五道核心题：第 2、7、9、10、11 题</b>——CBAM 结构细节、放 Neck 的理由、参数量开销、消融的严谨性、归因方法。这五题答好，整个项目的可信度就立住了。</li>
+  <li data-page-node-id="bF1yWq6HFhNPItr56cVZhT"><b data-page-node-id="NLU9zzvEMFPjQNDLbdcvmn">所有数字要有出处</b>：52.2% / 77.5% / 80%~81% / 57%~60% / 3ms / 4189 框，每一个都要能说出测量方法和实验场景，任何一个卡壳都会让老师怀疑其他数字。</li>
+  <li data-page-node-id="gn4mxZrXOGYyOwVi85P0DU"><b data-page-node-id="fm9dzFbwb2np1Xd3rawzxO">重看实验记录</b>：面试前把超参表、训练曲线（loss/mAP）、混淆矩阵过一遍，最好能默画 CBAM 结构图——有导师喜欢让候选人现场画网络结构。</li>
+  <li data-page-node-id="fiCkp0X5BqIyt0DhHVW8AO"><b data-page-node-id="2aEtjPMhCgWnF9tDCxWi7u">查主流水平</b>：把两三篇代表性论文（改进 Faster R-CNN、YOLO 系列在 NEU-DET 上的公开成绩）的指标记个大概，应对「你的 77.5% 排在什么位置」。</li>
+  <li data-page-node-id="GyXKhcrSCXcorlGDfaeLMN"><b data-page-node-id="1zVCetxPKfx6O0wuJHzmoc">诚实原则</b>：没做过的实验不要说做过，可以说「基于 xx 约束做的选择 / 这是下一步计划」——复试老师对诚实的容忍度远高于对包装的容忍度。</li>
+</ul>
+</div>
+
+</body>
+</html>

@@ -16,8 +16,8 @@
       }
       body {
         font-family:
-          "Source Han Serif SC", "Noto Serif SC", "Songti SC", "STSong",
-          "SimSun", serif;
+          "Times New Roman", "Source Han Serif SC", "Noto Serif SC",
+          "Songti SC", "STSong", "SimSun", serif;
         color: #222;
         -webkit-font-smoothing: antialiased;
       }
@@ -116,7 +116,7 @@
 
       /* ===== Section ===== */
       .sec {
-        margin-top: 2pt;
+        margin-top: 6pt;
       }
       .sec h2 {
         background: #eef4ff;
@@ -198,7 +198,7 @@
         margin-left: 8pt;
       }
       .edu-sub {
-        color: #888;
+        color: #222;
         font-weight: 400;
       }
       .sub {
@@ -302,7 +302,7 @@
         margin-top: 3.5pt;
       }
       .proj + .proj {
-        margin-top: 4.5pt;
+        margin-top: 9pt;
       }
       .tag {
         color: #4478df;
@@ -419,7 +419,7 @@
     </div>
     <ul class="ul education-list">
       <li contenteditable="true">
-        GPA：3.36/4.0　·　排名：16 / 207（前7.7%）　·　英语成绩：CET4（455 分）
+        GPA：3.36/4.0　·　加权排名：16 / 207（前7.7%）　·　英语成绩：CET-4
       </li>
       <li contenteditable="true">
         所学课程：计算机视觉(91)，计算机组成原理(91)，数字逻辑与数字系统(90)，Python 数据分析与机器学习(86)
@@ -433,25 +433,25 @@
     <div class="proj">
       <div class="row project-row">
         <span class="project-left"
-          ><span class="t1" contenteditable="true">面向热轧带钢产线质检的注意力增强缺陷检测系统（NEU-DET 基准）</span
+          ><span class="t1" contenteditable="true"
+            >CamTalk-面向多模态实时 AI 视觉对话 Agent</span
         ></span
-        ><span class="meta" style="font-weight: 700;" contenteditable="true">项目负责人 · 2026.05～2026.08</span>
+        ><span class="meta" style="font-weight: 700;" contenteditable="true">项目负责人 · 2026.04～2026.08</span>
       </div>
-      <div class="intro" contenteditable="true"><span class="lb">项目描述：</span>热轧产线轧制速度快，人工目检易疲劳、漏检率高，缺陷漏检直接造成批量质量损失。本项目针对该场景，构建基于 CBAM 注意力增强 YOLOv8 的表面缺陷在线检测系统，在工业标准基准 NEU-DET（1800 张图像、6 类典型热轧缺陷）上完成算法改进与验证，重点解决弱纹理缺陷的在线漏检瓶颈。</div>
-      <div class="intro" contenteditable="true"><span class="lb">个人贡献：</span>误差归因发现最难类裂纹 mAP@0.5 仅 52.2%，归因于弱纹理、模糊边界特性；据此在 YOLOv8 Neck 端嵌入 CBAM 通道-空间双重注意力，并以同数据、同超参的消融实验验证：整体 mAP@0.5 由 77.5% 提升至约 80%~81%，最难类提升至约 57%~60%，验证注意力机制对弱纹理缺陷的增强作用；模型单张推理 3 ms，满足产线实时质检要求。</div>
-      <div class="intro" contenteditable="true"><span class="lb">项目成果：</span>获得中国国际创新创业大赛<strong>校级银奖</strong>，并推荐至省赛；相关技术被<strong>武汉洪飞智巡科技有限公司</strong>采用</div>
+      <div class="intro" contenteditable="true"><span class="lb">项目描述：</span>面向军工场景“数据不出域”约束设计的实时多模态 AI 对话系统，依托<strong>国家级</strong>网安基地·武汉金银湖实验室平台，端到端贯通视听感知与生成全链路，实现亚秒级实时交互，全链路亚秒级流式交互</div>
+      <div class="intro" contenteditable="true"><span class="lb">个人贡献：</span>设计端侧数据最小化机制：VAD 语音端点检测，<strong>自研像素差值关键帧检测智能采样算法</strong>，使静默期数据上传量<strong>降低约 80%</strong>；参与基于 CloudWeGo Eino 的 STT–LLM–TTS 7节点流式编排，实现文本与音频增量推送，将端到端感知延迟控制在 <strong>0.5 s 以内</strong>；实现多轮会话、用户自定义 Prompt 情景和设备管理，支持断线后 <strong>30 s 内</strong>恢复会话</div>
+      <div class="intro" contenteditable="true"><span class="lb">个人成果：</span>主导项目纳入<strong>武汉金银湖实验室</strong>优质项目代码库，入选<strong>工信部电子第五研究所</strong>试点方案，列入<strong>某军工单位</strong>技术验证方案之一，写入武汉金银湖实验室的宣传手册</div>
     </div>
     <div class="proj">
       <div class="row project-row">
         <span class="project-left"
-          ><span class="t1" contenteditable="true"
-            >CamTalk—面向实时多模态交互的低延迟 AI 对话系统</span
+          ><span class="t1" contenteditable="true">面向热轧带钢产线质检的注意力增强缺陷检测系统</span
         ></span
-        ><span class="meta" style="font-weight: 700;" contenteditable="true">项目负责人 · 2026.04～2026.08</span>
+        ><span class="meta" style="font-weight: 700;" contenteditable="true">项目负责人 · 2026.05～2026.08</span>
       </div>
-      <div class="intro" contenteditable="true"><span class="lb">项目描述：</span>面向武汉金银湖实验室云系统安全/AI 系统安全的实时多模态 AI 交互原型，基于 WebSocket 低延迟打通"视觉理解、语音识别、大模型对话、语音合成"全链路实时交互，可作智能化软件安全演示验证平台。</div>
-      <div class="intro" contenteditable="true"><span class="lb">个人贡献：</span>负责端侧 VAD、关键帧检测与自适应视觉采样，使静默期数据上传量降低约 80%；参与基于 CloudWeGo Eino 的 STT–LLM–TTS 7节点流式编排，实现文本与音频增量推送，将端到端感知延迟控制在 0.5 s 以内；实现多轮会话、用户自定义 Prompt 情景和设备管理，支持断线后 30 s 内恢复会话</div>
-      <div class="intro" contenteditable="true"><span class="lb">个人成果：</span>项目纳入<strong>武汉金银湖实验室</strong>优质项目代码库，写入武汉金银湖实验室的宣传手册，列入<strong>军工合作项目</strong>技术预验证方案之一</div>
+      <div class="intro" contenteditable="true"><span class="lb">项目描述：</span>针对热轧产线轧制速度快、人工目检易疲劳漏检率高、缺陷漏检造成批量质量损失的场景，构建基于 CBAM 注意力增强 YOLOv8 的表面缺陷在线检测系统，在工业标准基准 NEU-DET（1800 张图像、6 类典型热轧缺陷）上完成算法改进与验证，重点解决弱纹理缺陷的在线漏检瓶颈。</div>
+      <div class="intro" contenteditable="true"><span class="lb">个人贡献：</span>误差归因发现最难类裂纹 mAP@0.5 仅 <strong>52.2%</strong>，归因于弱纹理、模糊边界特性；据此在 YOLOv8 Neck 端嵌入 CBAM 通道-空间双重注意力，并以同数据、同超参的消融实验验证：整体 mAP@0.5 由 <strong>77.5% 提升至约 80%~81%</strong>，最难类提升至约 <strong>57%~60%</strong>，验证注意力机制对弱纹理缺陷的增强作用；模型单张推理 <strong>3 ms</strong>，满足产线实时质检要求。</div>
+      <div class="intro" contenteditable="true"><span class="lb">项目成果：</span>获得中国国际大学生创新创业大赛<strong>校级银奖</strong>（推荐至省赛），相关技术被<strong>武汉洪飞智巡科技有限公司</strong>采用，并申请专利中</div>
     </div>
   </div>
 </section>
@@ -466,9 +466,9 @@
           >科研实习 · 2025-12 ~ 2026-05</span
         >
       </div>
-      <div class="role"><strong>工作内容：</strong>面向开源软件供应链安全态势感知需求，参与构建可信开源态势感知平台，联合华中科技大学网安学院将自研<strong>金银湖大模型</strong>应用于威胁可视化与漏洞智能修复场景</div>
+      <div class="role"><strong>工作内容：</strong>面向开源软件供应链安全态势感知需求，参与构建可信开源态势感知平台，联合<strong>华中科技大学</strong>网安学院将自研<strong>金银湖大模型</strong>应用于威胁可视化与漏洞智能修复场景</div>
       <div class="role"><strong>个人产出：</strong></div>
-      <ul class="ul"><li class="numli"><span class="num">1.</span>针对全球风险态势感知可视化不足的问题，基于 ECharts 6 设计实现监控中心，构建 15+ 可视化组件（威胁地图 / CVE 趋势 / 高危组件 Top10 等），并提出 GeoJSON 三级容错加载与接口兜底策略保障大屏高可用</li><li class="numli"><span class="num">2.</span>针对漏洞修复门槛高的问题，接入<strong>金银湖大模型</strong>设计 TcodeAI 辅助修复模块，提出可折叠面板组件化方案（复用 3+ 页面）实现结构化修复建议的高效渲染</li></ul>
+      <ul class="ul"><li class="numli"><span class="num">1.</span>针对全球风险态势感知可视化不足的问题，基于 ECharts 6 设计实现监控中心，构建 <strong>15+ 可视化组件</strong>（威胁地图 / CVE 趋势 / 高危组件 Top10 等），并提出 GeoJSON 三级容错加载与接口兜底策略保障大屏高可用</li><li class="numli"><span class="num">2.</span>针对漏洞修复门槛高的问题，接入<strong>金银湖大模型</strong>设计 TcodeAI 辅助修复模块，提出可折叠面板组件化方案（复用 <strong>3+ 页面</strong>）实现结构化修复建议的高效渲染</li></ul>
     </div>
     <div class="exp">
       <div class="row">
@@ -503,22 +503,8 @@
   <div class="body">
     <ul class="ul">
       <li contenteditable="true">校园任职：团支部书记，校级人工智能协会副会长，校级攀登者机器人协会核心成员</li>
-      <li contenteditable="true">校园荣誉：校级二等奖学金，优秀学生，先进个人，优秀共青团员</li>
+      <li contenteditable="true">校园荣誉：校级二等奖学金，优秀学生，先进个人，优秀共青团员，优秀学生干部</li>
     </ul>
-  </div>
-</section>
-<section class="sec">
-  <h2 contenteditable="true">专业技能</h2>
-  <div class="body">
-    <ul class="ul">
-      <li contenteditable="true">
-        深度学习：熟悉 Python/PyTorch 深度学习实验，数据构建、迁移学习、训练调优、mAP 等指标评估与误差分析
-      <li contenteditable="true">
-        Agent 与 AI 应用：熟悉 Harness 工程与需求/验证 Loop 工作流、具备 WebSocket 实时通信与前后端联调经验
-      </li>
-    </ul>
-  </div>
-</section>
   </div>
 </body>
 </html>
