@@ -314,7 +314,7 @@
     "codex": "medium"
   },
   "savedProviderServiceTier": {
-    "codex": "default"
+    "codex": "priority"
   },
   "savedProviderThinkingBudget": {},
   "savedProviderPermissionMode": {

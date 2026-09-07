@@ -1,0 +1,619 @@
+<!doctype html>
+<html lang="zh-CN" data-page-node-id="A1lHa1JHBj8E3QFDfYPZVV">
+  <head data-page-node-id="uiOlURQfA8aWgsfJh7td2Y">
+    <meta charset="utf-8" data-page-node-id="ykopwzJLbF16YZh4wD0NnF" />
+    <title>个人简历｜可编辑模板</title>
+    <style>
+      
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+      html,
+      body {
+        background: #eef1f5;
+      }
+      body {
+        font-family:
+          "Times New Roman", "Source Han Serif SC", "Noto Serif SC",
+          "Songti SC", "STSong", "SimSun", serif;
+        color: #222;
+        -webkit-font-smoothing: antialiased;
+      }
+      .font-hei,
+      .name,
+      .sec h2,
+      .t1,
+      .meta {
+        font-family:
+          "Source Han Sans SC", "Noto Sans SC", "PingFang SC",
+          "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+      }
+      .page {
+        width: 595.3pt;
+        min-height: 841.9pt;
+        background: #fff;
+        margin: 14pt auto;
+        padding: 15pt 30pt;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        box-shadow: 0 2pt 10pt rgba(15, 23, 42, 0.12);
+      }
+      @media print {
+        html,
+        body {
+          background: #fff;
+        }
+        .page {
+          margin: 0;
+          box-shadow: none;
+          width: 210mm;
+          min-height: 297mm;
+          -webkit-print-color-adjust: exact;
+          print-color-adjust: exact;
+        }
+      }
+      @page {
+        size: A4;
+        margin: 0;
+      }
+
+      /* ===== Header ===== */
+      .head {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        gap: 12pt;
+      }
+      .name {
+        font-size: 21pt;
+        font-weight: 700;
+        color: #222;
+        letter-spacing: 1pt;
+        line-height: 1.15;
+      }
+      .contact {
+        margin-top: 3pt;
+        font-size: 10.5pt;
+        color: #222;
+        line-height: 1.5;
+      }
+      .contact-grid {
+        display: grid;
+        grid-template-columns: max-content max-content;
+        justify-content: start;
+        column-gap: 10pt;
+        row-gap: 1pt;
+      }
+      .contact-item {
+        display: inline-flex;
+        align-items: center;
+        margin-right: 12pt;
+        white-space: nowrap;
+      }
+      .svg-icon {
+        width: 10.5pt;
+        height: 10.5pt;
+        fill: #4478df;
+        margin-right: 3.5pt;
+        flex-shrink: 0;
+        vertical-align: middle;
+      }
+      .contact a {
+        color: #4478df;
+        text-decoration: none;
+      }
+      .photo {
+        width: 46pt;
+        height: 61pt;
+        object-fit: cover;
+        border-radius: 2pt;
+        flex-shrink: 0;
+        margin-top: 1pt;
+      }
+
+      /* ===== Section ===== */
+      .sec {
+        margin-top: 6pt;
+      }
+      .sec h2 {
+        background: #eef4ff;
+        border-left: 3pt solid #4478df;
+        color: #4478df;
+        font-size: 13pt;
+        font-weight: 700;
+        -webkit-text-stroke: 0.25pt currentColor;
+        letter-spacing: 1pt;
+        padding: 2.5pt 0 2.5pt 7.5pt;
+        line-height: 1.15;
+        margin-bottom: 2.5pt;
+      }
+      .sec .body {
+        margin-top: 0;
+      }
+
+      /* ===== Generic row ===== */
+      .row {
+        display: flex;
+        justify-content: space-between;
+        align-items: baseline;
+        gap: 8pt;
+      }
+      .project-row {
+        display: flex;
+        width: 100%;
+        justify-content: space-between;
+        gap: 6pt;
+        align-items: baseline;
+      }
+      .project-left {
+        display: flex;
+        align-items: baseline;
+        min-width: 0;
+        flex: 1;
+      }
+      .project-left .t1 {
+        min-width: 0;
+      }
+      .project-row .meta {
+        min-width: 0;
+        font-weight: 700;
+      }
+      .project-row .meta:last-child {
+        text-align: right;
+        white-space: nowrap;
+        font-size: 10.5pt;
+        flex-shrink: 0;
+      }
+      .edu-row .t1 {
+        font-size: 11.5pt;
+      }
+      .t1 {
+        font-size: 12pt;
+        font-weight: 700;
+        color: #222;
+        line-height: 1.2;
+      }
+      .meta {
+        font-size: 10.5pt;
+        color: #222;
+        white-space: nowrap;
+      }
+      .btag {
+        display: inline-block;
+        font-size: 7.5pt;
+        color: #4478df;
+        border: 0.8pt solid #4478df;
+        border-radius: 2pt;
+        padding: 0.4pt 3.5pt;
+        margin-left: 5pt;
+        vertical-align: 1.5pt;
+        line-height: 1.4;
+      }
+      .edu-major {
+        font-size: 10.5pt;
+        color: #222;
+        margin-left: 8pt;
+      }
+      .edu-sub {
+        color: #222;
+        font-weight: 400;
+      }
+      .sub {
+        font-size: 10.5pt;
+        color: #222;
+        margin-top: 1.5pt;
+        line-height: 1.4;
+      }
+
+      /* ===== Honors ===== */
+      .honors-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        column-gap: 14pt;
+        row-gap: 2pt;
+      }
+      .honor-item {
+        font-size: 10.5pt;
+        line-height: 1.35;
+        color: #222;
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        gap: 8pt;
+      }
+      .honor-item .year {
+        flex-shrink: 0;
+        white-space: nowrap;
+      }
+
+      /* ===== Experience ===== */
+      .exp {
+        margin-top: 3.5pt;
+      }
+      .exp + .exp {
+        margin-top: 4.5pt;
+      }
+      .role {
+        font-size: 10.5pt;
+        color: #222;
+        font-weight: 400;
+        margin-top: 1pt;
+        line-height: 1.4;
+      }
+      .role::before {
+        content: "";
+        display: inline-block;
+        width: 4.5pt;
+        height: 4.5pt;
+        background: #222;
+        border-radius: 50%;
+        margin-right: 4pt;
+        vertical-align: middle;
+      }
+      .role.no-bullet::before {
+        content: none;
+      }
+      .role.no-bullet {
+        color: #656464;
+        font-weight: 400;
+        line-height: 1.33;
+        margin-top: 1.5pt;
+      }
+      .bold-internship .role {
+        font-weight: 700;
+        color: #222;
+      }
+      .bold-internship .intro,
+      .bold-internship .ul li {
+        font-weight: 400;
+      }
+      .certificate-summary {
+        font-size: 12pt;
+        font-weight: 700;
+        color: #222;
+      }
+      .ul {
+        list-style: none;
+        margin-top: 2pt;
+      }
+      .ul li {
+        position: relative;
+        padding-left: 10pt;
+        font-size: 10.5pt;
+        line-height: 1.33;
+        margin-top: 0.5pt;
+      }
+      .ul li::before {
+        content: "";
+        position: absolute;
+        left: 1.5pt;
+        top: 4pt;
+        width: 4.5pt;
+        height: 4.5pt;
+        background: #252525;
+        border-radius: 50%;
+      }
+
+      /* ===== Project ===== */
+      .proj {
+        margin-top: 3.5pt;
+      }
+      .proj + .proj {
+        margin-top: 9pt;
+      }
+      .tag {
+        color: #4478df;
+        font-size: 9pt;
+        white-space: nowrap;
+      }
+      .intro {
+        margin-top: 1.5pt;
+        font-size: 10.5pt;
+        line-height: 1.33;
+        color: #222;
+      }
+      .proj .intro {
+        position: relative;
+        padding-left: 10pt;
+      }
+      .proj .intro::before {
+        content: "";
+        position: absolute;
+        left: 1.5pt;
+        top: 4pt;
+        width: 4.5pt;
+        height: 4.5pt;
+        background: #252525;
+        border-radius: 50%;
+      }
+      .lb {
+        font-weight: 700;
+        color: #222;
+      }
+      /* 宋体正文的加粗笔画偏细，统一用黑体渲染加粗文字，与 .t1 加粗度一致 */
+      .lb,
+      .certificate-summary,
+      strong,
+      b {
+        font-family:
+          "Source Han Sans SC", "Noto Sans SC", "PingFang SC",
+          "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+        font-weight: 700;
+      }
+      .stack {
+        margin-top: 1.5pt;
+        font-size: 10.5pt;
+        line-height: 1.33;
+      }
+      .proj .stack {
+        display: none;
+      }
+      .stack .chip {
+        display: inline-block;
+        background: #eef4ff;
+        color: #4478df;
+        font-size: 8.6pt;
+        border-radius: 3pt;
+        padding: 1pt 5pt;
+        margin: 1pt 2.5pt 0 0;
+      }
+      .work {
+        list-style: none;
+        margin-top: 1pt;
+      }
+      .work li {
+        position: relative;
+        padding-left: 13pt;
+        font-size: 10.5pt;
+        line-height: 1.33;
+        margin-top: 0.5pt;
+      }
+      .work .num {
+        position: absolute;
+        left: 0;
+        color: #222;
+        font-weight: 700;
+      }
+      .ul li.numli {
+        padding-left: 13pt;
+      }
+      .ul li.numli::before {
+        display: none;
+      }
+      .ul .num {
+        position: absolute;
+        left: 0;
+        color: #222;
+        font-weight: 700;
+      }
+
+      /* ===== Personal profile pages ===== */
+      .profile-page {
+        justify-content: flex-start;
+        padding-top: 30pt;
+      }
+      .profile-page .profile-head {
+        display: flex;
+        align-items: baseline;
+        justify-content: space-between;
+        border-bottom: 1.2pt solid #4478df;
+        padding-bottom: 7pt;
+        margin-bottom: 14pt;
+      }
+      .profile-page .profile-title {
+        font-family: "Source Han Sans SC", "Noto Sans SC", "PingFang SC", "Microsoft YaHei", sans-serif;
+        color: #4478df;
+        font-size: 18pt;
+        font-weight: 700;
+        letter-spacing: 1pt;
+      }
+      .profile-page .profile-page-no {
+        font-family: "Source Han Sans SC", "Noto Sans SC", "PingFang SC", "Microsoft YaHei", sans-serif;
+        color: #7b8798;
+        font-size: 9pt;
+      }
+      .profile-page .profile-body {
+        font-size: 11.2pt;
+        line-height: 1.72;
+        color: #222;
+        text-align: justify;
+      }
+      .profile-page .profile-body p {
+        margin: 0 0 11pt;
+        text-indent: 2em;
+      }
+      .profile-page .profile-body strong {
+        color: #222;
+      }
+      .transcript-page {
+        justify-content: center;
+        align-items: center;
+        padding: 18pt 24pt;
+      }
+      .transcript-page img {
+        display: block;
+        width: 100%;
+        height: auto;
+        max-height: 808pt;
+        object-fit: contain;
+      }
+      .certificate-page {
+        justify-content: center;
+        align-items: center;
+        padding: 18pt 24pt;
+      }
+      .certificate-page img {
+        display: block;
+        width: 100%;
+        height: auto;
+        max-height: 808pt;
+        object-fit: contain;
+      }
+      .evidence-page {
+        justify-content: center;
+        align-items: center;
+        padding: 18pt 24pt;
+      }
+      .evidence-page img {
+        display: block;
+        width: 100%;
+        height: auto;
+        max-height: 808pt;
+        object-fit: contain;
+      }
+      @media print {
+        .profile-page { page-break-before: always; }
+      }
+    </style>
+  </head>
+  <body>
+  <div class="page">
+<div class="head">
+  <div style="flex: 1; min-width: 0">
+    <div class="name" contenteditable="true">陈飞扬</div>
+    <div class="contact">
+      <div class="contact-grid">
+        <span class="contact-item">电话：16717104499</span
+        ><span class="contact-item">邮箱：cfy666777@wust.edu.cn</span
+        ><span class="contact-item">住址：湖北黄冈</span
+        ><span class="contact-item">政治面貌：中共党员</span>
+      </div>
+    </div>
+  </div>
+  <img class="photo" src="assets/profile.jpg" alt="证件照" />
+</div>
+<section class="sec">
+  <h2 contenteditable="true">教育背景</h2>
+  <div class="body">
+    <div class="row edu-row">
+      <span class="t1" contenteditable="true"
+        >武汉科技大学｜计算机科学与技术学院｜计算机科学与技术<span class="edu-sub"
+          >（ESI前 1%｜国家一流专业）</span
+        ></span
+      ><span class="meta" style="font-weight: 700;" contenteditable="true">2023.09—至今</span>
+    </div>
+    <ul class="ul education-list">
+      <li contenteditable="true">
+        GPA：3.36/4.0　·　加权排名：16 / 207（前7.7%）　·　英语成绩：CET-4
+      </li>
+      <li contenteditable="true">
+        所学课程：计算机视觉(91)，计算机组成原理(91)，数字逻辑与数字系统(90)，Python 数据分析与机器学习(90)
+      </li>
+    </ul>
+  </div>
+</section>
+<section class="sec">
+  <h2 contenteditable="true">项目经历</h2>
+  <div class="body">
+    <div class="proj">
+      <div class="row project-row">
+        <span class="project-left"
+          ><span class="t1" contenteditable="true"
+            >CamTalk-面向多模态实时 AI 视觉对话 Agent</span
+        ></span
+        ><span class="meta" style="font-weight: 700;" contenteditable="true">项目负责人 · 2026.04～2026.08</span>
+      </div>
+      <div class="intro" contenteditable="true"><span class="lb">项目描述：</span>面向军工场景“数据不出域”约束设计的实时多模态 AI 对话系统，依托<strong>国家级</strong>网安基地·武汉金银湖实验室平台，端到端贯通视听感知与生成全链路，实现亚秒级实时交互，全链路亚秒级流式交互</div>
+      <div class="intro" contenteditable="true"><span class="lb">个人贡献：</span>设计端侧数据最小化机制：VAD 语音端点检测，<strong>自研像素差值关键帧检测智能采样算法</strong>，使静默期数据上传量<strong>降低约 80%</strong>；参与基于 CloudWeGo Eino 的 STT–LLM–TTS 7节点流式编排，实现文本与音频增量推送，将端到端感知延迟控制在 <strong>0.5 s 以内</strong>；实现多轮会话、用户自定义 Prompt 情景和设备管理，支持断线后 <strong>30 s 内</strong>恢复会话</div>
+      <div class="intro" contenteditable="true"><span class="lb">个人成果：</span>主导项目纳入<strong>武汉金银湖实验室</strong>优质项目代码库，入选<strong>工信部电子第五研究所</strong>试点方案，列入<strong>某军工单位</strong>技术验证方案之一，写入武汉金银湖实验室的宣传手册</div>
+    </div>
+    <div class="proj">
+      <div class="row project-row">
+        <span class="project-left"
+          ><span class="t1" contenteditable="true">面向热轧带钢产线质检的注意力增强缺陷检测系统</span
+        ></span
+        ><span class="meta" style="font-weight: 700;" contenteditable="true">项目负责人 · 2026.05～2026.08</span>
+      </div>
+      <div class="intro" contenteditable="true"><span class="lb">项目描述：</span>针对热轧产线轧制速度快、人工目检易疲劳漏检率高、缺陷漏检造成批量质量损失的场景，构建基于 CBAM 注意力增强 YOLOv8 的表面缺陷在线检测系统，在工业标准基准 NEU-DET（1800 张图像、6 类典型热轧缺陷）上完成算法改进与验证，重点解决弱纹理缺陷的在线漏检瓶颈。</div>
+      <div class="intro" contenteditable="true"><span class="lb">个人贡献：</span>误差归因发现最难类裂纹 mAP@0.5 仅 <strong>52.2%</strong>，归因于弱纹理、模糊边界特性；据此在 YOLOv8 Neck 端嵌入 CBAM 通道-空间双重注意力，并以同数据、同超参的消融实验验证：整体 mAP@0.5 由 <strong>77.5% 提升至约 80%~81%</strong>，最难类提升至约 <strong>57%~60%</strong>，验证注意力机制对弱纹理缺陷的增强作用；模型单张推理 <strong>3 ms</strong>，满足产线实时质检要求。</div>
+      <div class="intro" contenteditable="true"><span class="lb">项目成果：</span>获得中国国际大学生创新创业大赛<strong>校级银奖</strong>（推荐至省赛），相关技术被<strong>武汉洪飞智巡科技有限公司</strong>采用，并申请专利中</div>
+    </div>
+  </div>
+</section>
+<section class="sec">
+  <h2 contenteditable="true">实习经历</h2>
+  <div class="body">
+    <div class="exp">
+      <div class="row">
+        <span class="t1" contenteditable="true"
+          >国家网络安全人才与创新基地｜武汉金银湖实验室</span
+        ><span class="meta" style="font-weight: 700;" contenteditable="true"
+          >科研实习 · 2025-12 ~ 2026-05</span
+        >
+      </div>
+      <div class="role"><strong>工作内容：</strong>面向开源软件供应链安全态势感知需求，参与构建可信开源态势感知平台，由<strong>吴建平院士</strong>指导，联合<strong>华中科技大学</strong>网安学院将自研<strong>金银湖大模型</strong>应用于威胁可视化与漏洞智能修复场景</div>
+      <div class="role"><strong>个人产出：</strong></div>
+      <ul class="ul"><li class="numli"><span class="num">1.</span>针对全球风险态势感知可视化不足的问题，基于 ECharts 6 设计实现监控中心，构建 <strong>15+ 可视化组件</strong>（威胁地图 / CVE 趋势 / 高危组件 Top10 等），并提出 GeoJSON 三级容错加载与接口兜底策略保障大屏高可用</li><li class="numli"><span class="num">2.</span>针对漏洞修复门槛高的问题，接入<strong>金银湖大模型</strong>设计 TcodeAI 辅助修复模块，提出可折叠面板组件化方案（复用 <strong>3+ 页面</strong>）实现结构化修复建议的高效渲染</li></ul>
+    </div>
+    <div class="exp">
+      <div class="row">
+        <span class="t1" contenteditable="true"
+          >东软集团｜东软医疗健康事业部</span
+        ><span class="meta" style="font-weight: 700;" contenteditable="true"
+          >全栈开发 · 2025-09 ~ 2025-11</span
+        >
+      </div>
+      <div class="role"><strong>工作内容：</strong>围绕医疗场景协作 HIS 医院信息管理系统（武汉黄家湖医院）web 端和小程序端迭代开发</div>
+      <ul class="ul"><li><strong>个人产出：</strong>实现人脸识别登录、AI 智能客服等功能，完成图像采集处理与 AI 接口联调，提升系统可靠性与扩展性</li></ul>
+    </div>
+</div>
+</section>
+<section class="sec">
+  <h2 contenteditable="true">荣誉证书</h2>
+  <div class="body">
+    <div class="sub certificate-summary" contenteditable="true">
+      共荣获 2 个国家级荣誉，1 个省级奖项，3 个大厂证书
+    </div>
+    <div class="honors-grid">
+      <div class="honor-item"><span contenteditable="true">国家励志奖学金</span><span class="year" contenteditable="true">2024 和 2025</span></div>
+      <div class="honor-item"><span contenteditable="true">中国机器人及人工智能大赛省级三等奖</span><span class="year" contenteditable="true">2024</span></div>
+      <div class="honor-item"><span contenteditable="true">腾讯科技-大前端菁英班证书</span><span class="year" contenteditable="true">2025</span></div>
+      <div class="honor-item"><span contenteditable="true">金山办公-全栈菁英工程师培养计划证书</span><span class="year" contenteditable="true">2026</span></div>
+      <div class="honor-item"><span contenteditable="true">华为 HarmonyOS 应用开发者证书</span><span class="year" contenteditable="true">2025</span></div>
+    </div>
+  </div>
+</section>
+<section class="sec">
+  <h2 contenteditable="true">校园经历</h2>
+  <div class="body">
+    <ul class="ul">
+      <li contenteditable="true">校园任职：团支部书记，校级人工智能协会副会长，校级攀登者机器人协会核心成员</li>
+      <li contenteditable="true">校园荣誉：校级二等奖学金，优秀学生，先进个人，优秀共青团员，优秀学生干部</li>
+    </ul>
+  </div>
+  </div>
+<div class="page profile-page">
+  <div class="profile-head"><div class="profile-title">个人自述</div><div class="profile-page-no">Personal Profile · 02</div></div>
+  <div class="profile-body">
+    <p>我叫陈飞扬，是武汉科技大学计算机科学与技术专业 2023 级本科生，中共党员。入学以来，我始终保持认真踏实的学习态度，加权成绩排名 16/207（前 7.7%），已获得 2026 级推免资格。在专业学习中，我重点掌握了计算机视觉、计算机组成原理、数字逻辑与数字系统、Python 数据分析与机器学习等课程知识，为后续开展人工智能项目实践打下了基础。</p>
+    <p>相比单纯关注理论成绩，我更加注重将人工智能技术应用到真实场景中。本科期间，我先后参与了多模态实时 AI Agent、工业视觉缺陷检测、医疗信息系统等项目，逐步形成了从需求分析、方案设计、代码实现到测试交付的完整工程实践能力。我希望自己不仅能够理解模型和算法，也能够把它们转化为稳定、可运行、能够解决实际问题的系统。</p>
+    <p>2025 年 12 月至 2026 年 5 月，我在国家级网络安全人才与创新基地·武汉金银湖实验室进行科研实习，期间接受吴建平院士团队的指导，参与可信开源软件供应链安全态势感知平台和自研金银湖大模型应用建设。在项目中，我参与将大模型应用于威胁分析、漏洞辅助修复等场景，围绕漏洞信息理解、修复建议生成和结果展示，参与设计 TcodeAI 漏洞修复 Agent 的任务流程，同时负责风险数据接入、CVE 趋势分析、高危组件识别等功能的开发与联调。这段经历让我接触了大模型接口调用、任务编排、数据处理和应用部署，也让我更加明确了自己希望继续学习大模型应用与智能体工程化方向。</p>
+    <p>在 CamTalk 多模态实时 AI 视觉对话 Agent 项目中，我负责端侧数据最小化和实时交互链路设计，设计像素差值关键帧检测与智能采样算法，使静默期数据上传量降低约 80%；参与基于 CloudWeGo Eino 的 STT-LLM-TTS 七节点流式编排，将端到端感知延迟控制在 0.5 秒以内，并实现断线后 30 秒内恢复会话。该项目使我对语音、视觉和大语言模型协同工作，以及多模态系统从感知、生成到交互的完整流程有了较为具体的认识。</p>
+  </div>
+</div>
+<div class="page profile-page">
+  <div class="profile-head"><div class="profile-title">个人自述</div><div class="profile-page-no">Personal Profile · 03</div></div>
+  <div class="profile-body">
+    <p>在科研实践方面，我还负责过面向热轧带钢产线的表面缺陷检测项目。针对 NEU-DET 数据集上裂纹弱纹理导致的漏检问题，我通过误差分析定位问题，在 YOLOv8 Neck 端引入 CBAM 注意力机制，并通过消融实验验证改进效果，使整体 mAP@0.5 从 77.5% 提升至约 80%~81%，单张图像推理时间约 3 ms。这段经历让我初步掌握了从发现问题、提出假设、设计改进方案到实验验证的科研流程，也认识到自己在理论深度和论文写作方面仍需要进一步提升。</p>
+    <p>此外，我曾在东软医疗健康事业部参与 HIS 系统 Web 端和小程序端全栈开发，完成图像采集处理、AI 接口联调和功能迭代，积累了面向真实业务场景进行系统开发和团队协作的经验。三段专业实习使我接触了网络安全、大模型应用、计算机视觉和医疗信息化等不同场景，培养了较强的学习适应能力、问题分析能力和工程交付意识。</p>
+    <p>目前，我希望在研究生阶段继续深入人工智能、大模型、Agent 和多模态学习方向，重点关注大模型推理、智能体工作流、多模态交互以及垂直领域应用等问题。我清楚地认识到自己目前论文成果较少，因此愿意从基础理论、文献阅读、实验设计和学术写作等方面系统补足短板，并将已有的工程实践能力用于课题组的数据处理、模型实验和系统原型开发。</p>
+    <p>我相信，持续学习的态度、较强的代码实现能力、真实项目中的工程经验以及中共党员应具备的责任意识，能够帮助我更快融入研究生阶段的学习和科研工作。未来，我希望在导师指导下将“能够把事情做出来”的工程能力，进一步提升为“能够提出问题、验证方法并总结规律”的科研能力。</p>
+  </div>
+</div>
+<div class="page transcript-page">
+  <img src="assets/compressed/成绩单.jpg" alt="武汉科技大学学生成绩单" />
+</div>
+<div class="page certificate-page">
+  <img src="assets/compressed/成绩证明.jpg" alt="武汉科技大学本科综合成绩排名证明" />
+</div>
+<div class="page evidence-page"><img src="assets/compressed/华为证书.jpg" alt="华为开发者学堂专业证书" /></div>
+<div class="page evidence-page"><img src="assets/compressed/金山证书.jpg" alt="金山办公全栈工程师培养计划结业证书" /></div>
+<div class="page evidence-page"><img src="assets/compressed/金银湖实验室.jpg" alt="武汉金银湖实验室实习生科研任职书" /></div>
+<div class="page evidence-page"><img src="assets/compressed/腾讯证书.jpg" alt="腾讯技术菁英班结业证书" /></div>
+<div class="page evidence-page"><img src="assets/compressed/挑战者杯银奖.jpg" alt="中国国际大学生创新大赛校赛银奖证书" /></div>
+<div class="page evidence-page"><img src="assets/compressed/武汉洪飞实习.jpg" alt="武汉洪飞智巡劳动合同材料" /></div>
+</body>
+</html>

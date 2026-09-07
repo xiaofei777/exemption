@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1788747303017-n8hvooe2d",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788747303068-nhb0fm7",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1788747303013-f17x1pm",
+      "timestamp": 1788747303013,
+      "rawDisplayText": "结合一下这个 @套磁信.md 指导，然后结合我的简历，写一个套磁信模版",
+      "canonicalText": "结合一下这个 @套磁信.md 指导，然后结合我的简历，写一个套磁信模版",
+      "context": {
+        "linkedContent": {
+          "path": "套磁信.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "d94cf384ff273d83078960797ac1adb9f5ee66f895cddc23b68ccd63113f6ed6",
+      "providerUserMessageId": "01a079a5-cac1-7ea0-8349-22f5f89b78d8",
+      "providerAssistantMessageId": "msg_00066408bf5da019016a9e210afe8487d081190ca9b15da865"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788762881812-c6ktcw2",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1788762881806-bg3zqhq",
+      "timestamp": 1788762881806,
+      "rawDisplayText": "@项目一/知识点/CBAM详解.md ，删除这个文档中的## 1. 注意力机制是什么 板块的内容，已经有相应文档了",
+      "canonicalText": "@项目一/知识点/CBAM详解.md ，删除这个文档中的## 1. 注意力机制是什么 板块的内容，已经有相应文档了",
+      "context": {
+        "editorSelection": {
+          "notePath": "项目一/知识点/CBAM详解.md",
+          "mode": "selection",
+          "selectedText": "## 1. 注意力机制是什么",
+          "lineCount": 1,
+          "startLine": 7
+        }
+      },
+      "images": [],
+      "contentDigest": "1cb1998f0fd61b1f741a67f6f56f1884796606d1e07406f5324ffb1e4535604a",
+      "providerUserMessageId": "01a07a93-7fd2-7fe3-a5a9-936cb077e066",
+      "providerAssistantMessageId": "msg_0be51bd239ad8056016a9e5bdf2af487d08bdb9fe456eb8705"
+    }
+  ]
+}

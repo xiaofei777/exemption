@@ -1,0 +1,28 @@
+{
+  "id": "conv-1788747303017-n8hvooe2d",
+  "providerId": "codex",
+  "title": "结合简历与指导写套磁信模版",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788747303027,
+  "lastActivityAt": 1788763106168,
+  "sessionId": "01a079a5-c9dc-7dd2-98d8-4ed8957e329a",
+  "selectedModel": "gpt-5.6-sol",
+  "providerState": {
+    "threadId": "01a079a5-c9dc-7dd2-98d8-4ed8957e329a",
+    "nativeConversationContextEstablished": true,
+    "sessionFilePath": "/Users/cfy/.codex/sessions/2026/09/07/rollout-2026-09-07T10-15-03-01a079a5-c9dc-7dd2-98d8-4ed8957e329a.jsonl",
+    "transcriptRootPath": "/Users/cfy/.codex/sessions",
+    "workspaceDependencyToolVersion": 1
+  },
+  "linkedContentPath": "推免套磁/套磁信-实习模版.md",
+  "usage": {
+    "inputTokens": 54227,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 3840,
+    "contextWindow": 828400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 54227,
+    "percentage": 7,
+    "model": "gpt-5.6-sol"
+  }
+}
