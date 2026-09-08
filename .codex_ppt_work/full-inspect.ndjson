@@ -1,0 +1,183 @@
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"","type":"master","placeholders":[{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"1_标题幻灯片","placeholders":[{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout2.xml","name":"5_标题幻灯片","placeholders":[{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout3.xml","name":"4_标题幻灯片","placeholders":[{"name":"body","type":"body","textPreview":"输入标题"},{"name":"body","type":"body","textPreview":"PART ONE"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout4.xml","name":"2_标题幻灯片","placeholders":[{"name":"title","type":"title","textPreview":"单击此处标题"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout5.xml","name":"3_标题幻灯片","placeholders":[{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"slide","id":"sl/y90nupkv","slide":1,"title":"夏令营面试自我陈述","textShapes":4}
+{"kind":"textbox","id":"sh/or6hcvu5","slide":1,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！","text":"夏令营面试自我陈述","textPreview":"夏令营面试自我陈述","textChars":9,"textLines":1,"bbox":[414.97,347.14,819.12,106.63]}
+{"kind":"textbox","id":"sh/juhg7q9s","slide":1,"name":"文本框 19","text":"汇报人：大熊猫","textPreview":"汇报人：大熊猫","textChars":7,"textLines":1,"bbox":[967.86,522.14,411.48,42.01]}
+{"kind":"textbox","id":"sh/7qp4be9c","slide":1,"name":"文本框 3","text":"中南大学\n","textPreview":"中南大学 |","textChars":5,"textLines":2,"bbox":[69.6,80,117.29,384.52]}
+{"kind":"textbox","id":"sh/fu94fe98","slide":1,"name":"文本框 7","text":"大数据学院","textPreview":"大数据学院","textChars":5,"textLines":1,"bbox":[186.89,314.27,56.8,300.51]}
+{"kind":"image","id":"im/za9wvypo","slide":1,"name":"图片 1","bbox":[636.15,77.98,376.77,269.16]}
+{"kind":"notes","id":"nt/y90nupkv","slide":1,"text":""}
+{"kind":"slide","id":"sl/hwbqtkby","slide":2,"title":"目录","textShapes":10}
+{"kind":"shape","id":"sh/w3i1sfa9","slide":2,"name":"Freeform 5","bbox":[109.65,153.13,462.32,409.75]}
+{"kind":"shape","id":"sh/r65knqtk","slide":2,"name":"Freeform 5","bbox":[109.65,153.13,462.32,409.75]}
+{"kind":"shape","id":"sh/q5wjelsz","slide":2,"name":"Freeform 5","bbox":[153.47,191.96,374.68,332.08]}
+{"kind":"textbox","id":"sh/ove9o7yd","slide":2,"name":"文本框 9","text":"目录","textPreview":"目录","textChars":2,"textLines":1,"bbox":[159.11,267.1,353.47,116.33]}
+{"kind":"textbox","id":"sh/9wnqhczy","slide":2,"name":"文本框 10","text":"CONTENTS","textPreview":"CONTENTS","textChars":8,"textLines":1,"bbox":[164.08,381.99,353.47,61.39]}
+{"kind":"shape","id":"sh/nu58f2hs","slide":2,"name":"Freeform 5","bbox":[173.32,549.26,42.1,37.31]}
+{"kind":"shape","id":"sh/wjy9sry9","slide":2,"name":"Freeform 5","bbox":[177.31,552.79,34.12,30.24]}
+{"kind":"shape","id":"sh/ahwrqhgj","slide":2,"name":"Freeform 5","bbox":[665.33,183.11,67.52,59.84]}
+{"kind":"shape","id":"sh/bip8jmho","slide":2,"name":"Freeform 5","bbox":[671.73,188.78,54.72,48.5]}
+{"kind":"shape","id":"sh/do3q9szq","slide":2,"name":"Freeform 5","bbox":[665.67,280.1,67.52,59.84]}
+{"kind":"shape","id":"sh/t8byxkn2","slide":2,"name":"Freeform 5","bbox":[672.07,285.77,54.72,48.5]}
+{"kind":"shape","id":"sh/76twva5c","slide":2,"name":"Freeform 5","bbox":[667.69,372.74,67.52,59.84]}
+{"kind":"shape","id":"sh/65kfmpor","slide":2,"name":"Freeform 5","bbox":[674.09,378.41,54.72,48.5]}
+{"kind":"shape","id":"sh/gbmxszmt","slide":2,"name":"Freeform 5","bbox":[668.67,460.33,67.52,59.84]}
+{"kind":"shape","id":"sh/fadgzu58","slide":2,"name":"Freeform 5","bbox":[675.07,466,54.72,48.5]}
+{"kind":"textbox","id":"sh/u94fqp4n","slide":2,"name":"文本框 26","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[678.18,194.88,48.5,38.78]}
+{"kind":"textbox","id":"sh/p0vy54na","slide":2,"name":"文本框 27","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[678.18,291.63,48.5,38.78]}
+{"kind":"textbox","id":"sh/4zmxwzmp","slide":2,"name":"文本框 28","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[678.02,383.27,48.5,38.78]}
+{"kind":"textbox","id":"sh/mlgvq147","slide":2,"name":"文本框 29","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[678.02,470.86,48.5,38.78]}
+{"kind":"textbox","id":"sh/nmpcj6ls","slide":2,"name":"文本框 30","text":"个人信息","textPreview":"个人信息","textChars":4,"textLines":1,"bbox":[769.52,190.17,235.95,48.47]}
+{"kind":"textbox","id":"sh/xcrupg3u","slide":2,"name":"文本框 36","text":"竞赛经历","textPreview":"竞赛经历","textChars":4,"textLines":1,"bbox":[769.52,280.5,235.95,48.47]}
+{"kind":"textbox","id":"sh/tw7ud0va","slide":2,"name":"文本框 41","text":"科研经历","textPreview":"科研经历","textChars":4,"textLines":1,"bbox":[769.52,370.84,235.95,48.47]}
+{"kind":"textbox","id":"sh/svedkvup","slide":2,"name":"文本框 42","text":"校园经历","textPreview":"校园经历","textChars":4,"textLines":1,"bbox":[769.52,461.17,235.95,48.47]}
+{"kind":"shape","id":"sh/exgvmlcv","slide":2,"name":"Freeform 5","bbox":[467.15,88,42.1,37.31]}
+{"kind":"shape","id":"sh/107uh0v6","slide":2,"name":"Freeform 5","bbox":[471.14,91.54,34.12,30.24]}
+{"kind":"notes","id":"nt/hwbqtkby","slide":2,"text":""}
+{"kind":"slide","id":"sl/ofy9wn61","slide":3,"title":"个人信息","textShapes":3}
+{"kind":"shape","id":"sh/n6ls3alk","slide":3,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！","bbox":[33.07,32,1213.87,656]}
+{"kind":"textbox","id":"sh/i9w3u58v","slide":3,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！","placeholder":"body","text":"个人信息","textPreview":"个人信息","textChars":4,"textLines":1,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/w7ulsvqp","slide":3,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！","placeholder":"body","text":"PERSONAL  INFORMATION","textPreview":"PERSONAL  INFORMATION","textChars":21,"textLines":1,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/943mhgre","slide":3,"name":"文本框 11","text":"Part I","textPreview":"Part I","textChars":6,"textLines":1,"bbox":[571.37,173.27,167.71,67.86]}
+{"kind":"notes","id":"nt/ofy9wn61","slide":3,"text":""}
+{"kind":"slide","id":"sl/jyx0ra1s","slide":4,"title":"个人基本情况","textShapes":4}
+{"kind":"textbox","id":"sh/rm1k7yt4","slide":4,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！","placeholder":"title","text":"个人基本情况","textPreview":"个人基本情况","textChars":6,"textLines":1,"bbox":[-46.17,59.22,631.27,42.53]}
+{"kind":"textbox","id":"sh/0netcvm9","slide":4,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！-1","text":"大熊猫","textPreview":"大熊猫","textChars":3,"textLines":1,"bbox":[553.87,114.38,253.97,70.59]}
+{"kind":"textbox","id":"sh/qhcb6l47","slide":4,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！-2","text":"本科院校：XXXX大学 / 计算机科学与技术（B+）","textPreview":"本科院校：XXXX大学 / 计算机科学与技术（B+）","textChars":26,"textLines":1,"bbox":[553.87,184.96,562.63,44.58]}
+{"kind":"textbox","id":"sh/dknu10ny","slide":4,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！-3","text":"政治面貌：中共预备党员\n专业成绩：绩点3XX，专业排名X/1XX（前1.XX%），XX门课程满绩，两次获得XXX奖学金\n英语水平：CET4-XXX分，CET6-XXX分（英语不高可不写）\n学生工作：班长、班学长、XXXXXXXXXXXXXX、XXXXXXXXXXXXXXXXXXX\n","textPreview":"政治面貌：中共预备党员 | 专业成绩：绩点3XX，专业排名X/1XX（前1.XX%），XX门课程满绩，两次获得XXX奖学金 | 英语水平：CET4-XXX分，CET6-XXX分（英语不高可不写） | 学生工作：班长、班学长、XXXXXXXXXXXXXX、XXXXXXXXXX...","textChars":141,"textLines":5,"bbox":[553.87,255.82,609.57,353.53]}
+{"kind":"image","id":"im/bm9wf65c","slide":4,"name":"图片 5","bbox":[170.84,173.1,307.04,404.2]}
+{"kind":"notes","id":"nt/jyx0ra1s","slide":4,"text":""}
+{"kind":"slide","id":"sl/i107q5of","slide":5,"title":"竞赛经历","textShapes":3}
+{"kind":"shape","id":"sh/v2twb6dw","slide":5,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！","bbox":[369.8,475.62,540.39,0]}
+{"kind":"textbox","id":"sh/tcfel0vu","slide":5,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！","placeholder":"body","text":"竞赛经历","textPreview":"竞赛经历","textChars":4,"textLines":1,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/j6dwfqds","slide":5,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！","placeholder":"body","text":"THE COMPETITION EXPERIENCE","textPreview":"THE COMPETITION EXPERIENCE","textChars":26,"textLines":1,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/dgbulwnm","slide":5,"name":"文本框 1","text":"Part II","textPreview":"Part II","textChars":7,"textLines":1,"bbox":[571.37,173.27,167.71,67.86]}
+{"kind":"notes","id":"nt/i107q5of","slide":5,"text":""}
+{"kind":"slide","id":"sl/x8f69ofe","slide":6,"title":"创新创业类","textShapes":4}
+{"kind":"textbox","id":"sh/87ipkzal","slide":6,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！","placeholder":"title","text":"创新创业类","textPreview":"创新创业类","textChars":5,"textLines":1,"bbox":[-51.84,60.07,631.27,42.53]}
+{"kind":"textbox","id":"sh/50bqpcj2","slide":6,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！-3","text":"国家级\n2022年\t第七届中国国际“互联网+”XXXX\n2022年\t第六届全国“互联网+”快递XXXX\n2023年\t第十三届中国大学生服创大赛全国XXX","textPreview":"国家级 | 2022年\t第七届中国国际“互联网+”XXXX | 2022年\t第六届全国“互联网+”快递XXXX | 2023年\t第十三届中国大学生服创大赛全国XXX","textChars":76,"textLines":4,"bbox":[432.03,117.47,792.38,182.03]}
+{"kind":"textbox","id":"sh/of2tcvy9","slide":6,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！-3","text":"省级\n2022年\t第十二届全国大学生电子商务三创赛XXX","textPreview":"省级 | 2022年\t第十二届全国大学生电子商务三创赛XXX","textChars":28,"textLines":2,"bbox":[432.03,310.99,696.1,98.01]}
+{"kind":"textbox","id":"sh/i54bylor","slide":6,"name":"文本框 16","text":"主要职责\n担任队长，统筹规划项目进度\n担任答辩人\n项目策划书撰写\n与企业进行对接","textPreview":"主要职责 | 担任队长，统筹规划项目进度 | 担任答辩人 | 项目策划书撰写 | 与企业进行对接","textChars":40,"textLines":5,"bbox":[432.03,440.86,744.38,224.03]}
+{"kind":"shape","id":"sh/w32twb6l","slide":6,"name":"直接连接符 10","bbox":[445.3,429.17,445.3,0]}
+{"kind":"image","id":"im/exw3a9on","slide":6,"name":"图片 6","bbox":[45.29,131.52,227.87,303.82]}
+{"kind":"image","id":"im/9o72p8na","slide":6,"name":"图片 12","bbox":[90.13,127.13,227.87,303.82]}
+{"kind":"image","id":"im/onylg365","slide":6,"name":"图片 1","bbox":[64.67,464.26,309.44,207.77]}
+{"kind":"image","id":"im/nm5kny5k","slide":6,"name":"图片 2","bbox":[134.98,127.13,227.87,303.82]}
+{"kind":"image","id":"im/mlw3etoz","slide":6,"name":"图片 4","bbox":[178.7,131.52,227.87,303.82]}
+{"kind":"image","id":"im/xs7mt8nm","slide":6,"name":"图片 17","bbox":[93.57,464.26,309.44,207.77]}
+{"kind":"image","id":"im/wrylk361","slide":6,"name":"图片 18","bbox":[116.61,464.26,309.44,207.77]}
+{"kind":"image","id":"im/ul8ryl07","slide":6,"name":"Picture 2","bbox":[854.17,439.89,332.26,220.95]}
+{"kind":"notes","id":"nt/x8f69ofe","slide":6,"text":""}
+{"kind":"slide","id":"sl/gnmp4jqx","slide":7,"title":"英语类","textShapes":3}
+{"kind":"shape","id":"sh/dcbud0ra","slide":7,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！","bbox":[471.67,152.35,731.55,207.65]}
+{"kind":"textbox","id":"sh/ydkbm5sv","slide":7,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！","placeholder":"title","text":"英语类","textPreview":"英语类","textChars":3,"textLines":1,"bbox":[-73.82,64.59,631.27,42.53]}
+{"kind":"textbox","id":"sh/cbq1sv25","slide":7,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！","text":"国家级&省级\n2021年\t全国大学生英语竞赛XXXXXX\n2021年\t第二届全国高校英语挑战赛XXXXX\n2022年\t全国大学生英语竞赛XXXXXX","textPreview":"国家级&省级 | 2021年\t全国大学生英语竞赛XXXXXX | 2021年\t第二届全国高校英语挑战赛XXXXX | 2022年\t全国大学生英语竞赛XXXXXX","textChars":74,"textLines":4,"bbox":[485.53,164.81,623.06,182.03]}
+{"kind":"textbox","id":"sh/p8fih03e","slide":7,"name":"文本框 15","text":" 四六级成绩\n2019.12 四级 XXX分\n2020.09 六级 XXX分","textPreview":"四六级成绩 | 2019.12 四级 XXX分 | 2020.09 六级 XXX分","textChars":38,"textLines":3,"bbox":[472.55,450.47,368.55,140.02]}
+{"kind":"shape","id":"sh/o761ov2t","slide":7,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！","bbox":[471.67,428.98,731.55,183.02]}
+{"kind":"image","id":"im/8rqxsni1","slide":7,"name":"图片 7","bbox":[84.99,125.71,214.79,286.38]}
+{"kind":"image","id":"im/tsze1szm","slide":7,"name":"图片 8","bbox":[120.8,128.16,214.79,286.38]}
+{"kind":"image","id":"im/hcbmpone","slide":7,"name":"图片 1","bbox":[56.43,459.38,309.44,207.77]}
+{"kind":"image","id":"im/gb25wj6t","slide":7,"name":"图片 4","bbox":[128.65,459.38,309.44,207.77]}
+{"kind":"image","id":"im/vat4ne5o","slide":7,"name":"图片 5","bbox":[94.19,459.38,309.44,207.77]}
+{"kind":"image","id":"im/u9knu9o3","slide":7,"name":"图片 9","bbox":[154.34,126.94,214.79,286.38]}
+{"kind":"notes","id":"nt/gnmp4jqx","slide":7,"text":""}
+{"kind":"slide","id":"sl/fu1gfa1s","slide":8,"title":"XXXX类","textShapes":6}
+{"kind":"textbox","id":"sh/ri9g7uhw","slide":8,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！","placeholder":"title","text":"XXXX类","textPreview":"XXXX类","textChars":5,"textLines":1,"bbox":[-361.43,66.64,1091.04,38.41]}
+{"kind":"textbox","id":"sh/07atgnmp","slide":8,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！","text":"比赛名称及奖项","textPreview":"比赛名称及奖项","textChars":7,"textLines":1,"bbox":[298.95,354.59,308.04,43.82]}
+{"kind":"textbox","id":"sh/l8ja9s3a","slide":8,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！","text":"比赛名称及奖项\n","textPreview":"比赛名称及奖项 |","textChars":8,"textLines":2,"bbox":[715.34,357.6,250.23,81.62]}
+{"kind":"textbox","id":"sh/b2hs3il8","slide":8,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！","text":"比赛名称及奖项","textPreview":"比赛名称及奖项","textChars":7,"textLines":1,"bbox":[113.94,624.61,250.23,43.82]}
+{"kind":"textbox","id":"sh/3u18fepo","slide":8,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！","text":"比赛名称及奖项","textPreview":"比赛名称及奖项","textChars":7,"textLines":1,"bbox":[514.89,624.61,250.23,43.82]}
+{"kind":"textbox","id":"sh/2ts769o3","slide":8,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！","text":"比赛名称及奖项","textPreview":"比赛名称及奖项","textChars":7,"textLines":1,"bbox":[915.83,624.61,250.23,43.82]}
+{"kind":"image","id":"im/6lk3ml4f","slide":8,"name":"图片 2","bbox":[265.95,123.93,348.01,233.67]}
+{"kind":"image","id":"im/7mt4fq5k","slide":8,"name":"图片 6","bbox":[666.05,120.08,357.57,240.09]}
+{"kind":"image","id":"im/grmlsvmh","slide":8,"name":"图片 13","bbox":[84.33,407.62,309.44,207.77]}
+{"kind":"image","id":"im/hcvml0n2","slide":8,"name":"图片 14","bbox":[485.28,407.62,309.44,207.77]}
+{"kind":"image","id":"im/upk3q54b","slide":8,"name":"图片 15","bbox":[891.04,407.62,309.44,207.77]}
+{"kind":"notes","id":"nt/fu1gfa1s","slide":8,"text":""}
+{"kind":"slide","id":"sl/udsvah03","slide":9,"title":"科研经历","textShapes":3}
+{"kind":"textbox","id":"sh/lsn2h4fa","slide":9,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！","placeholder":"body","text":"科研经历","textPreview":"科研经历","textChars":4,"textLines":1,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/bml0buxs","slide":9,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！","placeholder":"body","text":"THE RESEARCH EXPERIENCE","textPreview":"THE RESEARCH EXPERIENCE","textChars":23,"textLines":1,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/1cfmhgne","slide":9,"name":"文本框 1","text":"Part III","textPreview":"Part III","textChars":8,"textLines":1,"bbox":[564.43,173.27,167.71,67.86]}
+{"kind":"notes","id":"nt/udsvah03","slide":9,"text":""}
+{"kind":"slide","id":"sl/m90b6t0r","slide":10,"title":"基于特征分析和预测模型的XXXX研究","textShapes":7}
+{"kind":"textbox","id":"sh/zelojyl8","slide":10,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！","placeholder":"title","text":"基于特征分析和预测模型的XXXX研究","textPreview":"基于特征分析和预测模型的XXXX研究","textChars":18,"textLines":1,"bbox":[52.92,70.04,631.27,42.53]}
+{"kind":"textbox","id":"sh/ru18r2to","slide":10,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！-1","text":"项目简介","textPreview":"项目简介","textChars":4,"textLines":1,"bbox":[144.86,144.95,101.87,38.78]}
+{"kind":"textbox","id":"sh/cva9k7a9","slide":10,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！-2","text":"针对XXXXXX事件，针对传统XXXX问题中XXXXXXXXXXX、XXXXXXXXXXX等问题，搜集数据、查阅文献，建立XXXXXXXXX模型","textPreview":"针对XXXXXX事件，针对传统XXXX问题中XXXXXXXXXXX、XXXXXXXXXXX等问题，搜集数据、查阅文献，建立XXXXXXXXX模型","textChars":72,"textLines":1,"bbox":[126.49,188.36,457.97,147.54]}
+{"kind":"textbox","id":"sh/0nut8rul","slide":10,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！-1","text":"主要工作","textPreview":"主要工作","textChars":4,"textLines":1,"bbox":[661.19,318.86,129.25,38.78]}
+{"kind":"textbox","id":"sh/q9srixs3","slide":10,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！-2","text":"数据搜集与预处理\n论文撰写、图表绘制","textPreview":"数据搜集与预处理 | 论文撰写、图表绘制","textChars":18,"textLines":2,"bbox":[677.79,362.39,525.1,71.93]}
+{"kind":"textbox","id":"sh/dwjqtcbu","slide":10,"name":"文本框 32","text":"作为第X作者在XXXX上发表论文\n该研究获得XXX学术竞赛奖项","textPreview":"作为第X作者在XXXX上发表论文 | 该研究获得XXX学术竞赛奖项","textChars":31,"textLines":2,"bbox":[660.49,181.3,457.97,91.8]}
+{"kind":"shape","id":"sh/kzu5c32t","slide":10,"name":"Freeform 5","bbox":[600.3,148.21,42.1,37.31]}
+{"kind":"shape","id":"sh/m1cnetkj","slide":10,"name":"Freeform 5","bbox":[604.29,151.75,34.12,30.24]}
+{"kind":"shape","id":"sh/d87uxg3m","slide":10,"name":"Freeform 5","bbox":[596.76,321.92,42.1,37.31]}
+{"kind":"shape","id":"sh/0bit8b2d","slide":10,"name":"Freeform 5","bbox":[600.75,325.45,34.12,30.24]}
+{"kind":"shape","id":"sh/e9gb61k7","slide":10,"name":"Freeform 5","bbox":[83.97,148.51,42.1,37.31]}
+{"kind":"shape","id":"sh/fapcz6ls","slide":10,"name":"Freeform 5","bbox":[87.96,152.05,34.12,30.24]}
+{"kind":"textbox","id":"sh/ozitcv29","slide":10,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！-1","text":"项目成果","textPreview":"项目成果","textChars":4,"textLines":1,"bbox":[661.19,147.56,129.25,38.78]}
+{"kind":"image","id":"im/18jex4ra","slide":10,"name":"图片 7","bbox":[126.49,368.56,447.37,277.49]}
+{"kind":"image","id":"im/g7axozap","slide":10,"name":"图片 12","bbox":[879.47,461.57,356.96,161.19]}
+{"kind":"image","id":"im/f61wvu94","slide":10,"name":"图片 11","bbox":[621.34,433.94,293.85,234.63]}
+{"kind":"notes","id":"nt/m90b6t0r","slide":10,"text":""}
+{"kind":"slide","id":"sl/jetc3ut0","slide":11,"title":"基于特征分析和预测模型的XXXX研究","textShapes":7}
+{"kind":"textbox","id":"sh/n69grmpw","slide":11,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！","placeholder":"title","text":"基于特征分析和预测模型的XXXX研究","textPreview":"基于特征分析和预测模型的XXXX研究","textChars":18,"textLines":1,"bbox":[52.69,70.39,631.27,42.53]}
+{"kind":"textbox","id":"sh/atwvmh87","slide":11,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！","text":"解决方案","textPreview":"解决方案","textChars":4,"textLines":1,"bbox":[681.65,160.79,116.33,38.78]}
+{"kind":"textbox","id":"sh/bu5wfm9s","slide":11,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！","text":"构建基于XXXXXXXXXXXXXXXXXX的XXXXXXXXXX","textPreview":"构建基于XXXXXXXXXXXXXXXXXX的XXXXXXXXXX","textChars":33,"textLines":1,"bbox":[682.81,197.35,498.76,81.37]}
+{"kind":"shape","id":"sh/5kbyxkby","slide":11,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！","bbox":[666.71,360.77,0,76.8]}
+{"kind":"shape","id":"sh/cn6t83y1","slide":11,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！","bbox":[71.21,155.68,490.21,151.52]}
+{"kind":"textbox","id":"sh/l43ilgn2","slide":11,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！","text":"研究简介","textPreview":"研究简介","textChars":4,"textLines":1,"bbox":[78.22,163,116.33,38.78]}
+{"kind":"textbox","id":"sh/k3uhcb6h","slide":11,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！","text":"针对XXXXXX传统算法存在XXXXXXXX、XXXXXXXXXXXXX的问题，XXXXXXXXXX构建XXXXXXXXXXXXXXXXXXX","textPreview":"针对XXXXXX传统算法存在XXXXXXXX、XXXXXXXXXXXXX的问题，XXXXXXXXXX构建XXXXXXXXXXXXXXXXXXX","textChars":71,"textLines":1,"bbox":[78.22,200.9,476.18,94.84]}
+{"kind":"textbox","id":"sh/p07ixkn6","slide":11,"name":"文本框 27","text":"\n论文撰写、图表绘制、XXXXXXXXXXXXXX\n以第X作者身份投稿XXXXXX，已XX（录用/出刊）","textPreview":"| 论文撰写、图表绘制、XXXXXXXXXXXXXX | 以第X作者身份投稿XXXXXX，已XX（录用/出刊）","textChars":52,"textLines":3,"bbox":[681.75,541.8,640,110.66]}
+{"kind":"shape","id":"sh/o7ih0r6h","slide":11,"name":"矩形 6","bbox":[1095.56,360,74.44,55.35]}
+{"kind":"shape","id":"sh/wbih4b6d","slide":11,"name":"Freeform 5","bbox":[618.95,164.24,42.1,37.31]}
+{"kind":"shape","id":"sh/250zy18b","slide":11,"name":"Freeform 5","bbox":[622.94,167.78,34.12,30.24]}
+{"kind":"shape","id":"sh/72t03qp0","slide":11,"name":"Freeform 5","bbox":[618.95,529.03,42.1,37.31]}
+{"kind":"shape","id":"sh/61kzalof","slide":11,"name":"Freeform 5","bbox":[622.94,532.57,34.12,30.24]}
+{"kind":"textbox","id":"sh/ofqtgnyt","slide":11,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！","text":"主要贡献/成果","textPreview":"主要贡献/成果","textChars":7,"textLines":1,"bbox":[683.96,529.26,171.53,38.78]}
+{"kind":"image","id":"im/fq9cne1s","slide":11,"name":"图片 21","bbox":[71.21,337.41,490.21,275.77]}
+{"kind":"image","id":"im/ep0vut07","slide":11,"name":"图片 25","bbox":[659.08,281.87,521.33,224.4]}
+{"kind":"notes","id":"nt/jetc3ut0","slide":11,"text":""}
+{"kind":"slide","id":"sl/8f2psfyx","slide":12,"title":"校园经历","textShapes":3}
+{"kind":"textbox","id":"sh/1oj61kn6","slide":12,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！","placeholder":"body","text":"校园经历","textPreview":"校园经历","textChars":4,"textLines":1,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/nq1o3a5w","slide":12,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！","placeholder":"body","text":"THE CAMPUS EXPERIENCE","textPreview":"THE CAMPUS EXPERIENCE","textChars":21,"textLines":1,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/1gbm9s3a","slide":12,"name":"文本框 1","text":"Part IV","textPreview":"Part IV","textChars":7,"textLines":1,"bbox":[560.96,173.27,167.71,67.86]}
+{"kind":"notes","id":"nt/8f2psfyx","slide":12,"text":""}
+{"kind":"slide","id":"sl/hgzapcr6","slide":13,"title":"学生干部工作","textShapes":2}
+{"kind":"textbox","id":"sh/o3i5w3ad","slide":13,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！","placeholder":"title","text":"学生干部工作","textPreview":"学生干部工作","textChars":6,"textLines":1,"bbox":[-21.77,66.16,631.27,42.53]}
+{"kind":"textbox","id":"sh/p0zyd0b6","slide":13,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！-1","text":"担任XXXXXXXXX部长，具有出色的文字撰写能力和团队配合意识，曾获得XXXXXXXXXXXXXXXXX。\n曾担任XXXXX大学XXXXX XXXXXXXX，XXXXXXXXXX，XXXXXX。\n曾担任XX、班XX，获评优秀学生干部。","textPreview":"担任XXXXXXXXX部长，具有出色的文字撰写能力和团队配合意识，曾获得XXXXXXXXXXXXXXXXX。 | 曾担任XXXXX大学XXXXX XXXXXXXX，XXXXXXXXXX，XXXXXX。 | 曾担任XX、班XX，获评优秀学生干部。","textChars":118,"textLines":3,"bbox":[713.6,186.41,502.4,255.46]}
+{"kind":"shape","id":"sh/2xof2lcv","slide":13,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！-2","bbox":[713.6,166.41,329.6,38.78]}
+{"kind":"shape","id":"sh/sfe1s3e9","slide":13,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！","bbox":[724.78,593.13,33.11,30.84]}
+{"kind":"shape","id":"sh/7i107edk","slide":13,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！","bbox":[815.78,593.14,33.11,30.81]}
+{"kind":"shape","id":"sh/mhsje9wz","slide":13,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！","bbox":[906.78,591.99,33.11,33.11]}
+{"kind":"shape","id":"sh/y1wju94v","slide":13,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！","bbox":[997.77,596.13,33.11,24.83]}
+{"kind":"image","id":"im/4na1wb29","slide":13,"name":"Picture 2","bbox":[90.22,178.91,600,399]}
+{"kind":"image","id":"im/3m10361o","slide":13,"name":"图片 2","bbox":[721.44,461.86,243.12,163.24]}
+{"kind":"image","id":"im/2lsju1kj","slide":13,"name":"图片 4","bbox":[912.66,461.86,243.12,163.24]}
+{"kind":"notes","id":"nt/hgzapcr6","slide":13,"text":""}
+{"kind":"slide","id":"sl/6lsnupw7","slide":14,"title":"志愿服务工作","textShapes":5}
+{"kind":"shape","id":"sh/c3e1gjyd","slide":14,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！-6","bbox":[845.54,198.89,367.07,281.03]}
+{"kind":"textbox","id":"sh/jepwf2pc","slide":14,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！","placeholder":"title","text":"志愿服务工作","textPreview":"志愿服务工作","textChars":6,"textLines":1,"bbox":[-60.97,56.43,631.27,42.53]}
+{"kind":"textbox","id":"sh/kzy5on2p","slide":14,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！-1","text":"除此，还参加了XXXX大学校庆志愿者、XX区残联志愿者等，志愿时长超过XXXh.","textPreview":"除此，还参加了XXXX大学校庆志愿者、XX区残联志愿者等，志愿时长超过XXXh.","textChars":40,"textLines":1,"bbox":[61.07,511.62,1157.85,40.59]}
+{"kind":"shape","id":"sh/lkrmhsju","slide":14,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！-2","bbox":[63.07,198.03,367.07,281.03]}
+{"kind":"textbox","id":"sh/ep8j6ps7","slide":14,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！-5","text":"美丽中国支教项目","textPreview":"美丽中国支教项目","textChars":8,"textLines":1,"bbox":[71.33,425.9,227.21,38.78]}
+{"kind":"shape","id":"sh/zqh0zuts","slide":14,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！-6","bbox":[458.47,197.85,367.07,281.03]}
+{"kind":"shape","id":"sh/5o32d8r2","slide":14,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！-8","bbox":[479.74,360.71,315.32,36.57]}
+{"kind":"textbox","id":"sh/t4zixoj6","slide":14,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！-9","text":"无偿献血","textPreview":"无偿献血","textChars":4,"textLines":1,"bbox":[474.2,424.57,192.21,38.78]}
+{"kind":"textbox","id":"sh/z650byxo","slide":14,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！-5","text":"组织班级同学共同参加“重马”志愿者","textPreview":"组织班级同学共同参加“重马”志愿者","textChars":17,"textLines":1,"bbox":[861.39,418.7,336.48,67.86]}
+{"kind":"image","id":"im/jalgvex4","slide":14,"name":"Picture 4","bbox":[63.07,201.65,333.91,219.83]}
+{"kind":"image","id":"im/kbuh4jyp","slide":14,"name":"Picture 4","bbox":[459.73,200.69,333.91,219.83]}
+{"kind":"image","id":"im/lc3yxofa","slide":14,"name":"Picture 4","bbox":[846.65,199.72,333.91,219.83]}
+{"kind":"notes","id":"nt/6lsnupw7","slide":14,"text":""}
+{"kind":"slide","id":"sl/vaxsvy10","slide":15,"title":"恳请各位导师批评指导","textShapes":2}
+{"kind":"shape","id":"sh/z250nm5s","slide":15,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！-1","bbox":[0,0,128.53,128.53]}
+{"kind":"shape","id":"sh/4zi18b6h","slide":15,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！-2","bbox":[1151.47,0,128.53,128.53]}
+{"kind":"shape","id":"sh/50r21gn2","slide":15,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！-3","bbox":[0,591.47,128.53,128.53]}
+{"kind":"shape","id":"sh/dgnilgf6","slide":15,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！-4","bbox":[1151.47,591.47,128.53,128.53]}
+{"kind":"shape","id":"sh/l0bqlgf2","slide":15,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！-5","bbox":[22.4,21.6,1235.2,676.8]}
+{"kind":"shape","id":"sh/m9c3e1kn","slide":15,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！-6","bbox":[33.07,32,1213.87,656]}
+{"kind":"textbox","id":"sh/ovmdkjud","slide":15,"name":"powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！","text":"恳请各位导师批评指导","textPreview":"恳请各位导师批评指导","textChars":10,"textLines":1,"bbox":[186.01,329.13,907.98,106.63]}
+{"kind":"textbox","id":"sh/76p4jqls","slide":15,"name":"文本框 19","text":"汇报人：大熊猫","textPreview":"汇报人：大熊猫","textChars":7,"textLines":1,"bbox":[856.78,517.66,411.48,42.01]}
+{"kind":"image","id":"im/bml4fehk","slide":15,"name":"图片 13","bbox":[541.79,102.87,196.42,189.99]}
+{"kind":"notes","id":"nt/vaxsvy10","slide":15,"text":""}

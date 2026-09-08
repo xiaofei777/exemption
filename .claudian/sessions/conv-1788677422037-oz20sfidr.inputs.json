@@ -270,6 +270,168 @@
       "contentDigest": "7bf0d6addc4a485bcc965b5de4947143752ce6980d8ecbe2c0013b3a19587aed",
       "providerUserMessageId": "01a07612-3b56-78d1-b660-38d9ad081ff1",
       "providerAssistantMessageId": "msg_01af5c39e6555d1a016a9d33f955e487d09095d3380510a062"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788772579970-2itoe6u",
+      "userTurnOrdinal": 19,
+      "state": "accepted",
+      "localMessageId": "msg-1788772579965-wmb4afm",
+      "timestamp": 1788772579965,
+      "rawDisplayText": "给我文档",
+      "canonicalText": "给我文档",
+      "images": [],
+      "contentDigest": "4f67e021e05937a924da7b0458f2142e61f7ff32c1d6f86a649fc17e109637bc",
+      "providerUserMessageId": "01a07b27-7ad2-7a13-b000-badc38f992b7",
+      "providerAssistantMessageId": "msg_01af5c39e6555d1a016a9e8125bc4887d0a9a8e249573a3b00"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788786699938-olgoe1c",
+      "userTurnOrdinal": 20,
+      "state": "accepted",
+      "localMessageId": "msg-1788786699930-6hvu8c6",
+      "timestamp": 1788786699930,
+      "rawDisplayText": "以同数据、同超参的消融实验验证。\n这个消融实验是什么意思？",
+      "canonicalText": "以同数据、同超参的消融实验验证。\n这个消融实验是什么意思？",
+      "context": {
+        "editorSelection": {
+          "notePath": "项目一/知识点/消融实验与控制变量详解.md",
+          "mode": "selection",
+          "selectedText": "以同数据、同超参的消融实验验证。",
+          "lineCount": 1,
+          "startLine": 7
+        }
+      },
+      "images": [],
+      "contentDigest": "4ac864be986e607c1061230c0042a0ee68a1465eb6d4647bcd7a064719b24344",
+      "providerUserMessageId": "01a07bfe-ef89-7213-83b5-3f393dcc5c1d",
+      "providerAssistantMessageId": "msg_01af5c39e6555d1a016a9eb8376c7887d091e978f5e113ab98"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788786872575-woweimw",
+      "userTurnOrdinal": 21,
+      "state": "accepted",
+      "localMessageId": "msg-1788786872569-mjmug6g",
+      "timestamp": 1788786872569,
+      "rawDisplayText": "关于消融实验可能会问什么问题？",
+      "canonicalText": "关于消融实验可能会问什么问题？",
+      "images": [],
+      "contentDigest": "0a08eec9391cfa05287d99130e3228121f6a010ec293e43ab3f9fba9d2652d9c",
+      "providerUserMessageId": "01a07c01-912a-7e81-a851-e6685ded42ae",
+      "providerAssistantMessageId": "msg_01af5c39e6555d1a016a9eb8dfabb887d08d91b10454b6f3fd"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788789157789-39lga5i",
+      "userTurnOrdinal": 22,
+      "state": "accepted",
+      "localMessageId": "msg-1788789157783-75bduls",
+      "timestamp": 1788789157783,
+      "rawDisplayText": "除了消融实验，还可以用什么实验？",
+      "canonicalText": "除了消融实验，还可以用什么实验？",
+      "images": [],
+      "contentDigest": "e564201aca556fc289ceb57ae05bbeb2da62ccf68ca8b26de4b8c3685617af0a",
+      "providerUserMessageId": "01a07c24-7044-7a12-9fb4-00bd269fe23a",
+      "providerAssistantMessageId": "msg_01af5c39e6555d1a016a9ec1e868bc87d08f81a2b467f39e85"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788789364856-5jvoqap",
+      "userTurnOrdinal": 23,
+      "state": "accepted",
+      "localMessageId": "msg-1788789364850-tkccm5u",
+      "timestamp": 1788789364850,
+      "rawDisplayText": "上面关于这个消融实验的内容，总结一下给我文档",
+      "canonicalText": "上面关于这个消融实验的内容，总结一下给我文档",
+      "images": [],
+      "contentDigest": "1a5aaeaa95d981def55817d77af438ef0e88fd6a21ace30ab3510778fe155cb0",
+      "providerUserMessageId": "01a07c27-98a0-7702-a541-f22bfd6cbf27",
+      "providerAssistantMessageId": "msg_01af5c39e6555d1a016a9ec2f33ed487d083e5a5e433a99663"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788791509941-nxgln4n",
+      "userTurnOrdinal": 24,
+      "state": "accepted",
+      "localMessageId": "msg-1788791509933-tacu7tq",
+      "timestamp": 1788791509933,
+      "rawDisplayText": "COCO 预训练，是什么？",
+      "canonicalText": "COCO 预训练，是什么？",
+      "context": {
+        "editorSelection": {
+          "notePath": "项目一/面试问题准备-项目一.md",
+          "mode": "selection",
+          "selectedText": " COCO 预训练",
+          "lineCount": 1,
+          "startLine": 15
+        }
+      },
+      "images": [],
+      "contentDigest": "d0cc5ac6d42c791c9df755093e8b5b9f384a38757cda7ed758d75df0c5d60bc6",
+      "providerUserMessageId": "01a07c48-5455-7773-b2e4-c1812bee645a",
+      "providerAssistantMessageId": "msg_01af5c39e6555d1a016a9ecaff958487d0994955dedbb32284"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788792860062-celcdiz",
+      "userTurnOrdinal": 25,
+      "state": "accepted",
+      "localMessageId": "msg-1788792860048-35jmofa",
+      "timestamp": 1788792860048,
+      "rawDisplayText": "给我文档",
+      "canonicalText": "给我文档",
+      "context": {
+        "editorSelection": {
+          "notePath": "项目一/面试问题准备-项目一.md",
+          "mode": "selection",
+          "selectedText": " COCO 预训练",
+          "lineCount": 1,
+          "startLine": 15
+        }
+      },
+      "images": [],
+      "contentDigest": "4f67e021e05937a924da7b0458f2142e61f7ff32c1d6f86a649fc17e109637bc",
+      "providerUserMessageId": "01a07c5c-ee4e-7012-a9fb-dddd2a87bcaf",
+      "providerAssistantMessageId": "msg_01af5c39e6555d1a016a9ed0e0344887d088565caead96796d"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788793089298-34xapog",
+      "userTurnOrdinal": 26,
+      "state": "accepted",
+      "localMessageId": "msg-1788793089292-ulggvlg",
+      "timestamp": 1788793089292,
+      "rawDisplayText": "迁移学习是什么，解释一下",
+      "canonicalText": "迁移学习是什么，解释一下",
+      "context": {
+        "editorSelection": {
+          "notePath": "项目一/面试问题准备-项目一.md",
+          "mode": "selection",
+          "selectedText": "迁移学习",
+          "lineCount": 1,
+          "startLine": 15
+        }
+      },
+      "images": [],
+      "contentDigest": "77d393cb0624f7ebc26b9b4e62a29134acbdccd1bf4570fc10b28b01ecd8d957",
+      "providerUserMessageId": "01a07c60-6d38-7921-93fd-d30f4d959305",
+      "providerAssistantMessageId": "msg_01af5c39e6555d1a016a9ed11920f887d0ac31f37c6b6445d6"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788793241540-qdmu7ek",
+      "userTurnOrdinal": 27,
+      "state": "accepted",
+      "localMessageId": "msg-1788793241535-wsju8im",
+      "timestamp": 1788793241535,
+      "rawDisplayText": "给我文档",
+      "canonicalText": "给我文档",
+      "images": [],
+      "contentDigest": "4f67e021e05937a924da7b0458f2142e61f7ff32c1d6f86a649fc17e109637bc",
+      "providerUserMessageId": "01a07c62-bfe7-7dd1-b507-f2729e31724d",
+      "providerAssistantMessageId": "msg_01af5c39e6555d1a016a9ed22a1d1087d09c62b2d7ad5429df"
     }
   ]
 }

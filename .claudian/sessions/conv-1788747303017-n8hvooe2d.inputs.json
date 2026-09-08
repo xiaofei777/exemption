@@ -43,6 +43,76 @@
       "contentDigest": "1cb1998f0fd61b1f741a67f6f56f1884796606d1e07406f5324ffb1e4535604a",
       "providerUserMessageId": "01a07a93-7fd2-7fe3-a5a9-936cb077e066",
       "providerAssistantMessageId": "msg_0be51bd239ad8056016a9e5bdf2af487d08bdb9fe456eb8705"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788771765716-gv298w3",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1788771765705-n1ss929",
+      "timestamp": 1788771765705,
+      "rawDisplayText": "学习和工作经历 @预推免报名速填卡.md 补充一下",
+      "canonicalText": "学习和工作经历 @预推免报名速填卡.md 补充一下",
+      "images": [],
+      "contentDigest": "b3a1223142f4ce49040d2698985863e378562faba33b28bcd0df36b8d324356c",
+      "providerUserMessageId": "01a07b1b-0e9e-7040-989c-a42960d450ee",
+      "providerAssistantMessageId": "msg_0be51bd239ad8056016a9e7f6152a887d08a9cf8857d1c2640"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788772197165-lcbaaix",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1788772197158-zc30bnm",
+      "timestamp": 1788772197158,
+      "rawDisplayText": "何时何地何原因受过何种奖励 ，补充一下",
+      "canonicalText": "何时何地何原因受过何种奖励 ，补充一下",
+      "images": [],
+      "contentDigest": "41e29151d5414bae96a082a35cdec76b9ddff2ac8fa63e56988e2744d8ea6dfc",
+      "providerUserMessageId": "01a07b21-a36c-7092-829b-38df9561cbd9",
+      "providerAssistantMessageId": "msg_0be51bd239ad8056016a9e7fb9bb1087d0aa59a42902a09ac7"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788772422403-8ltimcs",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1788772422399-bva98jv",
+      "timestamp": 1788772422399,
+      "rawDisplayText": "读一下 @项目一/项目内容.md ，回答我并以同数据、同超参的消融实验验证，其中的消融实验是什么意思？",
+      "canonicalText": "读一下 @项目一/项目内容.md ，回答我并以同数据、同超参的消融实验验证，其中的消融实验是什么意思？",
+      "images": [],
+      "contentDigest": "4ff03850c6a9c90df3aaef7b5d7058e0d4b48f6742190e493ac64e8d630fa455",
+      "providerUserMessageId": "01a07b25-1330-7292-8745-3d11e67d8879",
+      "providerAssistantMessageId": "msg_0be51bd239ad8056016a9e8086748c87d0ac20516995b2d018"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788772515692-y79no65",
+      "userTurnOrdinal": 6,
+      "state": "accepted",
+      "localMessageId": "msg-1788772515687-o4v7qcu",
+      "timestamp": 1788772515687,
+      "rawDisplayText": "给我文档，放到 @项目一/知识点/",
+      "canonicalText": "给我文档，放到 @项目一/知识点/",
+      "images": [],
+      "contentDigest": "473666741f24e12bbafe68d2fac174ad50d697af90a214588c85acf64a92e5c7",
+      "providerUserMessageId": "01a07b26-7fa4-76d3-bc4b-76a0bbf248d6",
+      "providerAssistantMessageId": "msg_0be51bd239ad8056016a9e8162e5b487d0a95318d076079253"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788775658300-4bccj5x",
+      "userTurnOrdinal": 7,
+      "state": "accepted",
+      "localMessageId": "msg-1788775658293-aqbg3rc",
+      "timestamp": 1788775658293,
+      "rawDisplayText": "@个人自述 这个个人自述稍稍精简一点，800字以内",
+      "canonicalText": "@个人自述 这个个人自述稍稍精简一点，800字以内",
+      "images": [],
+      "contentDigest": "4b26445631ef32c6e67a1eadbec84a5c5f8ea7c913690097a6a364a02cd88190",
+      "providerUserMessageId": "01a07b56-73fd-7f23-be32-4132901172b6",
+      "providerAssistantMessageId": "msg_0be51bd239ad8056016a9e8ddec26887d0a0741203d8910fb5"
     }
   ]
 }

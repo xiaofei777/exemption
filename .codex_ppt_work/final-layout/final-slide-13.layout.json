@@ -1,0 +1,2098 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/hgzapcr6",
+    "id": "hgzapcr6",
+    "slide": 13,
+    "layoutId": "/ppt/slideLayouts/slideLayout4.xml",
+    "layoutName": "2_标题幻灯片",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "自定义 22",
+    "colors": {
+      "accent1": "#0A73AE",
+      "accent2": "#0A73AE",
+      "accent3": "#0A73AE",
+      "accent4": "#0A73AE",
+      "accent5": "#0A73AE",
+      "accent6": "#70AD47",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#0563C1",
+      "folHlink": "#954F72"
+    },
+    "fontScheme": {
+      "name": "mmhun255",
+      "majorFont": {
+        "latinTypeface": "Arial",
+        "eastAsianTypeface": "微软雅黑"
+      },
+      "minorFont": {
+        "latinTypeface": "Arial",
+        "eastAsianTypeface": "微软雅黑"
+      }
+    },
+    "typefaces": [
+      "Arial",
+      "微软雅黑"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout4.xml",
+      "name": "2_标题幻灯片",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "backgroundColor": "bg1",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/71",
+          "id": "71",
+          "name": "任意多边形: 形状 70",
+          "bbox": [
+            1220.27,
+            -254.04,
+            2.92,
+            2.92
+          ],
+          "rotation": 0,
+          "verticalFlip": true,
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle"
+          },
+          "fillColor": {
+            "type": "theme",
+            "value": "bg1",
+            "transform": {
+              "darken": 0.05
+            }
+          },
+          "lineWidth": 1
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/72",
+          "id": "72",
+          "name": "任意多边形: 形状 71",
+          "bbox": [
+            1220.27,
+            -263.44,
+            2.92,
+            2.92
+          ],
+          "rotation": 0,
+          "verticalFlip": true,
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle"
+          },
+          "fillColor": {
+            "type": "theme",
+            "value": "bg1",
+            "transform": {
+              "darken": 0.05
+            }
+          },
+          "lineWidth": 1
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/73",
+          "id": "73",
+          "name": "任意多边形: 形状 72",
+          "bbox": [
+            1220.27,
+            -272.62,
+            2.92,
+            2.92
+          ],
+          "rotation": 0,
+          "verticalFlip": true,
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle"
+          },
+          "fillColor": {
+            "type": "theme",
+            "value": "bg1",
+            "transform": {
+              "darken": 0.05
+            }
+          },
+          "lineWidth": 1
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/74",
+          "id": "74",
+          "name": "任意多边形: 形状 73",
+          "bbox": [
+            1220.27,
+            -281.81,
+            2.92,
+            2.92
+          ],
+          "rotation": 0,
+          "verticalFlip": true,
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle"
+          },
+          "fillColor": {
+            "type": "theme",
+            "value": "bg1",
+            "transform": {
+              "darken": 0.05
+            }
+          },
+          "lineWidth": 1
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/75",
+          "id": "75",
+          "name": "任意多边形: 形状 74",
+          "bbox": [
+            1220.27,
+            -291,
+            2.92,
+            2.92
+          ],
+          "rotation": 0,
+          "verticalFlip": true,
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle"
+          },
+          "fillColor": {
+            "type": "theme",
+            "value": "bg1",
+            "transform": {
+              "darken": 0.05
+            }
+          },
+          "lineWidth": 1
+        },
+        {
+          "order": 6,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/76",
+          "id": "76",
+          "name": "任意多边形: 形状 75",
+          "bbox": [
+            1220.27,
+            -300.19,
+            2.92,
+            2.92
+          ],
+          "rotation": 0,
+          "verticalFlip": true,
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle"
+          },
+          "fillColor": {
+            "type": "theme",
+            "value": "bg1",
+            "transform": {
+              "darken": 0.05
+            }
+          },
+          "lineWidth": 1
+        },
+        {
+          "order": 7,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/77",
+          "id": "77",
+          "name": "任意多边形: 形状 76",
+          "bbox": [
+            1220.27,
+            -309.38,
+            2.92,
+            2.92
+          ],
+          "rotation": 0,
+          "verticalFlip": true,
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle"
+          },
+          "fillColor": {
+            "type": "theme",
+            "value": "bg1",
+            "transform": {
+              "darken": 0.05
+            }
+          },
+          "lineWidth": 1
+        },
+        {
+          "order": 8,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/78",
+          "id": "78",
+          "name": "任意多边形: 形状 77",
+          "bbox": [
+            1231.63,
+            -254.04,
+            2.92,
+            2.92
+          ],
+          "rotation": 0,
+          "verticalFlip": true,
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle"
+          },
+          "fillColor": {
+            "type": "theme",
+            "value": "bg1",
+            "transform": {
+              "darken": 0.05
+            }
+          },
+          "lineWidth": 1
+        },
+        {
+          "order": 9,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/79",
+          "id": "79",
+          "name": "任意多边形: 形状 78",
+          "bbox": [
+            1231.63,
+            -263.23,
+            2.92,
+            2.92
+          ],
+          "rotation": 0,
+          "verticalFlip": true,
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle"
+          },
+          "fillColor": {
+            "type": "theme",
+            "value": "bg1",
+            "transform": {
+              "darken": 0.05
+            }
+          },
+          "lineWidth": 1
+        },
+        {
+          "order": 10,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/80",
+          "id": "80",
+          "name": "任意多边形: 形状 79",
+          "bbox": [
+            1231.63,
+            -272.42,
+            2.92,
+            2.92
+          ],
+          "rotation": 0,
+          "verticalFlip": true,
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle"
+          },
+          "fillColor": {
+            "type": "theme",
+            "value": "bg1",
+            "transform": {
+              "darken": 0.05
+            }
+          },
+          "lineWidth": 1
+        },
+        {
+          "order": 11,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/81",
+          "id": "81",
+          "name": "任意多边形: 形状 80",
+          "bbox": [
+            1231.63,
+            -281.6,
+            2.92,
+            2.92
+          ],
+          "rotation": 0,
+          "verticalFlip": true,
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle"
+          },
+          "fillColor": {
+            "type": "theme",
+            "value": "bg1",
+            "transform": {
+              "darken": 0.05
+            }
+          },
+          "lineWidth": 1
+        },
+        {
+          "order": 12,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/82",
+          "id": "82",
+          "name": "任意多边形: 形状 81",
+          "bbox": [
+            1231.63,
+            -291,
+            2.92,
+            2.92
+          ],
+          "rotation": 0,
+          "verticalFlip": true,
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle"
+          },
+          "fillColor": {
+            "type": "theme",
+            "value": "bg1",
+            "transform": {
+              "darken": 0.05
+            }
+          },
+          "lineWidth": 1
+        },
+        {
+          "order": 13,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/83",
+          "id": "83",
+          "name": "任意多边形: 形状 82",
+          "bbox": [
+            1231.63,
+            -300.19,
+            2.92,
+            2.92
+          ],
+          "rotation": 0,
+          "verticalFlip": true,
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle"
+          },
+          "fillColor": {
+            "type": "theme",
+            "value": "bg1",
+            "transform": {
+              "darken": 0.05
+            }
+          },
+          "lineWidth": 1
+        },
+        {
+          "order": 14,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/84",
+          "id": "84",
+          "name": "任意多边形: 形状 83",
+          "bbox": [
+            1231.63,
+            -309.38,
+            2.92,
+            2.92
+          ],
+          "rotation": 0,
+          "verticalFlip": true,
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle"
+          },
+          "fillColor": {
+            "type": "theme",
+            "value": "bg1",
+            "transform": {
+              "darken": 0.05
+            }
+          },
+          "lineWidth": 1
+        },
+        {
+          "order": 15,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/85",
+          "id": "85",
+          "name": "任意多边形: 形状 84",
+          "bbox": [
+            1242.99,
+            -254.04,
+            2.92,
+            2.92
+          ],
+          "rotation": 0,
+          "verticalFlip": true,
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle"
+          },
+          "fillColor": {
+            "type": "theme",
+            "value": "bg1",
+            "transform": {
+              "darken": 0.05
+            }
+          },
+          "lineWidth": 1
+        },
+        {
+          "order": 16,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/86",
+          "id": "86",
+          "name": "任意多边形: 形状 85",
+          "bbox": [
+            1242.99,
+            -263.23,
+            2.92,
+            2.92
+          ],
+          "rotation": 0,
+          "verticalFlip": true,
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle"
+          },
+          "fillColor": {
+            "type": "theme",
+            "value": "bg1",
+            "transform": {
+              "darken": 0.05
+            }
+          },
+          "lineWidth": 1
+        },
+        {
+          "order": 17,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/87",
+          "id": "87",
+          "name": "任意多边形: 形状 86",
+          "bbox": [
+            1242.99,
+            -272.42,
+            2.92,
+            2.92
+          ],
+          "rotation": 0,
+          "verticalFlip": true,
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle"
+          },
+          "fillColor": {
+            "type": "theme",
+            "value": "bg1",
+            "transform": {
+              "darken": 0.05
+            }
+          },
+          "lineWidth": 1
+        },
+        {
+          "order": 18,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/88",
+          "id": "88",
+          "name": "任意多边形: 形状 87",
+          "bbox": [
+            1242.99,
+            -281.6,
+            2.92,
+            2.92
+          ],
+          "rotation": 0,
+          "verticalFlip": true,
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle"
+          },
+          "fillColor": {
+            "type": "theme",
+            "value": "bg1",
+            "transform": {
+              "darken": 0.05
+            }
+          },
+          "lineWidth": 1
+        },
+        {
+          "order": 19,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/89",
+          "id": "89",
+          "name": "任意多边形: 形状 88",
+          "bbox": [
+            1242.99,
+            -291,
+            2.92,
+            2.92
+          ],
+          "rotation": 0,
+          "verticalFlip": true,
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle"
+          },
+          "fillColor": {
+            "type": "theme",
+            "value": "bg1",
+            "transform": {
+              "darken": 0.05
+            }
+          },
+          "lineWidth": 1
+        },
+        {
+          "order": 20,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/90",
+          "id": "90",
+          "name": "任意多边形: 形状 89",
+          "bbox": [
+            1242.99,
+            -300.19,
+            2.92,
+            2.92
+          ],
+          "rotation": 0,
+          "verticalFlip": true,
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle"
+          },
+          "fillColor": {
+            "type": "theme",
+            "value": "bg1",
+            "transform": {
+              "darken": 0.05
+            }
+          },
+          "lineWidth": 1
+        },
+        {
+          "order": 21,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/91",
+          "id": "91",
+          "name": "任意多边形: 形状 90",
+          "bbox": [
+            1242.99,
+            -309.38,
+            2.92,
+            2.92
+          ],
+          "rotation": 0,
+          "verticalFlip": true,
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle"
+          },
+          "fillColor": {
+            "type": "theme",
+            "value": "bg1",
+            "transform": {
+              "darken": 0.05
+            }
+          },
+          "lineWidth": 1
+        },
+        {
+          "order": 22,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/92",
+          "id": "92",
+          "name": "任意多边形: 形状 91",
+          "bbox": [
+            1254.35,
+            -254.04,
+            2.92,
+            2.92
+          ],
+          "rotation": 0,
+          "verticalFlip": true,
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle"
+          },
+          "fillColor": {
+            "type": "theme",
+            "value": "bg1",
+            "transform": {
+              "darken": 0.05
+            }
+          },
+          "lineWidth": 1
+        },
+        {
+          "order": 23,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/93",
+          "id": "93",
+          "name": "任意多边形: 形状 92",
+          "bbox": [
+            1254.35,
+            -263.23,
+            2.92,
+            2.92
+          ],
+          "rotation": 0,
+          "verticalFlip": true,
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle"
+          },
+          "fillColor": {
+            "type": "theme",
+            "value": "bg1",
+            "transform": {
+              "darken": 0.05
+            }
+          },
+          "lineWidth": 1
+        },
+        {
+          "order": 24,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/94",
+          "id": "94",
+          "name": "任意多边形: 形状 93",
+          "bbox": [
+            1254.35,
+            -272.42,
+            2.92,
+            2.92
+          ],
+          "rotation": 0,
+          "verticalFlip": true,
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle"
+          },
+          "fillColor": {
+            "type": "theme",
+            "value": "bg1",
+            "transform": {
+              "darken": 0.05
+            }
+          },
+          "lineWidth": 1
+        },
+        {
+          "order": 25,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/95",
+          "id": "95",
+          "name": "任意多边形: 形状 94",
+          "bbox": [
+            1254.35,
+            -281.6,
+            2.92,
+            2.92
+          ],
+          "rotation": 0,
+          "verticalFlip": true,
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle"
+          },
+          "fillColor": {
+            "type": "theme",
+            "value": "bg1",
+            "transform": {
+              "darken": 0.05
+            }
+          },
+          "lineWidth": 1
+        },
+        {
+          "order": 26,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/96",
+          "id": "96",
+          "name": "任意多边形: 形状 95",
+          "bbox": [
+            1254.35,
+            -291,
+            2.92,
+            2.92
+          ],
+          "rotation": 0,
+          "verticalFlip": true,
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle"
+          },
+          "fillColor": {
+            "type": "theme",
+            "value": "bg1",
+            "transform": {
+              "darken": 0.05
+            }
+          },
+          "lineWidth": 1
+        },
+        {
+          "order": 27,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/97",
+          "id": "97",
+          "name": "任意多边形: 形状 96",
+          "bbox": [
+            1254.35,
+            -300.19,
+            2.92,
+            2.92
+          ],
+          "rotation": 0,
+          "verticalFlip": true,
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle"
+          },
+          "fillColor": {
+            "type": "theme",
+            "value": "bg1",
+            "transform": {
+              "darken": 0.05
+            }
+          },
+          "lineWidth": 1
+        },
+        {
+          "order": 28,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/98",
+          "id": "98",
+          "name": "任意多边形: 形状 97",
+          "bbox": [
+            1254.35,
+            -309.38,
+            2.92,
+            2.92
+          ],
+          "rotation": 0,
+          "verticalFlip": true,
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle"
+          },
+          "fillColor": {
+            "type": "theme",
+            "value": "bg1",
+            "transform": {
+              "darken": 0.05
+            }
+          },
+          "lineWidth": 1
+        },
+        {
+          "order": 29,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/99",
+          "id": "99",
+          "name": "任意多边形: 形状 98",
+          "bbox": [
+            1265.71,
+            -254.04,
+            2.92,
+            2.92
+          ],
+          "rotation": 0,
+          "verticalFlip": true,
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle"
+          },
+          "fillColor": {
+            "type": "theme",
+            "value": "bg1",
+            "transform": {
+              "darken": 0.05
+            }
+          },
+          "lineWidth": 1
+        },
+        {
+          "order": 30,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/100",
+          "id": "100",
+          "name": "任意多边形: 形状 99",
+          "bbox": [
+            1265.71,
+            -263.23,
+            2.92,
+            2.92
+          ],
+          "rotation": 0,
+          "verticalFlip": true,
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle"
+          },
+          "fillColor": {
+            "type": "theme",
+            "value": "bg1",
+            "transform": {
+              "darken": 0.05
+            }
+          },
+          "lineWidth": 1
+        },
+        {
+          "order": 31,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/101",
+          "id": "101",
+          "name": "任意多边形: 形状 100",
+          "bbox": [
+            1265.71,
+            -272.42,
+            2.92,
+            2.92
+          ],
+          "rotation": 0,
+          "verticalFlip": true,
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle"
+          },
+          "fillColor": {
+            "type": "theme",
+            "value": "bg1",
+            "transform": {
+              "darken": 0.05
+            }
+          },
+          "lineWidth": 1
+        },
+        {
+          "order": 32,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/102",
+          "id": "102",
+          "name": "任意多边形: 形状 101",
+          "bbox": [
+            1265.71,
+            -281.6,
+            2.92,
+            2.92
+          ],
+          "rotation": 0,
+          "verticalFlip": true,
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle"
+          },
+          "fillColor": {
+            "type": "theme",
+            "value": "bg1",
+            "transform": {
+              "darken": 0.05
+            }
+          },
+          "lineWidth": 1
+        },
+        {
+          "order": 33,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/103",
+          "id": "103",
+          "name": "任意多边形: 形状 102",
+          "bbox": [
+            1265.71,
+            -291,
+            2.92,
+            2.92
+          ],
+          "rotation": 0,
+          "verticalFlip": true,
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle"
+          },
+          "fillColor": {
+            "type": "theme",
+            "value": "bg1",
+            "transform": {
+              "darken": 0.05
+            }
+          },
+          "lineWidth": 1
+        },
+        {
+          "order": 34,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/104",
+          "id": "104",
+          "name": "任意多边形: 形状 103",
+          "bbox": [
+            1265.71,
+            -300.19,
+            2.92,
+            2.92
+          ],
+          "rotation": 0,
+          "verticalFlip": true,
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle"
+          },
+          "fillColor": {
+            "type": "theme",
+            "value": "bg1",
+            "transform": {
+              "darken": 0.05
+            }
+          },
+          "lineWidth": 1
+        },
+        {
+          "order": 35,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/105",
+          "id": "105",
+          "name": "任意多边形: 形状 104",
+          "bbox": [
+            1265.71,
+            -309.38,
+            2.92,
+            2.92
+          ],
+          "rotation": 0,
+          "verticalFlip": true,
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle"
+          },
+          "fillColor": {
+            "type": "theme",
+            "value": "bg1",
+            "transform": {
+              "darken": 0.05
+            }
+          },
+          "lineWidth": 1
+        },
+        {
+          "order": 36,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/106",
+          "id": "106",
+          "name": "任意多边形: 形状 105",
+          "bbox": [
+            1277.08,
+            -254.04,
+            2.92,
+            2.92
+          ],
+          "rotation": 0,
+          "verticalFlip": true,
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle"
+          },
+          "fillColor": {
+            "type": "theme",
+            "value": "bg1",
+            "transform": {
+              "darken": 0.05
+            }
+          },
+          "lineWidth": 1
+        },
+        {
+          "order": 37,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/107",
+          "id": "107",
+          "name": "任意多边形: 形状 106",
+          "bbox": [
+            1277.08,
+            -263.23,
+            2.92,
+            2.92
+          ],
+          "rotation": 0,
+          "verticalFlip": true,
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle"
+          },
+          "fillColor": {
+            "type": "theme",
+            "value": "bg1",
+            "transform": {
+              "darken": 0.05
+            }
+          },
+          "lineWidth": 1
+        },
+        {
+          "order": 38,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/108",
+          "id": "108",
+          "name": "任意多边形: 形状 107",
+          "bbox": [
+            1277.08,
+            -272.42,
+            2.92,
+            2.92
+          ],
+          "rotation": 0,
+          "verticalFlip": true,
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle"
+          },
+          "fillColor": {
+            "type": "theme",
+            "value": "bg1",
+            "transform": {
+              "darken": 0.05
+            }
+          },
+          "lineWidth": 1
+        },
+        {
+          "order": 39,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/109",
+          "id": "109",
+          "name": "任意多边形: 形状 108",
+          "bbox": [
+            1277.08,
+            -281.6,
+            2.92,
+            2.92
+          ],
+          "rotation": 0,
+          "verticalFlip": true,
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle"
+          },
+          "fillColor": {
+            "type": "theme",
+            "value": "bg1",
+            "transform": {
+              "darken": 0.05
+            }
+          },
+          "lineWidth": 1
+        },
+        {
+          "order": 40,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/110",
+          "id": "110",
+          "name": "任意多边形: 形状 109",
+          "bbox": [
+            1277.08,
+            -291,
+            2.92,
+            2.92
+          ],
+          "rotation": 0,
+          "verticalFlip": true,
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle"
+          },
+          "fillColor": {
+            "type": "theme",
+            "value": "bg1",
+            "transform": {
+              "darken": 0.05
+            }
+          },
+          "lineWidth": 1
+        },
+        {
+          "order": 41,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/111",
+          "id": "111",
+          "name": "任意多边形: 形状 110",
+          "bbox": [
+            1277.08,
+            -300.19,
+            2.92,
+            2.92
+          ],
+          "rotation": 0,
+          "verticalFlip": true,
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle"
+          },
+          "fillColor": {
+            "type": "theme",
+            "value": "bg1",
+            "transform": {
+              "darken": 0.05
+            }
+          },
+          "lineWidth": 1
+        },
+        {
+          "order": 42,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/112",
+          "id": "112",
+          "name": "任意多边形: 形状 111",
+          "bbox": [
+            1277.08,
+            -309.38,
+            2.92,
+            2.92
+          ],
+          "rotation": 0,
+          "verticalFlip": true,
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle"
+          },
+          "fillColor": {
+            "type": "theme",
+            "value": "bg1",
+            "transform": {
+              "darken": 0.05
+            }
+          },
+          "lineWidth": 1
+        },
+        {
+          "order": 43,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/4",
+          "id": "4",
+          "name": "标题 1",
+          "bbox": [
+            142.47,
+            60.37,
+            631.27,
+            42.53
+          ],
+          "geometry": "rect",
+          "text": "单击此处标题",
+          "textPreview": "单击此处标题",
+          "resolvedTextStyle": {
+            "wrap": "square",
+            "autoFit": "resizeShapeToFitText",
+            "insets": {
+              "top": 3.78,
+              "right": 7.56,
+              "bottom": 3.78,
+              "left": 7.56
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "单击此处标题",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "单击此处标题"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 44,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/113",
+          "id": "113",
+          "name": "直接连接符 112",
+          "bbox": [
+            111,
+            116.34,
+            285.12,
+            0
+          ],
+          "geometry": "line",
+          "lineColor": "accent2",
+          "lineWidth": 2.67
+        },
+        {
+          "order": 45,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/121",
+          "id": "121",
+          "name": "日期占位符 3",
+          "bbox": [
+            88,
+            667.33,
+            288,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 46,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/122",
+          "id": "122",
+          "name": "页脚占位符 4",
+          "bbox": [
+            424,
+            667.33,
+            432,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 47,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/123",
+          "id": "123",
+          "name": "灯片编号占位符 5",
+          "bbox": [
+            904,
+            667.33,
+            288,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 48,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/5",
+          "id": "5",
+          "name": "矩形 4",
+          "bbox": [
+            -19.85,
+            -27.95,
+            108.4,
+            108.4
+          ],
+          "rotation": 45,
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "fillColor": "accent1",
+          "lineWidth": 2.67
+        },
+        {
+          "order": 49,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/3",
+          "id": "3",
+          "name": "矩形 2",
+          "bbox": [
+            33.8,
+            -27.86,
+            108.4,
+            108.4
+          ],
+          "rotation": 45,
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "fillColor": "accent1",
+          "lineWidth": 2.67
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "backgroundColor": "bg1",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/12",
+          "id": "12",
+          "name": "矩形 11",
+          "bbox": [
+            0,
+            0,
+            1280,
+            720
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle"
+          },
+          "fillColor": "accent1",
+          "lineWidth": 0
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/10",
+          "id": "10",
+          "name": "矩形 9",
+          "bbox": [
+            22.4,
+            21.6,
+            1235.2,
+            676.8
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle"
+          },
+          "fillColor": "bg1",
+          "lineWidth": 1.33
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/11",
+          "id": "11",
+          "name": "矩形: 圆角 10",
+          "bbox": [
+            33.07,
+            32,
+            1213.87,
+            656
+          ],
+          "geometry": "roundRect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle"
+          },
+          "lineColor": "accent1",
+          "lineWidth": 2.67
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "日期占位符 3",
+          "bbox": [
+            88,
+            667.33,
+            288,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "页脚占位符 4",
+          "bbox": [
+            424,
+            667.33,
+            432,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 6,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "灯片编号占位符 5",
+          "bbox": [
+            904,
+            667.33,
+            288,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/o3i5w3ad",
+      "id": "4",
+      "name": "powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！",
+      "bbox": [
+        -21.77,
+        66.16,
+        631.27,
+        42.53
+      ],
+      "geometry": "rect",
+      "text": "校园任职与荣誉",
+      "textPreview": "校园任职与荣誉",
+      "resolvedFontSize": 32,
+      "resolvedTextStyle": {
+        "fontSize": 32,
+        "typeface": "微软雅黑",
+        "color": "accent1",
+        "bold": true,
+        "alignment": "center",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 3.78,
+          "right": 7.56,
+          "bottom": 3.78,
+          "left": 7.56
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "校园任职与荣誉"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "校园任职与荣誉",
+          "runs": [
+            {
+              "index": 1,
+              "text": "校园任职与荣誉",
+              "typeface": "Arial"
+            }
+          ],
+          "bulletCharacter": "",
+          "lineSpacingPercent": 90000
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p0zyd0b6",
+      "id": "25",
+      "name": "powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！-1",
+      "bbox": [
+        713.6,
+        186.41,
+        502.4,
+        272.64
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "团支部书记：组织主题活动与学风建设，获评优秀共青团员、优秀学生干部。\nAI 协会副会长：参与 AI 分享与社团运营。\n机器人协会核心成员：参与项目实践。\n荣誉：二等奖学金、优秀学生、先进个人。",
+      "textPreview": "团支部书记：组织主题活动与学风建设，获评优秀共青团员、优秀学生干部。 | AI 协会副会长：参与 AI 分享与社团运营。 | 机器人协会核心成员：参与项目实践。 | 荣誉：二等奖学金、优秀学生、先进个人。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Arial",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 9,
+        "lines": [
+          {
+            "index": 1,
+            "text": "1. "
+          },
+          {
+            "index": 2,
+            "text": "团支部书记：组织主题活动与学风建设，获"
+          },
+          {
+            "index": 3,
+            "text": "评优秀共青团员、优秀学生干部。"
+          },
+          {
+            "index": 4,
+            "text": ""
+          },
+          {
+            "index": 5,
+            "text": "2. AI 协会副会长：参与 AI 分享与社团运营。"
+          },
+          {
+            "index": 6,
+            "text": ""
+          },
+          {
+            "index": 7,
+            "text": "3. 机器人协会核心成员：参与项目实践。"
+          },
+          {
+            "index": 8,
+            "text": ""
+          },
+          {
+            "index": 9,
+            "text": "4. 荣誉：二等奖学金、优秀学生、先进个人。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "团支部书记：组织主题活动与学风建设，获评优秀共青团员、优秀学生干部。",
+          "lineSpacingPercent": 130000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "团支部书记：组织主题活动与学风建设，获评优秀共青团员、优秀学生干部。",
+              "typeface": "微软雅黑"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "AI 协会副会长：参与 AI 分享与社团运营。",
+          "lineSpacingPercent": 130000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "AI 协会副会长：参与 AI 分享与社团运营。",
+              "typeface": "微软雅黑"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "机器人协会核心成员：参与项目实践。",
+          "lineSpacingPercent": 130000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "机器人协会核心成员：参与项目实践。",
+              "typeface": "微软雅黑"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "荣誉：二等奖学金、优秀学生、先进个人。",
+          "lineSpacingPercent": 130000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "荣誉：二等奖学金、优秀学生、先进个人。",
+              "typeface": "微软雅黑"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2xof2lcv",
+      "id": "26",
+      "name": "powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！-2",
+      "bbox": [
+        713.6,
+        166.41,
+        329.6,
+        38.78
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Arial",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sfe1s3e9",
+      "id": "37",
+      "name": "powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！",
+      "bbox": [
+        724.78,
+        593.13,
+        33.11,
+        30.84
+      ],
+      "geometry": "custom",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Arial",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "bg1",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7i107edk",
+      "id": "38",
+      "name": "powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！",
+      "bbox": [
+        815.78,
+        593.14,
+        33.11,
+        30.81
+      ],
+      "geometry": "custom",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Arial",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "bg1",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mhsje9wz",
+      "id": "39",
+      "name": "powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！",
+      "bbox": [
+        906.78,
+        591.99,
+        33.11,
+        33.11
+      ],
+      "geometry": "custom",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Arial",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "bg1",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/y1wju94v",
+      "id": "40",
+      "name": "powerpoint template design by DAJU_PPT正版来源小红书大橘PPT微信DAJU_PPT请勿抄袭搬运！盗版必究！",
+      "bbox": [
+        997.77,
+        596.13,
+        33.11,
+        24.83
+      ],
+      "geometry": "custom",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Arial",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "bg1",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/4na1wb29",
+      "id": "41",
+      "name": "Picture 2",
+      "bbox": [
+        90.22,
+        178.91,
+        600,
+        399
+      ],
+      "alt": "用户提供的成绩证明素材",
+      "contentType": "image/jpeg",
+      "imageCrop": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "imageFit": "cover",
+      "asset": {
+        "assetId": "/ppt/media/image3.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 345753
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image3.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 345753
+      }
+    },
+    {
+      "order": 9,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/3m10361o",
+      "id": "42",
+      "name": "图片 2",
+      "bbox": [
+        721.44,
+        461.86,
+        243.12,
+        163.24
+      ],
+      "alt": "用户提供的校园与能力证明",
+      "contentType": "image/jpeg",
+      "imageFit": "cover",
+      "asset": {
+        "assetId": "/ppt/media/image9.png",
+        "contentType": "image/jpeg",
+        "byteLength": 176598
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image9.png",
+        "contentType": "image/jpeg",
+        "byteLength": 176598
+      }
+    },
+    {
+      "order": 10,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/2lsju1kj",
+      "id": "43",
+      "name": "图片 4",
+      "bbox": [
+        912.66,
+        461.86,
+        243.12,
+        163.24
+      ],
+      "alt": "用户提供的能力证明",
+      "contentType": "image/jpeg",
+      "imageFit": "cover",
+      "asset": {
+        "assetId": "/ppt/media/image9.png",
+        "contentType": "image/jpeg",
+        "byteLength": 176598
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image9.png",
+        "contentType": "image/jpeg",
+        "byteLength": 176598
+      }
+    }
+  ],
+  "composeRuns": []
+}

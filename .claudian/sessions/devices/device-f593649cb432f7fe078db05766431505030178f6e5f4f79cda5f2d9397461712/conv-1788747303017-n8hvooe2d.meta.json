@@ -4,7 +4,7 @@
   "title": "结合简历与指导写套磁信模版",
   "titleGenerationStatus": "success",
   "createdAt": 1788747303027,
-  "lastActivityAt": 1788763106168,
+  "lastActivityAt": 1788775906395,
   "sessionId": "01a079a5-c9dc-7dd2-98d8-4ed8957e329a",
   "selectedModel": "gpt-5.6-sol",
   "providerState": {
@@ -16,13 +16,13 @@
   },
   "linkedContentPath": "推免套磁/套磁信-实习模版.md",
   "usage": {
-    "inputTokens": 54227,
+    "inputTokens": 83753,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 3840,
+    "cacheReadInputTokens": 82688,
     "contextWindow": 828400,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 54227,
-    "percentage": 7,
+    "contextTokens": 83753,
+    "percentage": 10,
     "model": "gpt-5.6-sol"
   }
 }
