@@ -432,6 +432,57 @@
       "contentDigest": "4f67e021e05937a924da7b0458f2142e61f7ff32c1d6f86a649fc17e109637bc",
       "providerUserMessageId": "01a07c62-bfe7-7dd1-b507-f2729e31724d",
       "providerAssistantMessageId": "msg_01af5c39e6555d1a016a9ed22a1d1087d09c62b2d7ad5429df"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788848000423-zf4qgf4",
+      "userTurnOrdinal": 28,
+      "state": "accepted",
+      "localMessageId": "msg-1788848000414-xwusmbh",
+      "timestamp": 1788848000414,
+      "rawDisplayText": "mAP@0.5 和 mAP@0.5:0.95 的区别是什么？",
+      "canonicalText": "mAP@0.5 和 mAP@0.5:0.95 的区别是什么？",
+      "images": [],
+      "contentDigest": "ac9d14290fceb4ffe3434039be2213b5eba124494a3d5666bbe38845f20669cf",
+      "providerUserMessageId": "01a07fa6-4e68-7730-80e7-a393b2685735",
+      "providerAssistantMessageId": "msg_01af5c39e6555d1a016a9fa800a97887d0a55237032c3c37c8"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788849372511-cnuht21",
+      "userTurnOrdinal": 29,
+      "state": "accepted",
+      "localMessageId": "msg-1788849372498-58alkou",
+      "timestamp": 1788849372498,
+      "rawDisplayText": "更新一下文档 @项目一/知识点/mAP@0.5详解.md",
+      "canonicalText": "更新一下文档 @项目一/知识点/mAP@0.5详解.md",
+      "images": [],
+      "contentDigest": "82cc03deec04d98783fc7573124780e39b06524e24d199fe7adc5c11f8e5c190",
+      "providerUserMessageId": "01a07fbb-3e09-7042-85d2-486fc72b7f2c",
+      "providerAssistantMessageId": "msg_01af5c39e6555d1a016a9fade9523887d081ba9bf302842b9e"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788876576104-3hzkrou",
+      "userTurnOrdinal": 30,
+      "state": "accepted",
+      "localMessageId": "msg-1788876576092-3zdvknj",
+      "timestamp": 1788876576092,
+      "rawDisplayText": "AdamW 和 SGD 的区别？",
+      "canonicalText": "AdamW 和 SGD 的区别？",
+      "context": {
+        "editorSelection": {
+          "notePath": "项目一/面试问题准备-项目一.md",
+          "mode": "selection",
+          "selectedText": "AdamW 和 SGD 的区别？",
+          "lineCount": 1,
+          "startLine": 16
+        }
+      },
+      "images": [],
+      "contentDigest": "ba6ca67807628c1d7008fdc8e6ea6f5d2431d6110a4c89f48febe1df1ec8fe86",
+      "providerUserMessageId": "01a0815a-561d-72a1-97b3-b534a26ccfce",
+      "providerAssistantMessageId": "msg_01af5c39e6555d1a016aa0173e8bec87d0a1e56fb5a84bb7da"
     }
   ]
 }

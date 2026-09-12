@@ -1,0 +1,79 @@
+{
+  "sourcePptx": "/Users/cfy/code/推免/C18-保研自我介绍PPT-蓝色款.pptx",
+  "mapPath": "/Users/cfy/code/推免/ppt_build/template-frame-map.json",
+  "output": "/Users/cfy/code/推免/ppt_build/template-starter.pptx",
+  "outputBytes": 1190656,
+  "sourceSlideCount": 20,
+  "slideCount": 6,
+  "previewDir": "/Users/cfy/code/推免/ppt_build/template-starter-preview",
+  "layoutDir": "/Users/cfy/code/推免/ppt_build/template-starter-layout",
+  "contactSheet": "/Users/cfy/code/推免/ppt_build/template-starter-contact-sheet.png",
+  "slides": [
+    {
+      "outputSlide": 1,
+      "sourceSlide": 1,
+      "narrativeRole": "opening",
+      "reuseMode": "duplicate-slide",
+      "editTargetCount": 0,
+      "previewPath": "/Users/cfy/code/推免/ppt_build/template-starter-preview/starter-slide-01.png",
+      "previewRelativePath": "template-starter-preview/starter-slide-01.png",
+      "layoutPath": "/Users/cfy/code/推免/ppt_build/template-starter-layout/starter-slide-01.layout.json",
+      "layoutRelativePath": "template-starter-layout/starter-slide-01.layout.json"
+    },
+    {
+      "outputSlide": 2,
+      "sourceSlide": 2,
+      "narrativeRole": "contents",
+      "reuseMode": "duplicate-slide",
+      "editTargetCount": 0,
+      "previewPath": "/Users/cfy/code/推免/ppt_build/template-starter-preview/starter-slide-02.png",
+      "previewRelativePath": "template-starter-preview/starter-slide-02.png",
+      "layoutPath": "/Users/cfy/code/推免/ppt_build/template-starter-layout/starter-slide-02.layout.json",
+      "layoutRelativePath": "template-starter-layout/starter-slide-02.layout.json"
+    },
+    {
+      "outputSlide": 3,
+      "sourceSlide": 4,
+      "narrativeRole": "profile",
+      "reuseMode": "duplicate-slide",
+      "editTargetCount": 0,
+      "previewPath": "/Users/cfy/code/推免/ppt_build/template-starter-preview/starter-slide-03.png",
+      "previewRelativePath": "template-starter-preview/starter-slide-03.png",
+      "layoutPath": "/Users/cfy/code/推免/ppt_build/template-starter-layout/starter-slide-03.layout.json",
+      "layoutRelativePath": "template-starter-layout/starter-slide-03.layout.json"
+    },
+    {
+      "outputSlide": 4,
+      "sourceSlide": 9,
+      "narrativeRole": "research",
+      "reuseMode": "duplicate-slide",
+      "editTargetCount": 0,
+      "previewPath": "/Users/cfy/code/推免/ppt_build/template-starter-preview/starter-slide-04.png",
+      "previewRelativePath": "template-starter-preview/starter-slide-04.png",
+      "layoutPath": "/Users/cfy/code/推免/ppt_build/template-starter-layout/starter-slide-04.layout.json",
+      "layoutRelativePath": "template-starter-layout/starter-slide-04.layout.json"
+    },
+    {
+      "outputSlide": 5,
+      "sourceSlide": 15,
+      "narrativeRole": "practice",
+      "reuseMode": "duplicate-slide",
+      "editTargetCount": 0,
+      "previewPath": "/Users/cfy/code/推免/ppt_build/template-starter-preview/starter-slide-05.png",
+      "previewRelativePath": "template-starter-preview/starter-slide-05.png",
+      "layoutPath": "/Users/cfy/code/推免/ppt_build/template-starter-layout/starter-slide-05.layout.json",
+      "layoutRelativePath": "template-starter-layout/starter-slide-05.layout.json"
+    },
+    {
+      "outputSlide": 6,
+      "sourceSlide": 18,
+      "narrativeRole": "future",
+      "reuseMode": "duplicate-slide",
+      "editTargetCount": 0,
+      "previewPath": "/Users/cfy/code/推免/ppt_build/template-starter-preview/starter-slide-06.png",
+      "previewRelativePath": "template-starter-preview/starter-slide-06.png",
+      "layoutPath": "/Users/cfy/code/推免/ppt_build/template-starter-layout/starter-slide-06.layout.json",
+      "layoutRelativePath": "template-starter-layout/starter-slide-06.layout.json"
+    }
+  ]
+}

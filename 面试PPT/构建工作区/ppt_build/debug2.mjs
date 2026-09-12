@@ -1,0 +1,1 @@
+import {FileBlob,PresentationFile} from '@oai/artifact-tool'; const p=await PresentationFile.importPptx(await FileBlob.load('/Users/cfy/code/推免/ppt_build/template-starter.pptx')); const sh=p.slides.items[0].shapes.items[1]; console.log(String(sh.text), sh.text.toString(), sh.text.get?.('C18-保研夏令营/预推免自我介绍'));

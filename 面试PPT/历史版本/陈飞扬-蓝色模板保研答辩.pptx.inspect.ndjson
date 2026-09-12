@@ -1,0 +1,234 @@
+{"kind":"deck","id":"pr/xcumhp","name":"Deck"}
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"","type":"master","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"dateTime","type":"dateTime","textPreview":"2026/8/5"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"标题幻灯片","type":"title","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"subtitle","type":"subtitle","textPreview":"单击此处编辑母版副标题样式"},{"name":"dateTime","type":"dateTime","textPreview":"2026/8/5"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout2.xml","name":"标题和内容","type":"obj","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"2","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"dateTime","type":"dateTime","textPreview":"2026/8/5"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout3.xml","name":"节标题","type":"secHead","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"dateTime","type":"dateTime","textPreview":"2026/8/5"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout4.xml","name":"两栏内容","type":"twoObj","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"2","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"3","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"dateTime","type":"dateTime","textPreview":"2026/8/5"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout5.xml","name":"比较","type":"twoTxTwoObj","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"3","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"5","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"dateTime","type":"dateTime","textPreview":"2026/8/5"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout6.xml","name":"仅标题","type":"titleOnly","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"dateTime","type":"dateTime","textPreview":"2026/8/5"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout7.xml","name":"空白","type":"blank","placeholders":[{"name":"dateTime","type":"dateTime","textPreview":"2026/8/5"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout8.xml","name":"内容与标题","type":"objTx","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"2","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"dateTime","type":"dateTime","textPreview":"2026/8/5"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout9.xml","name":"图片与标题","type":"picTx","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"picture","type":"picture"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"dateTime","type":"dateTime","textPreview":"2026/8/5"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout10.xml","name":"标题和竖排文字","type":"vertTx","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"dateTime","type":"dateTime","textPreview":"2026/8/5"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout11.xml","name":"竖排标题与文本","type":"vertTitleAndTx","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"dateTime","type":"dateTime","textPreview":"2026/8/5"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"slide","id":"sl/y90nupkv","slide":1,"title":"保研推免自我介绍","textShapes":6}
+{"kind":"shape","id":"sh/vmdcj2xw","slide":1,"name":"矩形 12","bbox":[0,220.95,1280,248.38]}
+{"kind":"textbox","id":"sh/4r6dg7et","slide":1,"name":"文本框 13","text":"保研推免自我介绍","textPreview":"保研推免自我介绍","textChars":8,"textLines":1,"bbox":[27.66,274.07,1224.68,106.63]}
+{"kind":"textbox","id":"sh/dgzetcfa","slide":1,"name":"文本框 18","text":"Personal Statement · Graduate Recommendation","textPreview":"Personal Statement · Graduate Recommendation","textChars":44,"textLines":1,"bbox":[39.52,380.7,1200.96,49.39]}
+{"kind":"textbox","id":"sh/vyp0je1s","slide":1,"name":"文本框 30","text":"2026.09","textPreview":"2026.09","textChars":7,"textLines":1,"bbox":[844.07,574.02,329.38,38.78]}
+{"kind":"shape","id":"sh/y5wjip0z","slide":1,"name":"直接连接符 37","bbox":[118.41,445,1043.18,0]}
+{"kind":"textbox","id":"sh/547294r6","slide":1,"name":"文本框 1","text":"武汉科技大学 · 计算机科学与技术 · 2023级","textPreview":"武汉科技大学 · 计算机科学与技术 · 2023级","textChars":25,"textLines":1,"bbox":[39.52,485.76,1200.96,38.78]}
+{"kind":"shape","id":"sh/kvqx0vqd","slide":1,"name":"矩形 53","bbox":[15.8,15.8,13.37,13.37]}
+{"kind":"shape","id":"sh/lwzy90ry","slide":1,"name":"矩形 54","bbox":[32.84,15.8,13.37,13.37]}
+{"kind":"shape","id":"sh/yt8fyl87","slide":1,"name":"矩形 55","bbox":[49.88,15.8,13.37,13.37]}
+{"kind":"shape","id":"sh/wr6xwbq1","slide":1,"name":"矩形 57","bbox":[15.8,32.22,13.37,13.37]}
+{"kind":"shape","id":"sh/xsfy5grm","slide":1,"name":"矩形 58","bbox":[32.84,32.22,13.37,13.37]}
+{"kind":"shape","id":"sh/dc7md8fe","slide":1,"name":"矩形 59","bbox":[49.88,32.22,13.37,13.37]}
+{"kind":"shape","id":"sh/cby5k3yt","slide":1,"name":"矩形 60","bbox":[15.8,48.65,13.37,13.37]}
+{"kind":"shape","id":"sh/ra54bix8","slide":1,"name":"矩形 61","bbox":[32.84,48.65,13.37,13.37]}
+{"kind":"shape","id":"sh/q9wnidgn","slide":1,"name":"矩形 62","bbox":[49.88,48.65,13.37,13.37]}
+{"kind":"shape","id":"sh/3m547yxw","slide":1,"name":"矩形 65","bbox":[1250.84,694.63,13.37,13.37]}
+{"kind":"shape","id":"sh/ilw3etgr","slide":1,"name":"矩形 66","bbox":[1233.8,694.63,13.37,13.37]}
+{"kind":"shape","id":"sh/9kr6lsfm","slide":1,"name":"矩形 67","bbox":[1216.76,694.63,13.37,13.37]}
+{"kind":"shape","id":"sh/oji5sne1","slide":1,"name":"矩形 68","bbox":[1250.84,678.2,13.37,13.37]}
+{"kind":"shape","id":"sh/6psjmpwj","slide":1,"name":"矩形 69","bbox":[1233.8,678.2,13.37,13.37]}
+{"kind":"shape","id":"sh/7q1kfudo","slide":1,"name":"矩形 70","bbox":[1216.76,678.2,13.37,13.37]}
+{"kind":"shape","id":"sh/8ra1oze9","slide":1,"name":"矩形 71","bbox":[1250.84,661.77,13.37,13.37]}
+{"kind":"shape","id":"sh/ts32h4vu","slide":1,"name":"矩形 72","bbox":[1233.8,661.77,13.37,13.37]}
+{"kind":"shape","id":"sh/ylsjipw7","slide":1,"name":"矩形 73","bbox":[1216.76,661.77,13.37,13.37]}
+{"kind":"shape","id":"sh/ihc3u9cr","slide":1,"name":"任意形状 77","bbox":[167.62,594.57,19.37,10.89]}
+{"kind":"shape","id":"sh/3ilknedw","slide":1,"name":"任意形状 78","bbox":[168.5,581.36,17.65,13.89]}
+{"kind":"textbox","id":"sh/qd8jy94v","slide":1,"name":"文本框 80","text":"面试学生：陈飞扬","textPreview":"面试学生：陈飞扬","textChars":8,"textLines":1,"bbox":[186.99,574.02,242.31,38.78]}
+{"kind":"shape","id":"sh/3ahk3u54","slide":1,"name":"图形 82","bbox":[465.63,580.21,25.31,26.39]}
+{"kind":"textbox","id":"sh/298ju94j","slide":1,"name":"文本框 84","text":"申请方向：人工智能 / 大模型","textPreview":"申请方向：人工智能 / 大模型","textChars":15,"textLines":1,"bbox":[490.94,574.02,279.85,67.2]}
+{"kind":"shape","id":"sh/k3yl0zql","slide":1,"name":"图形 29","bbox":[817.19,579.97,26.88,26.88]}
+{"kind":"image","id":"im/a147el47","slide":1,"name":"图片 16","bbox":[524.08,82.52,231.83,99.59]}
+{"kind":"notes","id":"nt/y90nupkv","slide":1,"text":""}
+{"kind":"slide","id":"sl/hwbqtkby","slide":2,"title":"目录","textShapes":10}
+{"kind":"shape","id":"sh/b29kza94","slide":2,"name":"矩形 3","bbox":[0,0,387,720]}
+{"kind":"textbox","id":"sh/x4r21kru","slide":2,"name":"文本框 5","text":"目录","textPreview":"目录","textChars":2,"textLines":1,"bbox":[81.12,244.36,210.6,116.33]}
+{"kind":"textbox","id":"sh/w3i1sfa9","slide":2,"name":"文本框 6","text":"CONTENTS","textPreview":"CONTENTS","textChars":8,"textLines":1,"bbox":[89.52,361.65,193.8,48.47]}
+{"kind":"shape","id":"sh/ozy1ofad","slide":2,"name":"圆角矩形 2","bbox":[600.57,165.32,77.2,76.61]}
+{"kind":"shape","id":"sh/9072xkry","slide":2,"name":"矩形 1","bbox":[589.09,182.13,22.95,42.98]}
+{"kind":"textbox","id":"sh/a10jqpsj","slide":2,"name":"文本框 4","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[602.62,176.16,77.2,54.93]}
+{"kind":"textbox","id":"sh/wjy9sry9","slide":2,"name":"文本框 13","text":"个人介绍\nPersonal Profile","textPreview":"个人介绍 | Personal Profile","textChars":21,"textLines":2,"bbox":[697.36,160,361.64,87.24]}
+{"kind":"shape","id":"sh/bip8jmho","slide":2,"name":"圆角矩形 16","bbox":[600.57,284.34,77.2,76.61]}
+{"kind":"shape","id":"sh/cnupgny5","slide":2,"name":"矩形 17","bbox":[589.09,301.15,22.95,42.98]}
+{"kind":"textbox","id":"sh/do3q9szq","slide":2,"name":"文本框 18","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[602.62,295.18,77.2,54.93]}
+{"kind":"textbox","id":"sh/t8byxkn2","slide":2,"name":"文本框 19","text":"科研经历\nResearch Experience","textPreview":"科研经历 | Research Experience","textChars":24,"textLines":2,"bbox":[697.36,279.02,361.64,87.24]}
+{"kind":"shape","id":"sh/tw7ud0va","slide":2,"name":"圆角矩形 41","bbox":[600.57,403.36,77.2,76.61]}
+{"kind":"shape","id":"sh/svedkvup","slide":2,"name":"矩形 42","bbox":[589.09,420.17,22.95,42.98]}
+{"kind":"textbox","id":"sh/fypcfqdg","slide":2,"name":"文本框 43","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[602.62,414.2,77.2,54.93]}
+{"kind":"textbox","id":"sh/exgvmlcv","slide":2,"name":"文本框 44","text":"实践经历\nPractical Experience","textPreview":"实践经历 | Practical Experience","textChars":25,"textLines":2,"bbox":[697.36,398.04,361.64,87.24]}
+{"kind":"shape","id":"sh/gzydovul","slide":2,"name":"圆角矩形 46","bbox":[600.57,522.38,77.2,76.61]}
+{"kind":"shape","id":"sh/v2lc36dw","slide":2,"name":"矩形 47","bbox":[589.09,539.19,22.95,42.98]}
+{"kind":"textbox","id":"sh/a1cba1wb","slide":2,"name":"文本框 48","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[602.62,533.22,77.2,54.93]}
+{"kind":"textbox","id":"sh/0vq1o36x","slide":2,"name":"文本框 49","text":"读研规划\nGraduate Study Plan","textPreview":"读研规划 | Graduate Study Plan","textChars":24,"textLines":2,"bbox":[697.36,517.06,361.64,87.24]}
+{"kind":"shape","id":"sh/jix0niho","slide":2,"name":"矩形 61","bbox":[1185.16,642.33,13.37,13.37]}
+{"kind":"shape","id":"sh/ihozedgj","slide":2,"name":"矩形 62","bbox":[1168.12,642.33,13.37,13.37]}
+{"kind":"shape","id":"sh/xgfil8zy","slide":2,"name":"矩形 63","bbox":[1151.08,642.33,13.37,13.37]}
+{"kind":"shape","id":"sh/wf6hcnyd","slide":2,"name":"矩形 64","bbox":[1185.16,625.9,13.37,13.37]}
+{"kind":"shape","id":"sh/ved0jihs","slide":2,"name":"矩形 65","bbox":[1168.12,625.9,13.37,13.37]}
+{"kind":"shape","id":"sh/ad4zadg7","slide":2,"name":"矩形 66","bbox":[1151.08,625.9,13.37,13.37]}
+{"kind":"shape","id":"sh/9svih8zm","slide":2,"name":"矩形 67","bbox":[1185.16,609.48,13.37,13.37]}
+{"kind":"shape","id":"sh/8rmh83y1","slide":2,"name":"矩形 68","bbox":[1168.12,609.48,13.37,13.37]}
+{"kind":"shape","id":"sh/yxkfi9wz","slide":2,"name":"矩形 69","bbox":[1151.08,609.48,13.37,13.37]}
+{"kind":"shape","id":"sh/ove9o7yd","slide":2,"name":"菱形 9","bbox":[0,144.11,387,357.06]}
+{"kind":"image","id":"im/8z2l47yl","slide":2,"name":"图片 39","bbox":[990.37,28.2,231.83,99.59]}
+{"kind":"notes","id":"nt/hwbqtkby","slide":2,"text":""}
+{"kind":"slide","id":"sl/ofy9wn61","slide":3,"title":"科研经历","textShapes":14}
+{"kind":"shape","id":"sh/298ryl4v","slide":3,"name":"矩形 3","bbox":[31,0,252.86,720]}
+{"kind":"shape","id":"sh/n2l4fq98","slide":3,"name":"矩形 9","bbox":[0,161.47,283.86,80]}
+{"kind":"shape","id":"sh/m1c3mlsn","slide":3,"name":"直角三角形 10","bbox":[0,241.47,31,16.78]}
+{"kind":"textbox","id":"sh/3ah8rqlg","slide":3,"name":"文本框 4","text":"科研经历","textPreview":"科研经历","textChars":4,"textLines":1,"bbox":[91.18,280.47,192.68,48.47]}
+{"kind":"textbox","id":"sh/obq90bml","slide":3,"name":"文本框 5","text":"实践经历","textPreview":"实践经历","textChars":4,"textLines":1,"bbox":[91.18,384.72,192.68,48.47]}
+{"kind":"textbox","id":"sh/pcjqtg36","slide":3,"name":"文本框 6","text":"读研规划","textPreview":"读研规划","textChars":4,"textLines":1,"bbox":[91.18,488.97,192.68,48.47]}
+{"kind":"textbox","id":"sh/943mhgre","slide":3,"name":"文本框 11","text":"目录","textPreview":"目录","textChars":2,"textLines":1,"bbox":[64.07,35.22,186.71,87.24]}
+{"kind":"textbox","id":"sh/83ulovat","slide":3,"name":"文本框 12","text":"个人介绍","textPreview":"个人介绍","textChars":4,"textLines":1,"bbox":[91.86,175.44,192,48.47]}
+{"kind":"shape","id":"sh/w7ulsvqp","slide":3,"name":"图形 15","bbox":[42.88,184.26,41.91,30.84]}
+{"kind":"shape","id":"sh/f29gbyx0","slide":3,"name":"任意形状 20","bbox":[47.65,286.02,32.37,37.37]}
+{"kind":"shape","id":"sh/03ix43e5","slide":3,"name":"任意形状 21","bbox":[53.64,299.39,16.67,11.26]}
+{"kind":"shape","id":"sh/14ryd8fq","slide":3,"name":"任意形状 22","bbox":[65.5,297.59,9.61,9.61]}
+{"kind":"shape","id":"sh/tgry9ofu","slide":3,"name":"图形 25","bbox":[45.58,391.23,36.51,35.45]}
+{"kind":"shape","id":"sh/l4fi9cza","slide":3,"name":"图形 28","bbox":[43.16,497.71,41.34,30.99]}
+{"kind":"textbox","id":"sh/a9kfadwn","slide":3,"name":"文本框 27","text":"个人信息","textPreview":"个人信息","textChars":4,"textLines":1,"bbox":[412.65,22.3,179.81,48.47]}
+{"kind":"shape","id":"sh/k3m1g7yp","slide":3,"name":"直线连接符 30","bbox":[348.95,78.84,874.49,0]}
+{"kind":"shape","id":"sh/y14jehgj","slide":3,"name":"五边形 32","bbox":[338.97,28.22,62.48,34.48]}
+{"kind":"shape","id":"sh/z2d07mh4","slide":3,"name":"五边形 31","bbox":[327.77,28.22,62.48,34.48]}
+{"kind":"shape","id":"sh/czmhc7id","slide":3,"name":"矩形 34","bbox":[338.97,28.22,4.8,34.48]}
+{"kind":"shape","id":"sh/ax4zax0n","slide":3,"name":"矩形 36","bbox":[316.93,117.73,947.27,162.74]}
+{"kind":"textbox","id":"sh/wv61obyx","slide":3,"name":"文本框 38","text":"基本信息","textPreview":"基本信息","textChars":4,"textLines":1,"bbox":[324.65,220.25,153.6,38.78]}
+{"kind":"shape","id":"sh/4nuhs7uh","slide":3,"name":"图形 20","bbox":[352.5,158.21,59.91,52.09]}
+{"kind":"textbox","id":"sh/21szqxcb","slide":3,"name":"文本框 58","text":"姓    名：有趣\t\n性    别：女\n民    族：汉\t","textPreview":"姓    名：有趣\t | 性    别：女 | 民    族：汉","textChars":29,"textLines":3,"bbox":[463.85,128.3,275.63,146.8]}
+{"kind":"textbox","id":"sh/32l0j2dw","slide":3,"name":"文本框 58","text":"出生年月：2004.05\t\n政治面貌：中共党员\n籍       贯：北京市XX区","textPreview":"出生年月：2004.05\t | 政治面貌：中共党员 | 籍       贯：北京市XX区","textChars":40,"textLines":3,"bbox":[732.69,128.3,307.44,146.8]}
+{"kind":"shape","id":"sh/qpczuhc7","slide":3,"name":"矩形 45","bbox":[331.57,374.35,905.27,304.42]}
+{"kind":"textbox","id":"sh/rql0nmds","slide":3,"name":"文本框 46","text":"学业经历","textPreview":"学业经历","textChars":4,"textLines":1,"bbox":[414.59,392.11,142.98,38.78]}
+{"kind":"shape","id":"sh/0ve10ru9","slide":3,"name":"直接连接符 19","bbox":[547.44,411.5,616.98,0]}
+{"kind":"shape","id":"sh/1wnitwvu","slide":3,"name":"图形 21","bbox":[373.67,395.34,34.81,32.31]}
+{"kind":"textbox","id":"sh/v29cfu18","slide":3,"name":"文本框 55","text":"核心课程：内科学（XX分）、外科学（XX分）、妇产科学（XX分）、儿科学（XX分）\n英语水平：CET-4（660）、CET-6（650），具有良好的具备良好的医学文献阅读与翻译能力\n计算机水平：计算机二级，熟练使用Office办公软件（Word, Excel, PowerPoint）、SPSS、GraphPad Prism等数据分析与作图软件\n技能证书：XXXX大赛国家一等奖，XXXX大赛国家二等奖，XXXX大赛国家二等奖等10多个奖项\n","textPreview":"核心课程：内科学（XX分）、外科学（XX分）、妇产科学（XX分）、儿科学（XX分） | 英语水平：CET-4（660）、CET-6（650），具有良好的具备良好的医学文献阅读与翻译能力 | 计算机水平：计算机二级，熟练使用Office办公软件（Word, Excel, Po...","textChars":221,"textLines":5,"bbox":[338.97,437.73,877.79,236.64]}
+{"kind":"textbox","id":"sh/a10b6p03","slide":3,"name":"文本框 50","text":"北京XX大学","textPreview":"北京XX大学","textChars":6,"textLines":1,"bbox":[348.95,312.92,194.94,38.78]}
+{"kind":"textbox","id":"sh/xoruhkje","slide":3,"name":"文本框 51","text":"临床医学（五年制）","textPreview":"临床医学（五年制）","textChars":9,"textLines":1,"bbox":[557.57,312.92,268.83,38.78]}
+{"kind":"textbox","id":"sh/w3it8zit","slide":3,"name":"文本框 52","text":"GPA：3.95/4.0（专业排名：前1%）","textPreview":"GPA：3.95/4.0（专业排名：前1%）","textChars":22,"textLines":1,"bbox":[840.27,312.92,423.93,38.78]}
+{"kind":"shape","id":"sh/90rudkji","slide":3,"name":"图形 54","bbox":[316.33,317.74,36.16,29.13]}
+{"kind":"shape","id":"sh/8zit4fix","slide":3,"name":"图形 82","bbox":[530.37,318.12,27.19,28.36]}
+{"kind":"shape","id":"sh/2p4f6dk3","slide":3,"name":"图形 58","bbox":[813.11,318.12,26.54,28.36]}
+{"kind":"image","id":"im/wnalg7uh","slide":3,"name":"图片 37","bbox":[1073.8,101.72,142.13,193.81]}
+{"kind":"notes","id":"nt/ofy9wn61","slide":3,"text":""}
+{"kind":"slide","id":"sl/jyx0ra1s","slide":4,"title":"科研经历","textShapes":18}
+{"kind":"shape","id":"sh/rm1k7yt4","slide":4,"name":"矩形 3","bbox":[31,0,252.86,720]}
+{"kind":"shape","id":"sh/kbm987y5","slide":4,"name":"矩形 9","bbox":[0,267.57,283.86,80]}
+{"kind":"shape","id":"sh/5cva1cfq","slide":4,"name":"直角三角形 10","bbox":[0,347.57,31,16.78]}
+{"kind":"textbox","id":"sh/ql8jytsj","slide":4,"name":"文本框 4","text":"科研经历","textPreview":"科研经历","textChars":4,"textLines":1,"bbox":[91.18,280.47,192.68,48.47]}
+{"kind":"textbox","id":"sh/doj29oba","slide":4,"name":"文本框 5","text":"实践经历","textPreview":"实践经历","textChars":4,"textLines":1,"bbox":[91.18,384.72,192.68,48.47]}
+{"kind":"textbox","id":"sh/sna103ap","slide":4,"name":"文本框 6","text":"读研规划","textPreview":"读研规划","textChars":4,"textLines":1,"bbox":[91.18,488.97,192.68,48.47]}
+{"kind":"textbox","id":"sh/i94r6xgz","slide":4,"name":"文本框 11","text":"目录","textPreview":"目录","textChars":2,"textLines":1,"bbox":[64.07,35.22,186.71,87.24]}
+{"kind":"textbox","id":"sh/jadsz2xk","slide":4,"name":"文本框 12","text":"个人介绍","textPreview":"个人介绍","textChars":4,"textLines":1,"bbox":[91.86,175.44,192,48.47]}
+{"kind":"shape","id":"sh/v6tsv2xo","slide":4,"name":"图形 15","bbox":[42.88,184.26,41.91,30.84]}
+{"kind":"shape","id":"sh/oz29krqh","slide":4,"name":"任意形状 20","bbox":[47.65,286.02,32.37,37.37]}
+{"kind":"shape","id":"sh/3ytsrmpw","slide":4,"name":"任意形状 21","bbox":[53.64,299.39,16.67,11.26]}
+{"kind":"shape","id":"sh/2xkrih8b","slide":4,"name":"任意形状 22","bbox":[65.5,297.59,9.61,9.61]}
+{"kind":"shape","id":"sh/et0reh8f","slide":4,"name":"图形 25","bbox":[45.58,391.23,36.51,35.45]}
+{"kind":"shape","id":"sh/ilwf69kv","slide":4,"name":"图形 28","bbox":[43.16,497.71,41.34,30.99]}
+{"kind":"textbox","id":"sh/tsrqlc7u","slide":4,"name":"文本框 27","text":"科研项目研究过程介绍","textPreview":"科研项目研究过程介绍","textChars":10,"textLines":1,"bbox":[412.65,22.3,429.88,48.47]}
+{"kind":"shape","id":"sh/jm5gze1g","slide":4,"name":"直线连接符 30","bbox":[348.95,78.84,874.49,0]}
+{"kind":"shape","id":"sh/5ony1oj6","slide":4,"name":"五边形 32","bbox":[338.97,28.22,62.48,34.48]}
+{"kind":"shape","id":"sh/knex8j21","slide":4,"name":"五边形 31","bbox":[327.77,28.22,62.48,34.48]}
+{"kind":"shape","id":"sh/vy5gbe14","slide":4,"name":"矩形 34","bbox":[338.97,28.22,4.8,34.48]}
+{"kind":"textbox","id":"sh/nulw7u18","slide":4,"name":"流程图: 准备 14","text":"这里CamTalk 多模态实时 AI Agent","textPreview":"这里CamTalk 多模态实时 AI Agent","textChars":24,"textLines":1,"bbox":[370.83,447.99,155,69.75]}
+{"kind":"textbox","id":"sh/fm5c3q54","slide":4,"name":"流程图: 准备 15","text":"这里CamTalk 多模态实时 AI Agent","textPreview":"这里CamTalk 多模态实时 AI Agent","textChars":24,"textLines":1,"bbox":[596.08,447.99,155,69.75]}
+{"kind":"textbox","id":"sh/elwba54j","slide":4,"name":"流程图: 准备 16","text":"这里CamTalk 多模态实时 AI Agent","textPreview":"这里CamTalk 多模态实时 AI Agent","textChars":24,"textLines":1,"bbox":[821.33,447.99,155,69.75]}
+{"kind":"textbox","id":"sh/18nu50nu","slide":4,"name":"流程图: 准备 17","text":"这里CamTalk 多模态实时 AI Agent","textPreview":"这里CamTalk 多模态实时 AI Agent","textChars":24,"textLines":1,"bbox":[1046.58,447.99,155,69.75]}
+{"kind":"shape","id":"sh/rilczq5s","slide":4,"name":"矩形: 圆角 19","bbox":[359.95,433.19,176,242.47]}
+{"kind":"shape","id":"sh/qhcb6l47","slide":4,"name":"矩形: 圆角 20","bbox":[585.33,433.19,176,242.47]}
+{"kind":"shape","id":"sh/dknu10ny","slide":4,"name":"矩形: 圆角 21","bbox":[810.7,433.19,176,242.47]}
+{"kind":"shape","id":"sh/sjut8vmd","slide":4,"name":"矩形: 圆角 22","bbox":[1036.08,433.19,176,242.47]}
+{"kind":"textbox","id":"sh/idcb2lob","slide":4,"name":"文本框 48","text":"这里输入正文内容，这里输入正文内容，\n这里输入正文内容，这里输入正文内容，这里输入正文内容，\n这里输入正文内容，\n","textPreview":"这里输入正文内容，这里输入正文内容， | 这里输入正文内容，这里输入正文内容，这里输入正文内容， | 这里输入正文内容， |","textChars":57,"textLines":4,"bbox":[359.01,544.16,173.56,134.1]}
+{"kind":"textbox","id":"sh/8jq9c72t","slide":4,"name":"文本框 49","text":"这里输入正文内容，这里输入正文内容，\n这里输入正文内容，这里输入正文内容，这里输入正文内容，\n这里输入正文内容，\n","textPreview":"这里输入正文内容，这里输入正文内容， | 这里输入正文内容，这里输入正文内容，这里输入正文内容， | 这里输入正文内容， |","textChars":57,"textLines":4,"bbox":[586.55,545.88,173.56,134.1]}
+{"kind":"textbox","id":"sh/tkjq5c3e","slide":4,"name":"文本框 50","text":"这里输入正文内容，这里输入正文内容，\n这里输入正文内容，这里输入正文内容，这里输入正文内容，\n这里输入正文内容，\n","textPreview":"这里输入正文内容，这里输入正文内容， | 这里输入正文内容，这里输入正文内容，这里输入正文内容， | 这里输入正文内容， |","textChars":57,"textLines":4,"bbox":[811.92,544.03,173.56,134.1]}
+{"kind":"textbox","id":"sh/7ih83mlo","slide":4,"name":"文本框 52","text":"这里输入正文内容，这里输入正文内容，\n这里输入正文内容，这里输入正文内容，这里输入正文内容，\n这里输入正文内容，\n","textPreview":"这里输入正文内容，这里输入正文内容， | 这里输入正文内容，这里输入正文内容，这里输入正文内容， | 这里输入正文内容， |","textChars":57,"textLines":4,"bbox":[1036.08,535.94,173.56,134.1]}
+{"kind":"shape","id":"sh/lcr658v6","slide":4,"name":"任意多边形: 形状 60","bbox":[548.86,527.62,34.32,53.6]}
+{"kind":"shape","id":"sh/gfudkvq5","slide":4,"name":"任意多边形: 形状 60","bbox":[774.99,529.91,34.32,53.6]}
+{"kind":"shape","id":"sh/hg3et07q","slide":4,"name":"任意多边形: 形状 60","bbox":[1002.62,534.39,34.32,53.6]}
+{"kind":"shape","id":"sh/na18b2tc","slide":4,"name":"任意多边形: 形状 63","bbox":[327.77,347.42,913.23,15.25]}
+{"kind":"shape","id":"sh/29srixcr","slide":4,"name":"三角形 80","bbox":[1227.67,341.56,53.92,26.97]}
+{"kind":"textbox","id":"sh/oba9k7uh","slide":4,"name":"文本框 82","text":"20XX.XX","textPreview":"20XX.XX","textChars":7,"textLines":1,"bbox":[376.79,373.26,142.33,38.78]}
+{"kind":"shape","id":"sh/1cj2d8b6","slide":4,"name":"椭圆 1","bbox":[439.55,347.83,12.48,12.48]}
+{"kind":"shape","id":"sh/0ba143al","slide":4,"name":"椭圆 2","bbox":[665.2,347.83,12.48,12.48]}
+{"kind":"textbox","id":"sh/3ihk3et8","slide":4,"name":"文本框 7","text":"20XX.XX","textPreview":"20XX.XX","textChars":7,"textLines":1,"bbox":[602.17,373.26,142.33,38.78]}
+{"kind":"textbox","id":"sh/w72947yt","slide":4,"name":"文本框 13","text":"20XX.XX","textPreview":"20XX.XX","textChars":7,"textLines":1,"bbox":[827.54,373.26,142.33,38.78]}
+{"kind":"textbox","id":"sh/x8vaxsfe","slide":4,"name":"文本框 14","text":"20XX.XX","textPreview":"20XX.XX","textChars":7,"textLines":1,"bbox":[1052.92,373.26,142.33,38.78]}
+{"kind":"shape","id":"sh/a5kr2xg3","slide":4,"name":"椭圆 15","bbox":[890.84,347.83,12.48,12.48]}
+{"kind":"shape","id":"sh/g36tgryd","slide":4,"name":"椭圆 17","bbox":[1116.48,347.83,12.48,12.48]}
+{"kind":"shape","id":"sh/h4fa9wfy","slide":4,"name":"圆角矩形 18","bbox":[350,103.69,192,227.06]}
+{"kind":"shape","id":"sh/p0batw72","slide":4,"name":"圆角矩形 19","bbox":[575.38,103.69,192,227.06]}
+{"kind":"shape","id":"sh/gv29g7q5","slide":4,"name":"圆角矩形 24","bbox":[800.77,103.69,192,227.06]}
+{"kind":"shape","id":"sh/fu9sn2p0","slide":4,"name":"圆角矩形 25","bbox":[1026.16,103.69,192,227.06]}
+{"kind":"notes","id":"nt/jyx0ra1s","slide":4,"text":""}
+{"kind":"slide","id":"sl/i107q5of","slide":5,"title":"科研经历","textShapes":12}
+{"kind":"shape","id":"sh/z2tcnm5s","slide":5,"name":"矩形 3","bbox":[31,0,252.86,720]}
+{"kind":"shape","id":"sh/w32dkbuh","slide":5,"name":"矩形 9","bbox":[0,370.31,283.86,80]}
+{"kind":"shape","id":"sh/x4vedgvm","slide":5,"name":"直角三角形 10","bbox":[0,450.31,31,16.78]}
+{"kind":"textbox","id":"sh/yhkbe1o7","slide":5,"name":"文本框 4","text":"科研经历","textPreview":"科研经历","textChars":4,"textLines":1,"bbox":[91.18,280.47,192.68,48.47]}
+{"kind":"textbox","id":"sh/l4bupwny","slide":5,"name":"文本框 5","text":"实践经历","textPreview":"实践经历","textChars":4,"textLines":1,"bbox":[91.18,384.72,192.68,48.47]}
+{"kind":"textbox","id":"sh/032tgr6d","slide":5,"name":"文本框 6","text":"读研规划","textPreview":"读研规划","textChars":4,"textLines":1,"bbox":[91.18,488.97,192.68,48.47]}
+{"kind":"textbox","id":"sh/ahkvi1cb","slide":5,"name":"文本框 11","text":"目录","textPreview":"目录","textChars":2,"textLines":1,"bbox":[64.07,35.22,186.71,87.24]}
+{"kind":"textbox","id":"sh/v2twb6dw","slide":5,"name":"文本框 12","text":"个人介绍","textPreview":"个人介绍","textChars":4,"textLines":1,"bbox":[91.86,175.44,192,48.47]}
+{"kind":"shape","id":"sh/j6dwfqds","slide":5,"name":"图形 15","bbox":[42.88,184.26,41.91,30.84]}
+{"kind":"shape","id":"sh/gfi5grih","slide":5,"name":"任意形状 20","bbox":[47.65,286.02,32.37,37.37]}
+{"kind":"shape","id":"sh/fe94nm1w","slide":5,"name":"任意形状 21","bbox":[53.64,299.39,16.67,11.26]}
+{"kind":"shape","id":"sh/ud0ne10b","slide":5,"name":"任意形状 22","bbox":[65.5,297.59,9.61,9.61]}
+{"kind":"shape","id":"sh/2h0ni107","slide":5,"name":"图形 25","bbox":[45.58,391.23,36.51,35.45]}
+{"kind":"shape","id":"sh/atcjidg7","slide":5,"name":"图形 28","bbox":[43.16,497.71,41.34,30.99]}
+{"kind":"textbox","id":"sh/5o7mhcju","slide":5,"name":"文本框 27","text":"实习与实践","textPreview":"实习与实践","textChars":5,"textLines":1,"bbox":[412.65,22.3,490.4,48.47]}
+{"kind":"shape","id":"sh/vu5kbihc","slide":5,"name":"直线连接符 30","bbox":[348.95,78.84,874.49,0]}
+{"kind":"shape","id":"sh/xwn2dszi","slide":5,"name":"五边形 32","bbox":[338.97,28.22,62.48,34.48]}
+{"kind":"shape","id":"sh/wve1knyx","slide":5,"name":"五边形 31","bbox":[327.77,28.22,62.48,34.48]}
+{"kind":"shape","id":"sh/ji5kf2ho","slide":5,"name":"矩形 34","bbox":[338.97,28.22,4.8,34.48]}
+{"kind":"shape","id":"sh/hwf2dcnm","slide":5,"name":"任意形状 168","bbox":[325.58,122.46,303.75,361.47]}
+{"kind":"shape","id":"sh/gv6l4rm1","slide":5,"name":"任意形状 167","bbox":[642.72,122.46,290.36,339.12]}
+{"kind":"shape","id":"sh/3yxkfm5s","slide":5,"name":"任意形状 166","bbox":[946.47,122.46,300.34,361.47]}
+{"kind":"textbox","id":"sh/8v650rq5","slide":5,"name":"文本框 176","text":"CamTalk 多模态实时 AI Agent","textPreview":"CamTalk 多模态实时 AI Agent","textChars":22,"textLines":1,"bbox":[368.29,519.35,202.82,124.8]}
+{"kind":"textbox","id":"sh/vyx4v6pg","slide":5,"name":"文本框 177","text":"CamTalk 多模态实时 AI Agent","textPreview":"CamTalk 多模态实时 AI Agent","textChars":22,"textLines":1,"bbox":[682.6,505.21,202.82,124.8]}
+{"kind":"textbox","id":"sh/uxon218b","slide":5,"name":"文本框 178","text":"CamTalk 多模态实时 AI Agent","textPreview":"CamTalk 多模态实时 AI Agent","textChars":22,"textLines":1,"bbox":[983.81,519.22,202.82,124.8]}
+{"kind":"textbox","id":"sh/2547ql4f","slide":5,"name":"文本框 179","text":"这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容","textPreview":"这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容","textChars":53,"textLines":1,"bbox":[645.17,557.81,299.11,100.17]}
+{"kind":"textbox","id":"sh/36d8jql0","slide":5,"name":"文本框 180","text":"这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容","textPreview":"这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容","textChars":53,"textLines":1,"bbox":[323.39,592.11,297.15,100.17]}
+{"kind":"textbox","id":"sh/47mpsvml","slide":5,"name":"文本框 181","text":"这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容","textPreview":"这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容","textChars":53,"textLines":1,"bbox":[959.6,592.11,287.21,100.17]}
+{"kind":"shape","id":"sh/p8vql036","slide":5,"name":"弧 182","bbox":[368.29,483.93,818.34,35.29]}
+{"kind":"shape","id":"sh/rax8nalw","slide":5,"name":"椭圆 184","bbox":[458.7,568.2,18.33,18.33]}
+{"kind":"notes","id":"nt/i107q5of","slide":5,"text":""}
+{"kind":"slide","id":"sl/x8f69ofe","slide":6,"title":"科研经历","textShapes":12}
+{"kind":"shape","id":"sh/87ipkzal","slide":6,"name":"矩形 3","bbox":[31,0,252.86,720]}
+{"kind":"shape","id":"sh/h4bupgn6","slide":6,"name":"矩形 9","bbox":[0,473.16,283.86,80]}
+{"kind":"shape","id":"sh/w32twb6l","slide":6,"name":"直角三角形 10","bbox":[0,553.16,31,16.78]}
+{"kind":"textbox","id":"sh/98rqt4r6","slide":6,"name":"文本框 4","text":"科研经历","textPreview":"科研经历","textChars":4,"textLines":1,"bbox":[91.18,280.47,192.68,48.47]}
+{"kind":"textbox","id":"sh/ml07i9sv","slide":6,"name":"文本框 5","text":"实践经历","textPreview":"实践经历","textChars":4,"textLines":1,"bbox":[91.18,384.72,192.68,48.47]}
+{"kind":"textbox","id":"sh/7m98ru9g","slide":6,"name":"文本框 6","text":"读研规划","textPreview":"读研规划","textChars":4,"textLines":1,"bbox":[91.18,488.97,192.68,48.47]}
+{"kind":"textbox","id":"sh/v2tcn650","slide":6,"name":"文本框 11","text":"目录","textPreview":"目录","textChars":2,"textLines":1,"bbox":[64.07,35.22,186.71,87.24]}
+{"kind":"textbox","id":"sh/u1kbu1ov","slide":6,"name":"文本框 12","text":"个人介绍","textPreview":"个人介绍","textChars":4,"textLines":1,"bbox":[91.86,175.44,192,48.47]}
+{"kind":"shape","id":"sh/i54bylor","slide":6,"name":"图形 15","bbox":[42.88,184.26,41.91,30.84]}
+{"kind":"shape","id":"sh/dcnm98zm","slide":6,"name":"任意形状 20","bbox":[47.65,286.02,32.37,37.37]}
+{"kind":"shape","id":"sh/qpwnet0b","slide":6,"name":"任意形状 21","bbox":[53.64,299.39,16.67,11.26]}
+{"kind":"shape","id":"sh/bq547yhw","slide":6,"name":"任意形状 22","bbox":[65.5,297.59,9.61,9.61]}
+{"kind":"shape","id":"sh/zep4byhs","slide":6,"name":"图形 25","bbox":[45.58,391.23,36.51,35.45]}
+{"kind":"shape","id":"sh/jet8nm1c","slide":6,"name":"图形 28","bbox":[43.16,497.71,41.34,30.99]}
+{"kind":"textbox","id":"sh/gju58ji9","slide":6,"name":"文本框 27","text":"研究方向","textPreview":"研究方向","textChars":4,"textLines":1,"bbox":[412.65,22.3,490.4,48.47]}
+{"kind":"shape","id":"sh/idk7ehkr","slide":6,"name":"直线连接符 30","bbox":[348.95,78.84,874.49,0]}
+{"kind":"shape","id":"sh/4f2pgr2h","slide":6,"name":"五边形 32","bbox":[338.97,28.22,62.48,34.48]}
+{"kind":"shape","id":"sh/50bqpcj2","slide":6,"name":"五边形 31","bbox":[327.77,28.22,62.48,34.48]}
+{"kind":"shape","id":"sh/u907axkf","slide":6,"name":"矩形 34","bbox":[338.97,28.22,4.8,34.48]}
+{"kind":"shape","id":"sh/svmt4v6t","slide":6,"name":"Rounded Rectangle 6","bbox":[327.77,322.37,116.09,116.14]}
+{"kind":"shape","id":"sh/cbe5g3ih","slide":6,"name":"Rounded Rectangle 5","bbox":[336.65,331.25,98.33,98.37]}
+{"kind":"shape","id":"sh/lg76d8zy","slide":6,"name":"Freeform 26","bbox":[363.27,358.05,45.57,47.88]}
+{"kind":"shape","id":"sh/2dkbalg3","slide":6,"name":"Rounded Rectangle 6","bbox":[327.77,510.82,116.09,116.14]}
+{"kind":"shape","id":"sh/netcjqxo","slide":6,"name":"Rounded Rectangle 6","bbox":[336.69,519.66,98.33,98.37]}
+{"kind":"shape","id":"sh/of2tcvy9","slide":6,"name":"Freeform 36","bbox":[362.72,544.53,48.26,47.69]}
+{"kind":"shape","id":"sh/ep0b6lg7","slide":6,"name":"Rounded Rectangle 6","bbox":[329.62,139.33,116.09,116.14]}
+{"kind":"shape","id":"sh/fq9cfqxc","slide":6,"name":"Rounded Rectangle 4","bbox":[338.5,148.21,98.33,98.37]}
+{"kind":"shape","id":"sh/0r2t8vyx","slide":6,"name":"Freeform 48","bbox":[362.58,170.65,49.42,47.3]}
+{"kind":"textbox","id":"sh/c7md0zi5","slide":6,"name":"矩形 47","text":"这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，","textPreview":"这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，","textChars":90,"textLines":1,"bbox":[476.9,181.9,760.23,88.82]}
+{"kind":"textbox","id":"sh/10z6hobm","slide":6,"name":"矩形 64","text":"课程学习","textPreview":"课程学习","textChars":4,"textLines":1,"bbox":[476.9,126.78,237.83,49.1]}
+{"kind":"textbox","id":"sh/ed8n69cb","slide":6,"name":"矩形 65","text":"文献阅读","textPreview":"文献阅读","textChars":4,"textLines":1,"bbox":[476.9,314.34,237.83,49.1]}
+{"kind":"textbox","id":"sh/fyhofetw","slide":6,"name":"矩形 66","text":"科研项目","textPreview":"科研项目","textChars":4,"textLines":1,"bbox":[476.9,500.32,237.83,49.1]}
+{"kind":"textbox","id":"sh/kvu5k3ul","slide":6,"name":"矩形 47","text":"这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，","textPreview":"这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，","textChars":90,"textLines":1,"bbox":[476.9,376.87,760.23,88.82]}
+{"kind":"textbox","id":"sh/lw36d8b6","slide":6,"name":"矩形 47","text":"这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，","textPreview":"这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，这里输入正文内容，","textChars":90,"textLines":1,"bbox":[476.9,569.21,760.23,88.82]}
+{"kind":"notes","id":"nt/x8f69ofe","slide":6,"text":""}

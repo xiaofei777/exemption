@@ -1,0 +1,28 @@
+{
+  "id": "conv-1788946144553-c19pqz19w",
+  "providerId": "codex",
+  "title": "拆分英语面试背诵稿并简化用词",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788946144570,
+  "lastActivityAt": 1789022953117,
+  "sessionId": "01a0857f-deb4-7313-a4e3-9927008151d0",
+  "selectedModel": "gpt-5.5",
+  "providerState": {
+    "threadId": "01a0857f-deb4-7313-a4e3-9927008151d0",
+    "nativeConversationContextEstablished": true,
+    "sessionFilePath": "/Users/cfy/.codex/sessions/2026/09/09/rollout-2026-09-09T17-29-04-01a0857f-deb4-7313-a4e3-9927008151d0.jsonl",
+    "transcriptRootPath": "/Users/cfy/.codex/sessions",
+    "workspaceDependencyToolVersion": 1
+  },
+  "linkedContentPath": "英语准备/英语面试背诵稿.md",
+  "usage": {
+    "inputTokens": 14948,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 13696,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 14948,
+    "percentage": 6,
+    "model": "gpt-5.5"
+  }
+}

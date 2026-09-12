@@ -4,7 +4,7 @@
   "title": "科研零基础初学者学通首个项目备战保研面试",
   "titleGenerationStatus": "success",
   "createdAt": 1788677422046,
-  "lastActivityAt": 1788793389824,
+  "lastActivityAt": 1788876641654,
   "sessionId": "01a0757b-7c82-7933-90b6-0d717c7ccadd",
   "selectedModel": "gpt-5.6-sol",
   "providerState": {
@@ -15,12 +15,12 @@
     "workspaceDependencyToolVersion": 1
   },
   "usage": {
-    "inputTokens": 95600,
+    "inputTokens": 102525,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 93952,
+    "cacheReadInputTokens": 101120,
     "contextWindow": 828400,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 95600,
+    "contextTokens": 102525,
     "percentage": 12,
     "model": "gpt-5.6-sol"
   }

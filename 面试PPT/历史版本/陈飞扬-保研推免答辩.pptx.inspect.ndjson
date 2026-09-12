@@ -1,0 +1,147 @@
+{"kind":"deck","id":"pr/460gl8","name":"Deck"}
+{"kind":"layout","layoutId":"47aeae14-fe4b-46cc-944f-098581a67eb5","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"aeb5e6a6-4adc-47f4-966b-8f2fe76f0b52","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/0dh1ts","slide":1,"title":"保研推免综合陈述","textShapes":7}
+{"kind":"shape","id":"sh/8ve54zed","slide":1,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/7u54vuxs","slide":1,"text":"保研推免综合陈述","textPreview":"保研推免综合陈述","textChars":8,"textLines":1,"bbox":[82,118,760,72]}
+{"kind":"textbox","id":"sh/6tcn2pw7","slide":1,"text":"把工程实践，走成科研起点","textPreview":"把工程实践，走成科研起点","textChars":12,"textLines":1,"bbox":[86,205,760,42]}
+{"kind":"textbox","id":"sh/hkn61ofu","slide":1,"text":"陈飞扬  ·  武汉科技大学计算机科学与技术学院","textPreview":"陈飞扬  ·  武汉科技大学计算机科学与技术学院","textChars":24,"textLines":1,"bbox":[86,294,760,28]}
+{"kind":"shape","id":"sh/gje58jep","slide":1,"bbox":[86,365,180,32]}
+{"kind":"textbox","id":"sh/vi54zex4","slide":1,"text":"2026 级推免资格","textPreview":"2026 级推免资格","textChars":10,"textLines":1,"bbox":[86,371,180,20]}
+{"kind":"textbox","id":"sh/uhwn69wj","slide":1,"text":"计算机视觉  ×  大模型  ×  Agent","textPreview":"计算机视觉  ×  大模型  ×  Agent","textChars":23,"textLines":1,"bbox":[86,430,650,28]}
+{"kind":"shape","id":"sh/4ny5cjel","slide":1,"bbox":[930,96,260,328]}
+{"kind":"textbox","id":"sh/2pgbqpsf","slide":1,"text":"5 min","textPreview":"5 min","textChars":5,"textLines":1,"bbox":[1030,470,120,38]}
+{"kind":"textbox","id":"sh/nqpczu9k","slide":1,"text":"面向保研面试的个人陈述","textPreview":"面向保研面试的个人陈述","textChars":11,"textLines":1,"bbox":[935,514,250,22]}
+{"kind":"image","id":"im/gbmx072d","slide":1,"name":"","geometry":"roundRect","alt":"陈飞扬证件照","bbox":[955,120,210,280]}
+{"kind":"notes","id":"nt/0dh1ts","slide":1,"text":""}
+{"kind":"slide","id":"sl/gw7irq","slide":2,"title":"01  基础","textShapes":23}
+{"kind":"textbox","id":"sh/b6d4fadw","slide":2,"text":"01  基础","textPreview":"01  基础","textChars":6,"textLines":1,"bbox":[72,42,500,20]}
+{"kind":"textbox","id":"sh/crm5ofe1","slide":2,"text":"成绩是底座，方向已聚焦","textPreview":"成绩是底座，方向已聚焦","textChars":11,"textLines":1,"bbox":[72,75,1120,54]}
+{"kind":"textbox","id":"sh/xsvmhkvm","slide":2,"text":"计算机科学与技术｜ESI 前 1% · 国家一流专业","textPreview":"计算机科学与技术｜ESI 前 1% · 国家一流专业","textChars":26,"textLines":1,"bbox":[72,138,1100,32]}
+{"kind":"shape","id":"sh/yt4nqpw7","slide":2,"bbox":[72,205,360,300]}
+{"kind":"textbox","id":"sh/zud4jads","slide":2,"text":"16 / 207","textPreview":"16 / 207","textChars":8,"textLines":1,"bbox":[104,244,300,70]}
+{"kind":"textbox","id":"sh/kv65sfed","slide":2,"text":"专业加权排名","textPreview":"专业加权排名","textChars":6,"textLines":1,"bbox":[106,324,240,26]}
+{"kind":"textbox","id":"sh/lwfmlkvy","slide":2,"text":"前 7.7%","textPreview":"前 7.7%","textChars":6,"textLines":1,"bbox":[106,365,240,44]}
+{"kind":"textbox","id":"sh/exk3elw3","slide":2,"text":"GPA 3.36 / 4.0","textPreview":"GPA 3.36 / 4.0","textChars":14,"textLines":1,"bbox":[106,428,240,24]}
+{"kind":"textbox","id":"sh/fyt47qxo","slide":2,"text":"课程表现","textPreview":"课程表现","textChars":4,"textLines":1,"bbox":[500,216,220,28]}
+{"kind":"textbox","id":"sh/7yt03ulo","slide":2,"text":"计算机视觉","textPreview":"计算机视觉","textChars":5,"textLines":1,"bbox":[500,270,360,24]}
+{"kind":"shape","id":"sh/mxkzup43","slide":2,"bbox":[840,274,260,16]}
+{"kind":"shape","id":"sh/90bi543u","slide":2,"bbox":[840,274,218,16]}
+{"kind":"textbox","id":"sh/8z2hwzm9","slide":2,"text":"91","textPreview":"91","textChars":2,"textLines":1,"bbox":[1122,268,48,28]}
+{"kind":"textbox","id":"sh/zu9gzals","slide":2,"text":"计算机组成原理","textPreview":"计算机组成原理","textChars":7,"textLines":1,"bbox":[500,328,360,24]}
+{"kind":"shape","id":"sh/yt0zq547","slide":2,"bbox":[840,332,260,16]}
+{"kind":"shape","id":"sh/lwby1k3i","slide":2,"bbox":[840,332,218,16]}
+{"kind":"textbox","id":"sh/kvihsfmd","slide":2,"text":"91","textPreview":"91","textChars":2,"textLines":1,"bbox":[1122,326,48,28]}
+{"kind":"textbox","id":"sh/bq9gvalg","slide":2,"text":"数字逻辑与数字系统","textPreview":"数字逻辑与数字系统","textChars":9,"textLines":1,"bbox":[500,386,360,24]}
+{"kind":"shape","id":"sh/ap0zm54v","slide":2,"bbox":[840,390,260,16]}
+{"kind":"shape","id":"sh/e1gze5o3","slide":2,"bbox":[840,390,208,16]}
+{"kind":"textbox","id":"sh/f2p07ap8","slide":2,"text":"90","textPreview":"90","textChars":2,"textLines":1,"bbox":[1122,384,48,28]}
+{"kind":"textbox","id":"sh/0nyhgv6t","slide":2,"text":"Python 数据分析与机器学习","textPreview":"Python 数据分析与机器学习","textChars":16,"textLines":1,"bbox":[500,444,360,24]}
+{"kind":"shape","id":"sh/1o7i907e","slide":2,"bbox":[840,448,260,16]}
+{"kind":"shape","id":"sh/2p0ji5oz","slide":2,"bbox":[840,448,208,16]}
+{"kind":"textbox","id":"sh/nq90bapk","slide":2,"text":"90","textPreview":"90","textChars":2,"textLines":1,"bbox":[1122,442,48,28]}
+{"kind":"textbox","id":"sh/ori1kf65","slide":2,"text":"关键词","textPreview":"关键词","textChars":3,"textLines":1,"bbox":[500,520,160,24]}
+{"kind":"shape","id":"sh/psridk7q","slide":2,"bbox":[500,560,84,32]}
+{"kind":"textbox","id":"sh/at0jmpov","slide":2,"text":"党员","textPreview":"党员","textChars":2,"textLines":1,"bbox":[500,566,84,20]}
+{"kind":"shape","id":"sh/bu90fupg","slide":2,"bbox":[596,560,100,32]}
+{"kind":"textbox","id":"sh/lov25ory","slide":2,"text":"学习力","textPreview":"学习力","textChars":3,"textLines":1,"bbox":[596,566,100,20]}
+{"kind":"shape","id":"sh/kn2lcjqd","slide":2,"bbox":[708,560,116,32]}
+{"kind":"textbox","id":"sh/zmtk3e9s","slide":2,"text":"工程实践","textPreview":"工程实践","textChars":4,"textLines":1,"bbox":[708,566,116,20]}
+{"kind":"shape","id":"sh/ylk3a987","slide":2,"bbox":[836,560,116,32]}
+{"kind":"textbox","id":"sh/tsvm9oru","slide":2,"text":"科研潜力","textPreview":"科研潜力","textChars":4,"textLines":1,"bbox":[836,566,116,20]}
+{"kind":"textbox","id":"sh/8rmlgjq9","slide":2,"text":"陈飞扬  ·  武汉科技大学  ·  2026","textPreview":"陈飞扬  ·  武汉科技大学  ·  2026","textChars":23,"textLines":1,"bbox":[72,684,600,18]}
+{"kind":"textbox","id":"sh/7qdk7y9o","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1180,680,28,24]}
+{"kind":"notes","id":"nt/gw7irq","slide":2,"text":""}
+{"kind":"slide","id":"sl/yicb5c","slide":3,"title":"02  轨迹","textShapes":16}
+{"kind":"textbox","id":"sh/jal4bex0","slide":3,"text":"02  轨迹","textPreview":"02  轨迹","textChars":6,"textLines":1,"bbox":[72,42,500,20]}
+{"kind":"textbox","id":"sh/kbul4jyl","slide":3,"text":"三段经历，逐步靠近智能体研究","textPreview":"三段经历，逐步靠近智能体研究","textChars":14,"textLines":1,"bbox":[72,75,1120,54]}
+{"kind":"textbox","id":"sh/5c3mdof6","slide":3,"text":"从真实需求出发，把模型变成可用系统","textPreview":"从真实需求出发，把模型变成可用系统","textChars":17,"textLines":1,"bbox":[72,138,1100,32]}
+{"kind":"shape","id":"sh/6dcn6tgb","slide":3,"bbox":[150,330,970,0]}
+{"kind":"shape","id":"sh/7el4fyxw","slide":3,"bbox":[198,308,44,44]}
+{"kind":"textbox","id":"sh/sfu583yh","slide":3,"text":"2025.09","textPreview":"2025.09","textChars":7,"textLines":1,"bbox":[140,250,160,24]}
+{"kind":"textbox","id":"sh/tg3mh8f2","slide":3,"text":"东软医疗","textPreview":"东软医疗","textChars":4,"textLines":1,"bbox":[110,380,220,28]}
+{"kind":"textbox","id":"sh/mh83apg7","slide":3,"text":"HIS 全栈开发","textPreview":"HIS 全栈开发","textChars":8,"textLines":1,"bbox":[80,420,280,46]}
+{"kind":"shape","id":"sh/nih43uxs","slide":3,"bbox":[538,308,44,44]}
+{"kind":"textbox","id":"sh/f6xkbidw","slide":3,"text":"2025.12","textPreview":"2025.12","textChars":7,"textLines":1,"bbox":[480,250,160,24]}
+{"kind":"textbox","id":"sh/e5o32dwb","slide":3,"text":"金银湖实验室","textPreview":"金银湖实验室","textChars":6,"textLines":1,"bbox":[450,380,220,28]}
+{"kind":"textbox","id":"sh/18f2dsv2","slide":3,"text":"科研实习 · 大模型应用","textPreview":"科研实习 · 大模型应用","textChars":12,"textLines":1,"bbox":[420,420,280,46]}
+{"kind":"shape","id":"sh/g76l4neh","slide":3,"bbox":[878,308,44,44]}
+{"kind":"textbox","id":"sh/r2xk7idk","slide":3,"text":"2026.04","textPreview":"2026.04","textChars":7,"textLines":1,"bbox":[820,250,160,24]}
+{"kind":"textbox","id":"sh/61o3ydwz","slide":3,"text":"CamTalk","textPreview":"CamTalk","textChars":7,"textLines":1,"bbox":[790,380,220,28]}
+{"kind":"textbox","id":"sh/t4f298vq","slide":3,"text":"多模态实时 Agent","textPreview":"多模态实时 Agent","textChars":11,"textLines":1,"bbox":[760,420,280,46]}
+{"kind":"shape","id":"sh/s36l0ne5","slide":3,"bbox":[160,520,960,74]}
+{"kind":"textbox","id":"sh/jedk3ydo","slide":3,"text":"能力迁移：","textPreview":"能力迁移：","textChars":5,"textLines":1,"bbox":[190,545,120,24]}
+{"kind":"textbox","id":"sh/id4jutw3","slide":3,"text":"系统开发 → 数据与平台 → 多模态交互与智能体编排","textPreview":"系统开发 → 数据与平台 → 多模态交互与智能体编排","textChars":26,"textLines":1,"bbox":[320,545,720,24]}
+{"kind":"textbox","id":"sh/m9k3mtgv","slide":3,"text":"陈飞扬  ·  武汉科技大学  ·  2026","textPreview":"陈飞扬  ·  武汉科技大学  ·  2026","textChars":23,"textLines":1,"bbox":[72,684,600,18]}
+{"kind":"textbox","id":"sh/nad4fyxg","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1180,680,28,24]}
+{"kind":"notes","id":"nt/yicb5c","slide":3,"text":""}
+{"kind":"slide","id":"sl/2z0h10","slide":4,"title":"03  代表项目","textShapes":20}
+{"kind":"textbox","id":"sh/94julg3a","slide":4,"text":"03  代表项目","textPreview":"03  代表项目","textChars":8,"textLines":1,"bbox":[72,42,500,20]}
+{"kind":"textbox","id":"sh/21sva1kz","slide":4,"text":"CamTalk：在“数据不出域”约束下做实时 AI 对话","textPreview":"CamTalk：在“数据不出域”约束下做实时 AI 对话","textChars":28,"textLines":1,"bbox":[72,75,1120,54]}
+{"kind":"textbox","id":"sh/n21cj6l4","slide":4,"text":"项目负责人｜国家级网安基地·武汉金银湖实验室","textPreview":"项目负责人｜国家级网安基地·武汉金银湖实验室","textChars":22,"textLines":1,"bbox":[72,138,1100,32]}
+{"kind":"shape","id":"sh/w7udgb21","slide":4,"bbox":[72,205,520,350]}
+{"kind":"textbox","id":"sh/x83upg3m","slide":4,"text":"感知","textPreview":"感知","textChars":2,"textLines":1,"bbox":[110,246,120,30]}
+{"kind":"textbox","id":"sh/a5sve1kv","slide":4,"text":"语音 VAD + 像素差值关键帧","textPreview":"语音 VAD + 像素差值关键帧","textChars":16,"textLines":1,"bbox":[110,284,390,26]}
+{"kind":"shape","id":"sh/b6lcn6lg","slide":4,"bbox":[110,330,410,0]}
+{"kind":"textbox","id":"sh/kvudkv2x","slide":4,"text":"编排","textPreview":"编排","textChars":2,"textLines":1,"bbox":[110,360,120,30]}
+{"kind":"textbox","id":"sh/lw3et03i","slide":4,"text":"STT – LLM – TTS 七节点流式链路","textPreview":"STT – LLM – TTS 七节点流式链路","textChars":23,"textLines":1,"bbox":[110,398,390,26]}
+{"kind":"shape","id":"sh/pknyl8bq","slide":4,"bbox":[110,444,410,0]}
+{"kind":"textbox","id":"sh/ozexs3a5","slide":4,"text":"交互","textPreview":"交互","textChars":2,"textLines":1,"bbox":[110,474,120,30]}
+{"kind":"textbox","id":"sh/3ylgjitk","slide":4,"text":"多轮会话 / Prompt 情景 / 断线恢复","textPreview":"多轮会话 / Prompt 情景 / 断线恢复","textChars":23,"textLines":1,"bbox":[110,512,390,26]}
+{"kind":"textbox","id":"sh/2xcfqdsf","slide":4,"text":"关键结果","textPreview":"关键结果","textChars":4,"textLines":1,"bbox":[675,218,220,28]}
+{"kind":"textbox","id":"sh/donypsb2","slide":4,"text":"80%","textPreview":"80%","textChars":3,"textLines":1,"bbox":[675,286,150,50]}
+{"kind":"textbox","id":"sh/cnehwnah","slide":4,"text":"静默期上传量下降","textPreview":"静默期上传量下降","textChars":8,"textLines":1,"bbox":[675,344,150,52]}
+{"kind":"textbox","id":"sh/bm5gnitw","slide":4,"text":"0.5 s","textPreview":"0.5 s","textChars":5,"textLines":1,"bbox":[845,286,150,50]}
+{"kind":"textbox","id":"sh/qlwzudsb","slide":4,"text":"端到端感知延迟","textPreview":"端到端感知延迟","textChars":7,"textLines":1,"bbox":[845,344,150,52]}
+{"kind":"textbox","id":"sh/ts3ydobi","slide":4,"text":"30 s","textPreview":"30 s","textChars":4,"textLines":1,"bbox":[1015,286,150,50]}
+{"kind":"textbox","id":"sh/sruxkjax","slide":4,"text":"断线恢复会话","textPreview":"断线恢复会话","textChars":6,"textLines":1,"bbox":[1015,344,150,52]}
+{"kind":"shape","id":"sh/4nypgnm5","slide":4,"bbox":[675,435,430,100]}
+{"kind":"textbox","id":"sh/5o7qpsnq","slide":4,"text":"项目影响","textPreview":"项目影响","textChars":4,"textLines":1,"bbox":[700,455,120,24]}
+{"kind":"textbox","id":"sh/ilg7ed4z","slide":4,"text":"纳入实验室优质项目代码库；入选工信部电子第五研究所试点方案","textPreview":"纳入实验室优质项目代码库；入选工信部电子第五研究所试点方案","textChars":29,"textLines":1,"bbox":[700,488,360,40]}
+{"kind":"textbox","id":"sh/jmp8ni5k","slide":4,"text":"陈飞扬  ·  武汉科技大学  ·  2026","textPreview":"陈飞扬  ·  武汉科技大学  ·  2026","textChars":23,"textLines":1,"bbox":[72,684,600,18]}
+{"kind":"textbox","id":"sh/sbipk7m1","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1180,680,28,24]}
+{"kind":"notes","id":"nt/2z0h10","slide":4,"text":""}
+{"kind":"slide","id":"sl/214b34","slide":5,"title":"04  科研潜力","textShapes":19}
+{"kind":"textbox","id":"sh/iloby14z","slide":5,"text":"04  科研潜力","textPreview":"04  科研潜力","textChars":8,"textLines":1,"bbox":[72,42,500,20]}
+{"kind":"textbox","id":"sh/5ofatgnq","slide":5,"text":"把“漏检”拆成可验证的问题","textPreview":"把“漏检”拆成可验证的问题","textChars":13,"textLines":1,"bbox":[72,75,1120,54]}
+{"kind":"textbox","id":"sh/kn6t0bm5","slide":5,"text":"热轧带钢缺陷检测｜NEU-DET · YOLOv8 + CBAM","textPreview":"热轧带钢缺陷检测｜NEU-DET · YOLOv8 + CBAM","textChars":32,"textLines":1,"bbox":[72,138,1100,32]}
+{"kind":"textbox","id":"sh/vydsnm5o","slide":5,"text":"误差分析","textPreview":"误差分析","textChars":4,"textLines":1,"bbox":[88,228,180,28]}
+{"kind":"textbox","id":"sh/ax4bu143","slide":5,"text":"裂纹类 mAP@0.5 仅 52.2%","textPreview":"裂纹类 mAP@0.5 仅 52.2%","textChars":19,"textLines":1,"bbox":[88,268,300,30]}
+{"kind":"shape","id":"sh/xkfapwne","slide":5,"bbox":[390,286,130,0]}
+{"kind":"textbox","id":"sh/wz6twrm9","slide":5,"text":"方法改进","textPreview":"方法改进","textChars":4,"textLines":1,"bbox":[548,228,180,28]}
+{"kind":"textbox","id":"sh/nudszm5c","slide":5,"text":"在 Neck 端引入通道-空间双重注意力","textPreview":"在 Neck 端引入通道-空间双重注意力","textChars":20,"textLines":1,"bbox":[548,268,360,30]}
+{"kind":"shape","id":"sh/mt4bqhor","slide":5,"bbox":[930,286,130,0]}
+{"kind":"textbox","id":"sh/w32pk7mp","slide":5,"text":"实验验证","textPreview":"实验验证","textChars":4,"textLines":1,"bbox":[1080,228,130,28]}
+{"kind":"textbox","id":"sh/x4v6dc3a","slide":5,"text":"同数据、同超参消融","textPreview":"同数据、同超参消融","textChars":9,"textLines":1,"bbox":[1080,268,160,50]}
+{"kind":"shape","id":"sh/a1k7ix4z","slide":5,"bbox":[110,410,960,114]}
+{"kind":"textbox","id":"sh/v2tob2l4","slide":5,"text":"77.5%","textPreview":"77.5%","textChars":5,"textLines":1,"bbox":[160,440,160,48]}
+{"kind":"textbox","id":"sh/8z2pgnmt","slide":5,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[360,440,70,48]}
+{"kind":"textbox","id":"sh/90b69s3e","slide":5,"text":"80%–81%","textPreview":"80%–81%","textChars":7,"textLines":1,"bbox":[470,440,190,48]}
+{"kind":"textbox","id":"sh/mxk7ex4n","slide":5,"text":"整体 mAP@0.5","textPreview":"整体 mAP@0.5","textChars":10,"textLines":1,"bbox":[690,440,160,28]}
+{"kind":"textbox","id":"sh/nyto7il8","slide":5,"text":"3 ms / 张","textPreview":"3 ms / 张","textChars":8,"textLines":1,"bbox":[890,440,140,38]}
+{"kind":"textbox","id":"sh/sv6psr2x","slide":5,"text":"满足产线实时质检","textPreview":"满足产线实时质检","textChars":8,"textLines":1,"bbox":[850,482,220,24]}
+{"kind":"shape","id":"sh/twfqlw3i","slide":5,"bbox":[110,565,190,32]}
+{"kind":"textbox","id":"sh/1sb65wvm","slide":5,"text":"校级银奖 · 推荐省赛","textPreview":"校级银奖 · 推荐省赛","textChars":11,"textLines":1,"bbox":[110,571,190,20]}
+{"kind":"shape","id":"sh/0r2pcru1","slide":5,"bbox":[320,565,280,32]}
+{"kind":"textbox","id":"sh/fqto3mdg","slide":5,"text":"技术被企业采用 · 专利申请中","textPreview":"技术被企业采用 · 专利申请中","textChars":15,"textLines":1,"bbox":[320,571,280,20]}
+{"kind":"textbox","id":"sh/ep07ahcb","slide":5,"text":"陈飞扬  ·  武汉科技大学  ·  2026","textPreview":"陈飞扬  ·  武汉科技大学  ·  2026","textChars":23,"textLines":1,"bbox":[72,684,600,18]}
+{"kind":"textbox","id":"sh/dor61cvq","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1180,680,28,24]}
+{"kind":"notes","id":"nt/214b34","slide":5,"text":""}
+{"kind":"slide","id":"sl/o0ae9a","slide":6,"title":"05  未来方向","textShapes":14}
+{"kind":"textbox","id":"sh/7m10jehg","slide":6,"text":"05  未来方向","textPreview":"05  未来方向","textChars":8,"textLines":1,"bbox":[72,42,500,20]}
+{"kind":"textbox","id":"sh/8na1sjy1","slide":6,"text":"研究生阶段：从“做出来”走向“讲清楚”","textPreview":"研究生阶段：从“做出来”走向“讲清楚”","textChars":19,"textLines":1,"bbox":[72,75,1120,54]}
+{"kind":"textbox","id":"sh/9ojilozm","slide":6,"text":"希望在导师指导下，持续深耕大模型、Agent 与多模态学习","textPreview":"希望在导师指导下，持续深耕大模型、Agent 与多模态学习","textChars":29,"textLines":1,"bbox":[72,138,1100,32]}
+{"kind":"textbox","id":"sh/upsjutg7","slide":6,"text":"已有优势","textPreview":"已有优势","textChars":4,"textLines":1,"bbox":[90,230,190,28]}
+{"kind":"textbox","id":"sh/vq10nyhs","slide":6,"text":"代码实现｜工程交付｜跨场景学习","textPreview":"代码实现｜工程交付｜跨场景学习","textChars":15,"textLines":1,"bbox":[90,272,440,34]}
+{"kind":"shape","id":"sh/wru1w3yd","slide":6,"bbox":[90,340,460,0]}
+{"kind":"textbox","id":"sh/hc3ip8zy","slide":6,"text":"需要补足","textPreview":"需要补足","textChars":4,"textLines":1,"bbox":[90,375,190,28]}
+{"kind":"textbox","id":"sh/idcjydg3","slide":6,"text":"理论深度｜文献阅读｜实验设计｜学术写作","textPreview":"理论深度｜文献阅读｜实验设计｜学术写作","textChars":19,"textLines":1,"bbox":[90,417,480,34]}
+{"kind":"shape","id":"sh/jel0riho","slide":6,"bbox":[690,210,440,270]}
+{"kind":"textbox","id":"sh/z6l0nex4","slide":6,"text":"拟聚焦问题","textPreview":"拟聚焦问题","textChars":5,"textLines":1,"bbox":[730,244,200,28]}
+{"kind":"textbox","id":"sh/e5cje9gj","slide":6,"text":"• 大模型推理与评测\n• 智能体工作流与工具调用\n• 多模态交互与垂直领域应用","textPreview":"• 大模型推理与评测 | • 智能体工作流与工具调用 | • 多模态交互与垂直领域应用","textChars":39,"textLines":3,"bbox":[730,300,340,130]}
+{"kind":"textbox","id":"sh/1s3ipofa","slide":6,"text":"期待在课题组中贡献：数据处理、模型实验、系统原型开发","textPreview":"期待在课题组中贡献：数据处理、模型实验、系统原型开发","textChars":26,"textLines":1,"bbox":[90,570,930,28]}
+{"kind":"textbox","id":"sh/07u1gjyp","slide":6,"text":"谢谢老师，期待交流","textPreview":"谢谢老师，期待交流","textChars":9,"textLines":1,"bbox":[90,620,600,44]}
+{"kind":"textbox","id":"sh/r210jex8","slide":6,"text":"陈飞扬","textPreview":"陈飞扬","textChars":3,"textLines":1,"bbox":[1070,625,120,30]}
+{"kind":"textbox","id":"sh/q1sza9gn","slide":6,"text":"陈飞扬  ·  武汉科技大学  ·  2026","textPreview":"陈飞扬  ·  武汉科技大学  ·  2026","textChars":23,"textLines":1,"bbox":[72,684,600,18]}
+{"kind":"textbox","id":"sh/d4jilofy","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1180,680,28,24]}
+{"kind":"notes","id":"nt/o0ae9a","slide":6,"text":""}
