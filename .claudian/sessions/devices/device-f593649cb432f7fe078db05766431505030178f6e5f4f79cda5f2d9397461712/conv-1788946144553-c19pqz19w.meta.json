@@ -4,7 +4,7 @@
   "title": "拆分英语面试背诵稿并简化用词",
   "titleGenerationStatus": "success",
   "createdAt": 1788946144570,
-  "lastActivityAt": 1789022953117,
+  "lastActivityAt": 1789277106140,
   "sessionId": "01a0857f-deb4-7313-a4e3-9927008151d0",
   "selectedModel": "gpt-5.5",
   "providerState": {
@@ -16,13 +16,13 @@
   },
   "linkedContentPath": "英语准备/英语面试背诵稿.md",
   "usage": {
-    "inputTokens": 14948,
+    "inputTokens": 35230,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 13696,
+    "cacheReadInputTokens": 34048,
     "contextWindow": 258400,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 14948,
-    "percentage": 6,
+    "contextTokens": 35230,
+    "percentage": 14,
     "model": "gpt-5.5"
   }
 }

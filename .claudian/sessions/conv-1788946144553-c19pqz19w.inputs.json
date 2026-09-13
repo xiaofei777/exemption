@@ -152,6 +152,20 @@
       "contentDigest": "65f454414e2fda4840658901f9399831363ad75712ba36b930b5ad393f72f7b7",
       "providerUserMessageId": "01a08a12-fb44-7e03-b7c8-b3fd7e0f423d",
       "providerAssistantMessageId": "msg_09df63c6b951af5d016aa252e5681c87d1af73dec88311e52f"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789277045319-aiqd2u1",
+      "userTurnOrdinal": 11,
+      "state": "accepted",
+      "localMessageId": "msg-1789277045311-acy9yl0",
+      "timestamp": 1789277045311,
+      "rawDisplayText": "给我写个个人介绍，要求突出我的三段实习经历，不用修改文档，我先看看写的咋样",
+      "canonicalText": "给我写个个人介绍，要求突出我的三段实习经历，不用修改文档，我先看看写的咋样",
+      "images": [],
+      "contentDigest": "b45abcd67e2a62fad19b7b499823de8c172b8c7e3847fc423729d1b35e384ed0",
+      "providerUserMessageId": "01a09939-031b-75a0-9e07-eba4c5a3308c",
+      "providerAssistantMessageId": "msg_09df63c6b951af5d016aa633a289b087d1b5bacb0016c35c6b"
     }
   ]
 }
