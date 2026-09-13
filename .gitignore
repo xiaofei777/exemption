@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# 编辑器与笔记工具配置
+.vscode/
+.obsidian/
+
+# AI 工具会话记录
+.claude/
+.claudian/
+.workbuddy/
+
+# 临时目录
+tmp_doc/
+output/
